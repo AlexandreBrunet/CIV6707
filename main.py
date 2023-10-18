@@ -7,5 +7,5 @@ tag = "crossing"
 query = overpass_query.api_query(polygone, tag)
 geojson_result = query_to_geojson.convert_query_to_geojson(query)
 
-with open("data.geojson", "w") as outfile:
+with open(f"./data/{tag}.geojson", "w") as outfile:
     outfile.write(geojson_result)
