@@ -2,7 +2,7 @@ import overpy
 
 api = overpy.Overpass()
 
-def api_query(polygone, tag):
+def node_query(polygone, tag):
     query = f"""
     node[{tag}]
         (poly:"{polygone}");
