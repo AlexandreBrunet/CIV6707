@@ -14,7 +14,7 @@ def way_query(polygone: str, key: str, value: str):
     query = f"""
     way[{key}={value}]
         (poly:"{polygone}");
-    out ids geom;
+    out geom;
     """
     return query
 
