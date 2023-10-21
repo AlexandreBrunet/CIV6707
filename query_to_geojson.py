@@ -1,7 +1,7 @@
 import overpy
 import geojson
 
-def convert_query_to_geojson(query):
+def convert_nodes_to_geojson(query):
     api = overpy.Overpass()
     result = api.query(query)
 
@@ -22,16 +22,24 @@ def convert_query_to_geojson(query):
     return geojson_string
 
 
-def convert_way_to_geojson(query):
+def convert_ways_to_geojson(query):
+    
     api = overpy.Overpass()
     result = api.query(query)
 
     features = []
-    for way in result.way:
-        lat = float(way.lat) 
-        lon = float(way.lon)
+
+    # Iterate over ways in the result
+    for way in result.ways:
+        coords = []
+
+        for node in way.nodes:
+            lat = float(node.lat)
+            lon = float(node.lon)
+            coords.append((lon, lat))
+
         feature = geojson.Feature(
-            geometry=geojson.Point((lon, lat)),
+            geometry=geojson.LineString(coords),
             properties={"id": way.id}
         )
         features.append(feature)
