@@ -15,13 +15,13 @@ node_tags = ["crossing=uncontrolled",
                  "natural=tree",]
 
 for tag in node_tags:
-    query = OverpassQuery.node_query(polygone, tag)
-    nodes = OverpassQuery.counter(query)
-    if nodes == 0:
+    node_query = OverpassQuery.node_query(polygone, tag)
+    num_nodes = OverpassQuery.node_counter(node_query)
+    if num_nodes == 0:
         print(f"No nodes found for {tag}")
     else:
-        print(f"Number of {tag}: {nodes}")
-        geojson_result = QueryToGeojson.convert_nodes_to_geojson(query, api)
+        print(f"Number of {tag}: {num_nodes}")
+        geojson_result = QueryToGeojson.convert_nodes_to_geojson(node_query, api)
         QueryToGeojson.write_geojson(geojson_result, tag)
 
 
@@ -30,5 +30,10 @@ way_tags = ["highway=residential"]
 for way in way_tags:
     key, value = way.split('=')
     way_query = OverpassQuery.way_query(polygone, key, value)
+    num_ways = OverpassQuery.way_counter(way_query)
+    if num_ways == 0:
+        print(f"No nodes found for {key}={value}")
+    else:
+        print(f"Number of {key}={value}: {num_ways}")
     geojson_result = QueryToGeojson.convert_ways_to_geojson(way_query, api)
     QueryToGeojson.write_geojson(geojson_result, way)

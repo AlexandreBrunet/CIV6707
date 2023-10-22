@@ -18,7 +18,12 @@ def way_query(polygone: str, key: str, value: str):
     """
     return query
 
-def counter(query):
+def node_counter(query):
     counter = api.query(query)
     nodes = len(counter.nodes)
     return nodes
+
+def way_counter(query):
+    counter = api.query(query)
+    ways = len(counter.ways)
+    return ways
