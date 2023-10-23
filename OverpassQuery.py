@@ -11,17 +11,3 @@ query2 = f"""
         (poly:"{polygone}");
     out;
     """
-
-
-
-
-
-def node_counter(api, query):
-    counter = api.query(query)
-    nodes = len(counter.nodes)
-    return nodes
-
-def way_counter(api, query):
-    counter = api.query(query)
-    ways = len(counter.ways)
-    return ways
