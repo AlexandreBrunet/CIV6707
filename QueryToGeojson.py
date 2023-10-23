@@ -1,5 +1,4 @@
 import geojson
-from decimal import Decimal
 
 def convert_nodes_to_geojson(query, api):
 
