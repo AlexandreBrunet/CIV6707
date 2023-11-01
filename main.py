@@ -11,7 +11,7 @@ api = overpy.Overpass()
 
 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
-queries = [query1]
+queries = [query1, query2]
 
 
 for index, query in enumerate(queries):
