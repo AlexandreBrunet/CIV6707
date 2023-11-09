@@ -41,4 +41,9 @@ queries = {
         (poly:"{polygone}");
         out geom;
     """,
+     "query8": f"""
+        node[highway=bus_stop]
+        (poly:"{polygone}");
+        out;
+    """,
 }

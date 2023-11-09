@@ -23,6 +23,3 @@ for query_name, query_content in queries.items():
     else:
         geojson = convert_to_geojson(query_content, api)
         write_geojson(geojson, output_file_name)
-
-    geo_analysis = GeoAnalysis(folder)
-    geo_analysis.process_geojson_files()

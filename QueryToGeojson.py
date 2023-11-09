@@ -14,8 +14,8 @@ def convert_to_geojson(query, api):
         if isinstance(element, overpy.Way):
             geometry_type = 'LineString'
             coordinates = [[float(node.lat), float(node.lon)] for node in element.get_nodes(resolve_missing=True)]
-        else:
-            geometry_type = element.geometry().type
+        elif isinstance(element, overpy.Node):
+            geometry_type = 'Point'
             coordinates = [float(element.lat), float(element.lon)]
 
         if geometry_type == 'Point':
