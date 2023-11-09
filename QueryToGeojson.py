@@ -1,51 +1,38 @@
 import geojson
+import overpy
 
-def convert_nodes_to_geojson(query, api):
 
+def convert_to_geojson(query, api):
     result = api.query(query)
-
-    features = []
-    for node in result.nodes:
-        lat = float(node.lat) 
-        lon = float(node.lon)
-        feature = geojson.Feature(
-            geometry=geojson.Point((lon, lat)),
-            properties={"id": node.id}
-        )
-        features.append(feature)
-
-    feature_collection = geojson.FeatureCollection(features)
-
-    geojson_string = geojson.dumps(feature_collection, sort_keys=True)
-
-    return geojson_string
-
-
-def convert_lines_to_geojson(query, api):
-
-    result = api.query(query)
-    ways = result.get_ways()
 
     geojson_data = {
         "type": "FeatureCollection",
         "features": []
     }
 
-    for way in ways:
-        geometry = {
-            "type": "LineString",
-            "coordinates": []
-        }
-        for node in way.get_nodes(resolve_missing=True):
-            lat, lon = float(node.lat), float(node.lon)
-            geometry["coordinates"].append([lon, lat])
+    for element in result.nodes + result.ways + result.relations + result.areas:
+        if isinstance(element, overpy.Way):
+            geometry_type = 'LineString'
+            coordinates = [[float(node.lat), float(node.lon)] for node in element.get_nodes(resolve_missing=True)]
+        else:
+            geometry_type = element.geometry().type
+            coordinates = [float(element.lat), float(element.lon)]
 
-        feature = {
-            "type": "Feature",
-            "properties": {},
-            "geometry": geometry
-        }
+        if geometry_type == 'Point':
+            geometry = geojson.Point(coordinates)
+        elif geometry_type == 'LineString':
+            geometry = geojson.LineString(coordinates)
+        elif geometry_type == 'Polygon':
+            coordinates = [[[float(node.lat), float(node.lon)] for node in element.nodes]]
+            geometry = geojson.Polygon(coordinates)
+        else:
+            # Handle other geometry types if needed
+            continue
 
+        feature = geojson.Feature(
+            geometry=geometry,
+            properties={"@id": element.id}
+        )
         geojson_data["features"].append(feature)
 
     geojson_string = geojson.dumps(geojson_data, indent=2)

@@ -42,27 +42,3 @@ queries = {
         out geom;
     """,
 }
-
-#######################################
-## Analyse du reseau mobilite active ##
-#######################################
-
-# query6 = f"""
-#     way[highway=cycleway]
-#         (poly:"{polygone}");
-#     way[bicycle=designated]
-#         (poly:"{polygone}");
-#     out geom;
-#     """
-
-# query7 = f"""
-#     way[highway=footway]
-#         (poly:"{polygone}");
-#     out geom;
-#     """
-
-# query8 = f"""
-#     way[footway=sidewalk]
-#         (poly:"{polygone}");
-#     out geom;
-#     """
