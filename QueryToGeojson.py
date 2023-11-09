@@ -21,7 +21,7 @@ def convert_nodes_to_geojson(query, api):
     return geojson_string
 
 
-def convert_ways_to_geojson(query, api):
+def convert_lines_to_geojson(query, api):
 
     result = api.query(query)
     ways = result.get_ways()
@@ -29,7 +29,7 @@ def convert_ways_to_geojson(query, api):
     geojson_data = {
         "type": "FeatureCollection",
         "features": []
-    }   
+    }
 
     for way in ways:
         geometry = {

@@ -1,36 +1,43 @@
 import overpy
-from querytogeojson import convert_ways_to_geojson
+from querytogeojson import convert_lines_to_geojson
 from querytogeojson import convert_nodes_to_geojson
 from querytogeojson import write_geojson
-from overpassquery import *
-import datetime
+from overpassquery import queries
 import re
+import os
 
 
 api = overpy.Overpass()
 
-current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+for query_name, query_content in queries.items():
 
-queries = [query1, query2]
-
-
-for index, query in enumerate(queries):
-
-    if query.strip().endswith("out geom;"):
+    if query_content.strip().endswith("out geom;"):
 
         pattern = r'way\[[^\]]+\]'
-        output_filename = re.findall(pattern, query)[0]
+        output_filename = re.findall(pattern, query_content)[0]
 
-        geojson = convert_ways_to_geojson(query, api)
-        write_geojson(geojson, output_filename)
+        output_geojson = output_filename + ".geojson"
+        file_path = os.path.join("./data", output_geojson)
 
-    elif query.strip().endswith("out;"):
+        if os.path.exists(file_path):
+            print(f"File {output_geojson} already exists")
+        else:
+            geojson = convert_lines_to_geojson(query_content, api)
+            write_geojson(geojson, output_filename)
+
+    elif query_content.strip().endswith("out;"):
 
         pattern = r'node\[[^\]]+\]'
-        output_filename= re.findall(pattern, query)[0]
+        output_filename= re.findall(pattern, query_content)[0]
+        
+        output_geojson = output_filename + ".geojson"
+        file_path = os.path.join("./data", output_geojson)
 
-        geojson = convert_nodes_to_geojson(query, api)
-        write_geojson(geojson, output_filename)
+        if os.path.exists(file_path):
+            print(f"File {output_geojson} already exists")
+        else:
+            geojson = convert_lines_to_geojson(query_content, api)
+            write_geojson(geojson, output_filename)
     
     else:
         print("Query can't be processed")
