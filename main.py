@@ -3,7 +3,6 @@ from querytogeojson import convert_to_geojson
 from querytogeojson import write_geojson
 from overpassquery import queries
 import os
-import subprocess
 from analysis import GeoAnalysis
 
 

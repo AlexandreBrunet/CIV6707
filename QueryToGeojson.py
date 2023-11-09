@@ -1,6 +1,45 @@
 import geojson
 import overpy
 
+def write_geojson(geojson, output_filename):
+     with open(f"./data/{output_filename}.geojson", "w") as output_file:
+         output_file.write(geojson)
+
+
+def convert_element_to_geojson(element):
+    if isinstance(element, overpy.Way):
+        geometry_type = 'LineString'
+        coordinates = [[float(node.lon), float(node.lat)] for node in element.get_nodes(resolve_missing=True)]
+    elif isinstance(element, overpy.Node):
+        geometry_type = 'Point'
+        coordinates = [float(element.lon), float(element.lat)]
+    elif isinstance(element, overpy.Relation) and element.tags.get('type') == 'multipolygon':
+        geometry_type = 'Polygon'
+        coordinates = [
+            [
+                [float(node.lon), float(node.lat)] for node in element.nodes
+            ]
+        ]
+    else:
+        # Ajouter d'autres geometry type si besoin
+        return None
+
+    if geometry_type == 'Point':
+        geometry = geojson.Point(coordinates)
+    elif geometry_type == 'LineString':
+        geometry = geojson.LineString(coordinates)
+    elif geometry_type == 'Polygon':
+        geometry = geojson.Polygon(coordinates)
+    else:
+        return None
+
+    feature = geojson.Feature(
+        geometry=geometry,
+        properties={"@id": element.id}
+    )
+
+    return feature
+
 
 def convert_to_geojson(query, api):
     result = api.query(query)
@@ -11,38 +50,13 @@ def convert_to_geojson(query, api):
     }
 
     for element in result.nodes + result.ways + result.relations + result.areas:
-        if isinstance(element, overpy.Way):
-            geometry_type = 'LineString'
-            coordinates = [[float(node.lat), float(node.lon)] for node in element.get_nodes(resolve_missing=True)]
-        elif isinstance(element, overpy.Node):
-            geometry_type = 'Point'
-            coordinates = [float(element.lat), float(element.lon)]
-
-        if geometry_type == 'Point':
-            geometry = geojson.Point(coordinates)
-        elif geometry_type == 'LineString':
-            geometry = geojson.LineString(coordinates)
-        elif geometry_type == 'Polygon':
-            coordinates = [[[float(node.lat), float(node.lon)] for node in element.nodes]]
-            geometry = geojson.Polygon(coordinates)
-        else:
-            # Handle other geometry types if needed
-            continue
-
-        feature = geojson.Feature(
-            geometry=geometry,
-            properties={"@id": element.id}
-        )
-        geojson_data["features"].append(feature)
+        feature = convert_element_to_geojson(element)
+        if feature:
+            geojson_data["features"].append(feature)
 
     geojson_string = geojson.dumps(geojson_data, indent=2)
 
     return geojson_string
-
-
-def write_geojson(geojson, output_filename):
-     with open(f"./data/{output_filename}.geojson", "w") as output_file:
-         output_file.write(geojson)
 
 
 
