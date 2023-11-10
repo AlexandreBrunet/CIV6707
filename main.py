@@ -20,5 +20,6 @@ for query_name, query_content in queries.items():
         print(f"The file {file} exists.")
 
     else:
+        print(f"writing file: {query_name}, {file}")
         geojson = convert_to_geojson(query_content, api)
         write_geojson(geojson, output_file_name)

@@ -35,14 +35,101 @@ queries = {
         (poly:"{polygone}");
         out geom;
     """,
-    "query7": f"""
-        way[highway=footway]
-        (poly:"{polygone}");
-        out geom;
-    """,
-     "query8": f"""
+    # "query7": f"""
+    #     way[highway=footway]
+    #     (poly:"{polygone}");
+    #     way[footway=sidewalk]
+    #     (poly:"{polygone}");
+    #     way[highway=path][foot=designated]
+    #     (poly:"{polygone}");
+    #     way[highway][sidewalk:both=yes]
+    #     (poly:"{polygone}");
+    #     way[highway][sidewalk:right=yes]
+    #     (poly:"{polygone}");
+    #     way[highway][sidewalk:left=yes]
+    #     (poly:"{polygone}");
+    #     out geom;
+    # """,
+    "query8": f"""
         node[highway=bus_stop]
         (poly:"{polygone}");
         out;
     """,
+    "query9": f"""
+        relation[type=route][route=bus]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query10": f"""
+        node[amenity=parking]
+        (poly:"{polygone}");
+        area[amenity=parking]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query11": f"""
+        node[amenity~"^college|school|university|kindergarten$"]
+        (poly:"{polygone}");
+        area[amenity~"^college|school|university|kindergarten$"]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query12": f"""
+        node[amenity=fuel]
+        (poly:"{polygone}");
+        area[amenity=fuel]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query13": f"""
+        node[amenity~"^clinic|dentist|doctors|hospital$"]
+        (poly:"{polygone}");
+        area[amenity~"^clinic|dentist|doctors|hospital$"]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query14": f"""
+        node[amenity=nursing_home]
+        (poly:"{polygone}");
+        area[amenity=nursing_home]
+        (poly:"{polygone}");
+        node[amenity=social_facility][social_facility=nursing_home]
+        (poly:"{polygone}");
+        area[amenity=social_facility][social_facility=nursing_home]
+        (poly:"{polygone}");
+    out geom;
+    """,
+    "query15": f"""
+        node[amenity~"^arts_centre|cinema|community_centre|events_venue|music_venue|social_centre|theatre"]
+        (poly:"{polygone}");
+        area[amenity~"^arts_centre|cinema|community_centre|events_venue|music_venue|social_centre|theatre"]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query16": f"""
+        area[landuse~"^commercial|retail$"]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query17": f"""
+        area[landuse=industrial]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query18": f"""
+        area[landuse=residential]
+        (poly:"{polygone}");
+        out geom;
+    """,
+    "query19": f"""
+        area[leisure=park]
+        (poly:"{polygone}");
+        out geom;
+    """
 }
+
+# TODO : Nombre de buildings résidentiels et nombre de ménages?
+# TODO : Part de routes avec un trottoir
+# TODO : Trouver d'autres idées d'analyses à faire
+# Certains footway sont en area, à ajouter?
+# Valider ajouts query7
