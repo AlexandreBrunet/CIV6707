@@ -1,21 +1,20 @@
 
 ### Projet Overpass Interaction with OpenStreetMap
-Présentation
+## Présentation
 Projet réalisé dans le cadre d'un cours visant à interagir avec Overpass Turbo pour effectuer des requêtes sur OpenStreetMap. Le code est implémenté en Python en utilisant la bibliothèque overpy.
 
-Fonctionnement
+## Fonctionnement
 Pour utiliser le projet, suivez ces étapes simples :
 
 Ajoutez les requêtes souhaitées dans le fichier overpassquery.py.
 
 Exécutez le fichier main.py avec la commande suivante :
-
-bash
-Copy code
+```console
 python3 main.py
+```
 Une fois le code exécuté, les résultats des requêtes seront sauvegardés dans le dossier data au format GeoJSON.
 
-TODO
+## TODO
  Gérer différents types de géométries :
  Point 
  LineString
