@@ -16,9 +16,9 @@ Une fois le code exécuté, les résultats des requêtes seront sauvegardés dan
 
 ## TODO
  Gérer différents types de géométries :
- Point 
- LineString
- Polygon
- MultiPoint
- MultiLineString
- MultiPolygon
+ * Point 
+ * LineString
+ * Polygon
+ * MultiPoint
+ * MultiLineString
+ * MultiPolygon
