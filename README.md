@@ -6,7 +6,7 @@ Projet réalisé dans le cadre d'un cours visant à interagir avec Overpass Turb
 ## Fonctionnement
 Pour utiliser le projet, suivez ces étapes simples :
 
-Ajoutez les requêtes souhaitées dans le fichier overpassquery.py.
+Ajoutez les requêtes souhaitées dans le fichier overpassquery.py
 
 Exécutez le fichier main.py avec la commande suivante :
 ```console
