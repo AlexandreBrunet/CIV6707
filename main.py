@@ -4,6 +4,8 @@ from querytogeojson import write_geojson
 from overpassquery import queries
 import os
 from analysis import GeoAnalysis
+from shapely.geometry import shape
+import json
 
 
 api = overpy.Overpass()
