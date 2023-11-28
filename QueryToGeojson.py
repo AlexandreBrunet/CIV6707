@@ -23,6 +23,9 @@ def convert_element_to_geojson(element):
     else:
         # Ajouter d'autres geometry type si besoin
         return None
+    
+    properties = {"@id": element.id}
+    properties.update(element.tags)
 
     if geometry_type == 'Point':
         geometry = geojson.Point(coordinates)
@@ -35,7 +38,7 @@ def convert_element_to_geojson(element):
 
     feature = geojson.Feature(
         geometry=geometry,
-        properties={"@id": element.id}
+        properties=properties
     )
 
     return feature

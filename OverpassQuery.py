@@ -125,6 +125,16 @@ queries = {
         area[leisure=park]
         (poly:"{polygone}");
         out geom;
+    """,
+    "query20": f"""
+        way[building=apartments]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query21": f"""
+        way[building=apartments]
+            (poly:"{polygone}");
+        out geom;
     """
 }
 
