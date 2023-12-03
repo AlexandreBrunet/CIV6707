@@ -77,7 +77,8 @@
         ]
       },
       "properties": {
-        "@id": 1209703899
+        "@id": 1209703899,
+        "landuse": "industrial"
       }
     }
   ]

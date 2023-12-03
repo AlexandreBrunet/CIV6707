@@ -17,7 +17,22 @@
         ]
       },
       "properties": {
-        "@id": 37625592
+        "@id": 37625592,
+        "bicycle": "no",
+        "bridge": "yes",
+        "change:lanes": "yes|yes|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -36,7 +51,21 @@
         ]
       },
       "properties": {
-        "@id": 40280153
+        "@id": 40280153,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "embankment": "yes",
+        "foot": "use_sidepath",
+        "highway": "trunk",
+        "lanes": "3",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -55,7 +84,22 @@
         ]
       },
       "properties": {
-        "@id": 40280154
+        "@id": 40280154,
+        "bicycle": "no",
+        "change:lanes": "yes|yes|no",
+        "cycleway:both": "no",
+        "embankment": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -74,7 +118,20 @@
         ]
       },
       "properties": {
-        "@id": 1109125425
+        "@id": 1109125425,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "embankment": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -93,7 +150,24 @@
         ]
       },
       "properties": {
-        "@id": 1109125426
+        "@id": 1109125426,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination": "Boulevard Taschereau;La Prairie",
+        "destination:ref": "134 Ouest",
+        "embankment": "yes",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "maxspeed:advisory": "70",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -112,7 +186,20 @@
         ]
       },
       "properties": {
-        "@id": 1208871759
+        "@id": 1208871759,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -147,7 +234,22 @@
         ]
       },
       "properties": {
-        "@id": 1208871761
+        "@id": 1208871761,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "embankment": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     }
   ]

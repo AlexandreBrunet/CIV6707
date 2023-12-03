@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16336186,
+        "amenity": "parking",
+        "capacity": "381",
+        "capacity:charging": "0",
+        "capacity:disabled": "7",
+        "fee": "yes",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16338702,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "99",
+        "capacity:charging": "0",
+        "capacity:disabled": "2",
+        "fee": "yes",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16340020,
+        "access": "private",
+        "amenity": "parking",
+        "bus": "designated",
+        "capacity": "41",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "operator": "RTL",
+        "parking": "surface",
+        "psv": "designated",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16342096,
+        "amenity": "parking",
+        "capacity": "321",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16342149,
+        "amenity": "parking",
+        "capacity": "84",
+        "capacity:charging": "0",
+        "capacity:disabled": "4",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16347013,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "196",
+        "capacity:charging": "0",
+        "capacity:disabled": "5",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16347161,
+        "access": "private;customers",
+        "amenity": "parking",
+        "capacity": "255",
+        "capacity:charging": "0",
+        "capacity:disabled": "3",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16355220,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "269",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16357929,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "68",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16357930,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "90",
+        "capacity:charging": "0",
+        "capacity:disabled": "4",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16358087,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "20",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16362846,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "308",
+        "capacity:charging": "6",
+        "capacity:disabled": "3",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16363905,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "197",
+        "capacity:charging": "2",
+        "capacity:disabled": "5",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16363918,
+        "amenity": "parking",
+        "capacity": "717",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "fee": "yes",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16364250,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "16",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16369075,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "1609",
+        "capacity:charging": "2",
+        "capacity:disabled": "18",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16370518,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "51",
+        "capacity:charging": "0",
+        "capacity:disabled": "2",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16378413,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "48",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "unpaved",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16380730,
+        "amenity": "parking",
+        "capacity": "10",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "properties": {
+        "@id": 16380831,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "434",
+        "capacity:charging": "0",
+        "capacity:disabled": "8",
+        "parking": "surface",
+        "surface": "asphalt",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

@@ -17,7 +17,18 @@
         ]
       },
       "properties": {
-        "@id": 25875017
+        "@id": 25875017,
+        "change:lanes": "no|yes",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -36,7 +47,15 @@
         ]
       },
       "properties": {
-        "@id": 25875776
+        "@id": 25875776,
+        "destination": "Boulevard La Fayette Nord",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -55,7 +74,14 @@
         ]
       },
       "properties": {
-        "@id": 27185287
+        "@id": 27185287,
+        "destination": "Avenue Notre-Dame",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -74,7 +100,19 @@
         ]
       },
       "properties": {
-        "@id": 39279649
+        "@id": 39279649,
+        "NHS": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "surface": "asphalt"
       }
     },
     {
@@ -97,7 +135,18 @@
         ]
       },
       "properties": {
-        "@id": 39282832
+        "@id": 39282832,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -116,7 +165,20 @@
         ]
       },
       "properties": {
-        "@id": 40010256
+        "@id": 40010256,
+        "NHS": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -135,7 +197,20 @@
         ]
       },
       "properties": {
-        "@id": 40010257
+        "@id": 40010257,
+        "NHS": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -162,7 +237,19 @@
         ]
       },
       "properties": {
-        "@id": 40010260
+        "@id": 40010260,
+        "NHS": "yes",
+        "embankment": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -201,7 +288,14 @@
         ]
       },
       "properties": {
-        "@id": 40260926
+        "@id": 40260926,
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -220,7 +314,15 @@
         ]
       },
       "properties": {
-        "@id": 42056166
+        "@id": 42056166,
+        "destination": "Pont Jacques-Cartier;Montréal;Boulevard Taschereau",
+        "destination:ref": "R-134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -259,7 +361,19 @@
         ]
       },
       "properties": {
-        "@id": 42294626
+        "@id": 42294626,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "|||0"
       }
     },
     {
@@ -278,7 +392,17 @@
         ]
       },
       "properties": {
-        "@id": 42294696
+        "@id": 42294696,
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -297,7 +421,20 @@
         ]
       },
       "properties": {
-        "@id": 42294702
+        "@id": 42294702,
+        "access": "no",
+        "bus": "designated",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "motor_vehicle": "no",
+        "note": "Voie pour autobus",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "surface": "asphalt"
       }
     },
     {
@@ -316,7 +453,17 @@
         ]
       },
       "properties": {
-        "@id": 42294709
+        "@id": 42294709,
+        "destination": "La Prairie;USA",
+        "destination:ref": "10;20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -335,7 +482,15 @@
         ]
       },
       "properties": {
-        "@id": 42294710
+        "@id": 42294710,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -402,7 +557,18 @@
         ]
       },
       "properties": {
-        "@id": 42294719
+        "@id": 42294719,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -461,7 +627,18 @@
         ]
       },
       "properties": {
-        "@id": 42294732
+        "@id": 42294732,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -480,7 +657,15 @@
         ]
       },
       "properties": {
-        "@id": 42294741
+        "@id": 42294741,
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -499,7 +684,14 @@
         ]
       },
       "properties": {
-        "@id": 45558403
+        "@id": 45558403,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -554,7 +746,15 @@
         ]
       },
       "properties": {
-        "@id": 46178227
+        "@id": 46178227,
+        "destination": "Varennes",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -573,7 +773,13 @@
         ]
       },
       "properties": {
-        "@id": 88568136
+        "@id": 88568136,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -604,7 +810,16 @@
         ]
       },
       "properties": {
-        "@id": 149309514
+        "@id": 149309514,
+        "destination": "Sorel;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "surface": "asphalt"
       }
     },
     {
@@ -623,7 +838,20 @@
         ]
       },
       "properties": {
-        "@id": 238828079
+        "@id": 238828079,
+        "NHS": "yes",
+        "bridge": "yes",
+        "change:lanes": "yes|yes|only_left|no",
+        "highway": "motorway",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "surface": "asphalt"
       }
     },
     {
@@ -642,7 +870,16 @@
         ]
       },
       "properties": {
-        "@id": 301552863
+        "@id": 301552863,
+        "destination": "La Prairie;USA",
+        "destination:ref": "20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -661,7 +898,16 @@
         ]
       },
       "properties": {
-        "@id": 453297308
+        "@id": 453297308,
+        "destination": "Pont Jacques-Cartier;Montréal;Boulevard Taschereau",
+        "destination:ref": "R-134",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn": "left"
       }
     },
     {
@@ -688,7 +934,17 @@
         ]
       },
       "properties": {
-        "@id": 453297309
+        "@id": 453297309,
+        "change:lanes": "no|no",
+        "destination": "Pont Jacques-Cartier;Montréal;Boulevard Taschereau",
+        "destination:ref": "R-134",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|left"
       }
     },
     {
@@ -707,7 +963,15 @@
         ]
       },
       "properties": {
-        "@id": 453297310
+        "@id": 453297310,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "source": "Geobase",
+        "surface": "asphalt"
       }
     },
     {
@@ -730,7 +994,14 @@
         ]
       },
       "properties": {
-        "@id": 453304301
+        "@id": 453304301,
+        "destination": "Avenue Notre-Dame",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -749,7 +1020,14 @@
         ]
       },
       "properties": {
-        "@id": 458306809
+        "@id": 458306809,
+        "destination": "Boulevard La Fayette",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -784,7 +1062,15 @@
         ]
       },
       "properties": {
-        "@id": 458441737
+        "@id": 458441737,
+        "destination": "La Prairie;Pont Victoria",
+        "destination:ref": "10;20Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -935,7 +1221,16 @@
         ]
       },
       "properties": {
-        "@id": 685121030
+        "@id": 685121030,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1070,7 +1365,15 @@
         ]
       },
       "properties": {
-        "@id": 685121043
+        "@id": 685121043,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1089,7 +1392,19 @@
         ]
       },
       "properties": {
-        "@id": 685121069
+        "@id": 685121069,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1136,7 +1451,18 @@
         ]
       },
       "properties": {
-        "@id": 685121074
+        "@id": 685121074,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1175,7 +1501,16 @@
         ]
       },
       "properties": {
-        "@id": 690006345
+        "@id": 690006345,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1194,7 +1529,17 @@
         ]
       },
       "properties": {
-        "@id": 690027043
+        "@id": 690027043,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|no",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1253,7 +1598,16 @@
         ]
       },
       "properties": {
-        "@id": 753010792
+        "@id": 753010792,
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -1340,7 +1694,17 @@
         ]
       },
       "properties": {
-        "@id": 914029800
+        "@id": 914029800,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1379,7 +1743,17 @@
         ]
       },
       "properties": {
-        "@id": 914029801
+        "@id": 914029801,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:start": "|||0"
       }
     },
     {
@@ -1398,7 +1772,17 @@
         ]
       },
       "properties": {
-        "@id": 914029802
+        "@id": 914029802,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|only_left|yes",
+        "highway": "motorway",
+        "lanes": "5",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1445,7 +1829,15 @@
         ]
       },
       "properties": {
-        "@id": 914030135
+        "@id": 914030135,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1528,7 +1920,18 @@
         ]
       },
       "properties": {
-        "@id": 914030136
+        "@id": 914030136,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1567,7 +1970,18 @@
         ]
       },
       "properties": {
-        "@id": 914030137
+        "@id": 914030137,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1598,7 +2012,18 @@
         ]
       },
       "properties": {
-        "@id": 914030138
+        "@id": 914030138,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1641,7 +2066,16 @@
         ]
       },
       "properties": {
-        "@id": 1115812667
+        "@id": 1115812667,
+        "change:lanes": "no|no",
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -1680,7 +2114,14 @@
         ]
       },
       "properties": {
-        "@id": 1201660792
+        "@id": 1201660792,
+        "destination": "Avenue Notre-Dame;Pont Victoria",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1723,7 +2164,13 @@
         ]
       },
       "properties": {
-        "@id": 1201660794
+        "@id": 1201660794,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1742,7 +2189,14 @@
         ]
       },
       "properties": {
-        "@id": 1201660795
+        "@id": 1201660795,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -1817,7 +2271,19 @@
         ]
       },
       "properties": {
-        "@id": 1201660800
+        "@id": 1201660800,
+        "NHS": "yes",
+        "embankment": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -1892,7 +2358,14 @@
         ]
       },
       "properties": {
-        "@id": 1207894136
+        "@id": 1207894136,
+        "destination": "Avenue Notre-Dame",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1919,7 +2392,13 @@
         ]
       },
       "properties": {
-        "@id": 1207894137
+        "@id": 1207894137,
+        "destination": "Avenue Notre-Dame",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1938,7 +2417,14 @@
         ]
       },
       "properties": {
-        "@id": 1207894138
+        "@id": 1207894138,
+        "destination": "Varennes",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1957,7 +2443,15 @@
         ]
       },
       "properties": {
-        "@id": 1207894139
+        "@id": 1207894139,
+        "destination": "Varennes",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -1984,7 +2478,18 @@
         ]
       },
       "properties": {
-        "@id": 1207894829
+        "@id": 1207894829,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2003,7 +2508,20 @@
         ]
       },
       "properties": {
-        "@id": 1207894830
+        "@id": 1207894830,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "|||2",
+        "width:lanes:start": "|||0"
       }
     },
     {
@@ -2022,7 +2540,18 @@
         ]
       },
       "properties": {
-        "@id": 1207894831
+        "@id": 1207894831,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2041,7 +2570,19 @@
         ]
       },
       "properties": {
-        "@id": 1207894832
+        "@id": 1207894832,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "|||0"
       }
     },
     {
@@ -2068,7 +2609,18 @@
         ]
       },
       "properties": {
-        "@id": 1207894833
+        "@id": 1207894833,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2087,7 +2639,19 @@
         ]
       },
       "properties": {
-        "@id": 1207894834
+        "@id": 1207894834,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:start": "|||0"
       }
     },
     {
@@ -2106,7 +2670,18 @@
         ]
       },
       "properties": {
-        "@id": 1207984668
+        "@id": 1207984668,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2129,7 +2704,13 @@
         ]
       },
       "properties": {
-        "@id": 1207984669
+        "@id": 1207984669,
+        "destination": "Boulevard La Fayette",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2148,7 +2729,16 @@
         ]
       },
       "properties": {
-        "@id": 1207984670
+        "@id": 1207984670,
+        "destination": "Boulevard La Fayette",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -2207,7 +2797,14 @@
         ]
       },
       "properties": {
-        "@id": 1207984671
+        "@id": 1207984671,
+        "destination": "Boulevard La Fayette Nord",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2310,7 +2907,14 @@
         ]
       },
       "properties": {
-        "@id": 1207984672
+        "@id": 1207984672,
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2333,7 +2937,15 @@
         ]
       },
       "properties": {
-        "@id": 1207984674
+        "@id": 1207984674,
+        "destination": "Boulevard La Fayette Nord",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -2356,7 +2968,15 @@
         ]
       },
       "properties": {
-        "@id": 1207984677
+        "@id": 1207984677,
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -2375,7 +2995,17 @@
         ]
       },
       "properties": {
-        "@id": 1208010140
+        "@id": 1208010140,
+        "change:lanes": "no|no",
+        "destination": "Boulevard La Fayette Sud",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -2470,7 +3100,15 @@
         ]
       },
       "properties": {
-        "@id": 1208192415
+        "@id": 1208192415,
+        "destination": "Pont Jacques-Cartier;Montréal;Boulevard Taschereau",
+        "destination:ref": "R-134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2641,7 +3279,18 @@
         ]
       },
       "properties": {
-        "@id": 1208192466
+        "@id": 1208192466,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2668,7 +3317,19 @@
         ]
       },
       "properties": {
-        "@id": 1208263045
+        "@id": 1208263045,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:start": "|||0"
       }
     },
     {
@@ -2695,7 +3356,14 @@
         ]
       },
       "properties": {
-        "@id": 1208263046
+        "@id": 1208263046,
+        "destination": "Pont Jacques-Cartier;Montréal;Boulevard Taschereau",
+        "destination:ref": "R-134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2714,7 +3382,13 @@
         ]
       },
       "properties": {
-        "@id": 1208263071
+        "@id": 1208263071,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2733,7 +3407,14 @@
         ]
       },
       "properties": {
-        "@id": 1208263073
+        "@id": 1208263073,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -2752,7 +3433,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263074
+        "@id": 1208263074,
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -2775,7 +3466,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263075
+        "@id": 1208263075,
+        "destination": "Sorel;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2794,7 +3493,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263076
+        "@id": 1208263076,
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2829,7 +3536,14 @@
         ]
       },
       "properties": {
-        "@id": 1208263077
+        "@id": 1208263077,
+        "destination": "Sorel;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2848,7 +3562,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263094
+        "@id": 1208263094,
+        "destination": "Sorel;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -2867,7 +3589,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263095
+        "@id": 1208263095,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2886,7 +3618,19 @@
         ]
       },
       "properties": {
-        "@id": 1208263096
+        "@id": 1208263096,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "|||0"
       }
     },
     {
@@ -2905,7 +3649,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263097
+        "@id": 1208263097,
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -2936,7 +3689,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263098
+        "@id": 1208263098,
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -2955,7 +3716,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263099
+        "@id": 1208263099,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -2974,7 +3744,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263100
+        "@id": 1208263100,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "|||0"
       }
     },
     {
@@ -2997,7 +3777,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263101
+        "@id": 1208263101,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -3016,7 +3805,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263102
+        "@id": 1208263102,
+        "change:lanes": "no|yes",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -3051,7 +3850,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263103
+        "@id": 1208263103,
+        "change:lanes": "no|yes",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3250,7 +4058,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263104
+        "@id": 1208263104,
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3381,7 +4198,18 @@
         ]
       },
       "properties": {
-        "@id": 1208263105
+        "@id": 1208263105,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "100",
+        "minspeed": "60",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -3400,7 +4228,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263106
+        "@id": 1208263106,
+        "destination": "La Prairie;USA",
+        "destination:ref": "20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -3431,7 +4267,14 @@
         ]
       },
       "properties": {
-        "@id": 1208263107
+        "@id": 1208263107,
+        "destination": "La Prairie;USA",
+        "destination:ref": "20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3586,7 +4429,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263108
+        "@id": 1208263108,
+        "destination": "La Prairie;USA",
+        "destination:ref": "20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3605,7 +4456,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263110
+        "@id": 1208263110,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "source": "Geobase",
+        "surface": "asphalt"
       }
     },
     {
@@ -3632,7 +4491,19 @@
         ]
       },
       "properties": {
-        "@id": 1208263111
+        "@id": 1208263111,
+        "access": "no",
+        "bus": "designated",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "motor_vehicle": "no",
+        "note": "Voie pour autobus",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "surface": "asphalt"
       }
     },
     {
@@ -3891,7 +4762,20 @@
         ]
       },
       "properties": {
-        "@id": 1208263112
+        "@id": 1208263112,
+        "access": "no",
+        "bus": "designated",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "35",
+        "motor_vehicle": "no",
+        "note": "Voie pour autobus",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "surface": "asphalt"
       }
     },
     {
@@ -3910,7 +4794,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263114
+        "@id": 1208263114,
+        "destination": "La Prairie;USA",
+        "destination:ref": "10;20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -3945,7 +4838,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263115
+        "@id": 1208263115,
+        "destination": "La Prairie;USA",
+        "destination:ref": "10;20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3980,7 +4881,14 @@
         ]
       },
       "properties": {
-        "@id": 1208263116
+        "@id": 1208263116,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4015,7 +4923,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263117
+        "@id": 1208263117,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4034,7 +4950,17 @@
         ]
       },
       "properties": {
-        "@id": 1209147373
+        "@id": 1209147373,
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -4053,7 +4979,16 @@
         ]
       },
       "properties": {
-        "@id": 1209147377
+        "@id": 1209147377,
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4220,7 +5155,17 @@
         ]
       },
       "properties": {
-        "@id": 1209357826
+        "@id": 1209357826,
+        "change:lanes": "no|yes",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "65",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4239,7 +5184,18 @@
         ]
       },
       "properties": {
-        "@id": 1209546997
+        "@id": 1209546997,
+        "NHS": "yes",
+        "change:lanes": "yes|yes|only_left|yes|yes",
+        "highway": "motorway",
+        "lanes": "5",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "width:lanes:end": "||||0"
       }
     },
     {
@@ -4326,7 +5282,16 @@
         ]
       },
       "properties": {
-        "@id": 1209546998
+        "@id": 1209546998,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "20;132",
+        "surface": "asphalt"
       }
     },
     {
@@ -4345,7 +5310,18 @@
         ]
       },
       "properties": {
-        "@id": 1209546999
+        "@id": 1209546999,
+        "NHS": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "maxspeed": "100",
+        "name": "Autoroute René-Levesque",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "20;132",
+        "surface": "asphalt",
+        "turn:lanes": "|||merge_to_left",
+        "width:lanes:end": "|||0"
       }
     },
     {
@@ -4536,7 +5512,16 @@
         ]
       },
       "properties": {
-        "@id": 1209549946
+        "@id": 1209549946,
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4567,7 +5552,16 @@
         ]
       },
       "properties": {
-        "@id": 1209549950
+        "@id": 1209549950,
+        "destination": "La Prairie;USA",
+        "destination:ref": "10;20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4790,7 +5784,16 @@
         ]
       },
       "properties": {
-        "@id": 1209549952
+        "@id": 1209549952,
+        "destination": "La Prairie;USA",
+        "destination:ref": "10;20 Ouest;132 Ouest",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "maxspeed:advisory": "45",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -4809,7 +5812,20 @@
         ]
       },
       "properties": {
-        "@id": 1209549953
+        "@id": 1209549953,
+        "access": "no",
+        "bus": "designated",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "motor_vehicle": "no",
+        "note": "Voie pour autobus",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "surface": "asphalt"
       }
     },
     {
@@ -4840,7 +5856,19 @@
         ]
       },
       "properties": {
-        "@id": 1209549954
+        "@id": 1209549954,
+        "access": "no",
+        "bus": "designated",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "100",
+        "motor_vehicle": "no",
+        "note": "Voie pour autobus",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "surface": "asphalt"
       }
     },
     {
@@ -4899,7 +5927,14 @@
         ]
       },
       "properties": {
-        "@id": 1209549955
+        "@id": 1209549955,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "source": "Geobase",
+        "surface": "asphalt"
       }
     },
     {
@@ -4938,7 +5973,17 @@
         ]
       },
       "properties": {
-        "@id": 1209551043
+        "@id": 1209551043,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "3",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -5005,7 +6050,17 @@
         ]
       },
       "properties": {
-        "@id": 1209551044
+        "@id": 1209551044,
+        "destination": "Boulevard Taschereau;Pont Jacques-Cartier;Montréal;Métro",
+        "destination:ref": "134",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "100",
+        "maxspeed:advisory": "55",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     }
   ]

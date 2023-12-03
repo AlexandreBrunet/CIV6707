@@ -1,0 +1,9120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519505,
+            45.525104
+          ],
+          [
+            -73.519515,
+            45.525104
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 684867769,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519818,
+            45.522439
+          ],
+          [
+            -73.519819,
+            45.522457
+          ],
+          [
+            -73.519815,
+            45.522476
+          ],
+          [
+            -73.519652,
+            45.522794
+          ],
+          [
+            -73.519542,
+            45.523013
+          ],
+          [
+            -73.519433,
+            45.523238
+          ],
+          [
+            -73.519421,
+            45.523266
+          ],
+          [
+            -73.519412,
+            45.52328
+          ],
+          [
+            -73.519392,
+            45.523293
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 691687661,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519342,
+            45.523403
+          ],
+          [
+            -73.519356,
+            45.523417
+          ],
+          [
+            -73.519359,
+            45.523433
+          ],
+          [
+            -73.519357,
+            45.523454
+          ],
+          [
+            -73.519352,
+            45.523465
+          ],
+          [
+            -73.519341,
+            45.523495
+          ],
+          [
+            -73.519304,
+            45.523615
+          ],
+          [
+            -73.519274,
+            45.52372
+          ],
+          [
+            -73.519255,
+            45.523807
+          ],
+          [
+            -73.519231,
+            45.523913
+          ],
+          [
+            -73.519211,
+            45.524032
+          ],
+          [
+            -73.519198,
+            45.524115
+          ],
+          [
+            -73.519187,
+            45.524201
+          ],
+          [
+            -73.519177,
+            45.524289
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 691687672,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519171,
+            45.524414
+          ],
+          [
+            -73.51917,
+            45.524463
+          ],
+          [
+            -73.519168,
+            45.524575
+          ],
+          [
+            -73.519166,
+            45.524699
+          ],
+          [
+            -73.51917,
+            45.524889
+          ],
+          [
+            -73.519171,
+            45.524943
+          ],
+          [
+            -73.519171,
+            45.525046
+          ],
+          [
+            -73.519169,
+            45.525061
+          ],
+          [
+            -73.519165,
+            45.525074
+          ],
+          [
+            -73.519152,
+            45.52509
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 691687678,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519566,
+            45.525534
+          ],
+          [
+            -73.519588,
+            45.525546
+          ],
+          [
+            -73.519587,
+            45.525754
+          ],
+          [
+            -73.519555,
+            45.525807
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 717319648,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519243,
+            45.526852
+          ],
+          [
+            -73.51927,
+            45.526853
+          ],
+          [
+            -73.519288,
+            45.526856
+          ],
+          [
+            -73.519308,
+            45.526863
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 735207753,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519525,
+            45.526679
+          ],
+          [
+            -73.519523,
+            45.526661
+          ],
+          [
+            -73.519512,
+            45.52638
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 735207755,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519243,
+            45.526852
+          ],
+          [
+            -73.518726,
+            45.526822
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 735207756,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519509,
+            45.526298
+          ],
+          [
+            -73.519508,
+            45.526094
+          ],
+          [
+            -73.519507,
+            45.525893
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739628790,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519527,
+            45.526859
+          ],
+          [
+            -73.519518,
+            45.52689
+          ],
+          [
+            -73.519522,
+            45.527125
+          ],
+          [
+            -73.519527,
+            45.52734
+          ],
+          [
+            -73.519524,
+            45.52738
+          ],
+          [
+            -73.519515,
+            45.527435
+          ],
+          [
+            -73.519493,
+            45.527553
+          ],
+          [
+            -73.519489,
+            45.527591
+          ],
+          [
+            -73.519486,
+            45.527637
+          ],
+          [
+            -73.519488,
+            45.52767
+          ],
+          [
+            -73.519495,
+            45.527698
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739811775,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519423,
+            45.52937
+          ],
+          [
+            -73.519409,
+            45.529413
+          ],
+          [
+            -73.519394,
+            45.529454
+          ],
+          [
+            -73.519372,
+            45.529515
+          ],
+          [
+            -73.519339,
+            45.529591
+          ],
+          [
+            -73.519314,
+            45.529646
+          ],
+          [
+            -73.519288,
+            45.529704
+          ],
+          [
+            -73.51925,
+            45.529781
+          ],
+          [
+            -73.519219,
+            45.529851
+          ],
+          [
+            -73.519186,
+            45.529932
+          ],
+          [
+            -73.519141,
+            45.530041
+          ],
+          [
+            -73.51908,
+            45.530188
+          ],
+          [
+            -73.519045,
+            45.530272
+          ],
+          [
+            -73.519036,
+            45.530297
+          ],
+          [
+            -73.519013,
+            45.530348
+          ],
+          [
+            -73.519,
+            45.530379
+          ],
+          [
+            -73.518988,
+            45.530407
+          ],
+          [
+            -73.518971,
+            45.530439
+          ],
+          [
+            -73.518905,
+            45.530539
+          ],
+          [
+            -73.518883,
+            45.530575
+          ],
+          [
+            -73.518832,
+            45.530656
+          ],
+          [
+            -73.518766,
+            45.53076
+          ],
+          [
+            -73.518724,
+            45.530825
+          ],
+          [
+            -73.518687,
+            45.530883
+          ],
+          [
+            -73.518664,
+            45.530923
+          ],
+          [
+            -73.518647,
+            45.530956
+          ],
+          [
+            -73.518634,
+            45.53099
+          ],
+          [
+            -73.518623,
+            45.531022
+          ],
+          [
+            -73.518615,
+            45.531056
+          ],
+          [
+            -73.518614,
+            45.531083
+          ],
+          [
+            -73.518622,
+            45.531141
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739811777,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51951,
+            45.528787
+          ],
+          [
+            -73.519511,
+            45.528842
+          ],
+          [
+            -73.519508,
+            45.528905
+          ],
+          [
+            -73.519504,
+            45.528967
+          ],
+          [
+            -73.519498,
+            45.529033
+          ],
+          [
+            -73.51949,
+            45.52909
+          ],
+          [
+            -73.519481,
+            45.529149
+          ],
+          [
+            -73.51947,
+            45.529202
+          ],
+          [
+            -73.519457,
+            45.52925
+          ],
+          [
+            -73.519438,
+            45.529323
+          ],
+          [
+            -73.519423,
+            45.52937
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739811778,
+        "bicycle": "no",
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "1",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519504,
+            45.527897
+          ],
+          [
+            -73.519495,
+            45.527914
+          ],
+          [
+            -73.519492,
+            45.527933
+          ],
+          [
+            -73.519492,
+            45.527954
+          ],
+          [
+            -73.51951,
+            45.528787
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739811779,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519495,
+            45.527782
+          ],
+          [
+            -73.519497,
+            45.527826
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 739811781,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519622,
+            45.524347
+          ],
+          [
+            -73.519621,
+            45.524382
+          ],
+          [
+            -73.519619,
+            45.524438
+          ],
+          [
+            -73.519618,
+            45.524626
+          ],
+          [
+            -73.519617,
+            45.524686
+          ],
+          [
+            -73.519629,
+            45.524731
+          ],
+          [
+            -73.519633,
+            45.524858
+          ],
+          [
+            -73.51963,
+            45.524985
+          ],
+          [
+            -73.51963,
+            45.524997
+          ],
+          [
+            -73.519627,
+            45.525107
+          ],
+          [
+            -73.519627,
+            45.525118
+          ],
+          [
+            -73.519626,
+            45.525129
+          ],
+          [
+            -73.519624,
+            45.525166
+          ],
+          [
+            -73.519602,
+            45.525366
+          ],
+          [
+            -73.519595,
+            45.525418
+          ],
+          [
+            -73.519577,
+            45.525452
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960453,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520755,
+            45.5256
+          ],
+          [
+            -73.521127,
+            45.525632
+          ],
+          [
+            -73.521917,
+            45.525705
+          ],
+          [
+            -73.522059,
+            45.525718
+          ],
+          [
+            -73.522086,
+            45.525736
+          ],
+          [
+            -73.522115,
+            45.525751
+          ],
+          [
+            -73.522134,
+            45.525758
+          ],
+          [
+            -73.522265,
+            45.525764
+          ],
+          [
+            -73.522402,
+            45.525769
+          ],
+          [
+            -73.522447,
+            45.525764
+          ],
+          [
+            -73.522477,
+            45.525746
+          ],
+          [
+            -73.5225,
+            45.525738
+          ],
+          [
+            -73.522519,
+            45.525738
+          ],
+          [
+            -73.522566,
+            45.52574
+          ],
+          [
+            -73.522617,
+            45.525734
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960465,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522718,
+            45.525689
+          ],
+          [
+            -73.522732,
+            45.525679
+          ],
+          [
+            -73.522749,
+            45.525663
+          ],
+          [
+            -73.522757,
+            45.52565
+          ],
+          [
+            -73.522766,
+            45.525632
+          ],
+          [
+            -73.522772,
+            45.525605
+          ],
+          [
+            -73.522782,
+            45.525584
+          ],
+          [
+            -73.522798,
+            45.525571
+          ],
+          [
+            -73.522824,
+            45.525559
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960467,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523526,
+            45.526746
+          ],
+          [
+            -73.523469,
+            45.526892
+          ],
+          [
+            -73.52344,
+            45.526962
+          ],
+          [
+            -73.523389,
+            45.527069
+          ],
+          [
+            -73.523374,
+            45.527099
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960469,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523219,
+            45.52737
+          ],
+          [
+            -73.523314,
+            45.527207
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960473,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52317,
+            45.527452
+          ],
+          [
+            -73.522993,
+            45.527734
+          ],
+          [
+            -73.522949,
+            45.527799
+          ],
+          [
+            -73.522931,
+            45.527826
+          ],
+          [
+            -73.522904,
+            45.527849
+          ],
+          [
+            -73.522876,
+            45.527864
+          ],
+          [
+            -73.522842,
+            45.527872
+          ],
+          [
+            -73.522804,
+            45.52788
+          ],
+          [
+            -73.522763,
+            45.527883
+          ],
+          [
+            -73.522352,
+            45.527865
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960474,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520555,
+            45.527788
+          ],
+          [
+            -73.520495,
+            45.527785
+          ],
+          [
+            -73.520107,
+            45.527767
+          ],
+          [
+            -73.519938,
+            45.527761
+          ],
+          [
+            -73.51992,
+            45.527758
+          ],
+          [
+            -73.519909,
+            45.527756
+          ],
+          [
+            -73.519899,
+            45.527752
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960478,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520608,
+            45.526238
+          ],
+          [
+            -73.520615,
+            45.526158
+          ],
+          [
+            -73.520625,
+            45.526033
+          ],
+          [
+            -73.520628,
+            45.525996
+          ],
+          [
+            -73.520654,
+            45.525707
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960481,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520697,
+            45.525633
+          ],
+          [
+            -73.520724,
+            45.525614
+          ],
+          [
+            -73.520755,
+            45.5256
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960483,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52137,
+            45.527822
+          ],
+          [
+            -73.521279,
+            45.527817
+          ],
+          [
+            -73.52124,
+            45.527816
+          ],
+          [
+            -73.520645,
+            45.527791
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960486,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52226,
+            45.52786
+          ],
+          [
+            -73.521927,
+            45.527847
+          ],
+          [
+            -73.521775,
+            45.52784
+          ],
+          [
+            -73.521762,
+            45.52784
+          ],
+          [
+            -73.521748,
+            45.527839
+          ],
+          [
+            -73.52149,
+            45.527827
+          ],
+          [
+            -73.521452,
+            45.527825
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960487,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520545,
+            45.526738
+          ],
+          [
+            -73.520559,
+            45.526718
+          ],
+          [
+            -73.520565,
+            45.526699
+          ],
+          [
+            -73.520567,
+            45.526684
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960489,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520567,
+            45.526684
+          ],
+          [
+            -73.52057,
+            45.52663
+          ],
+          [
+            -73.520594,
+            45.526394
+          ],
+          [
+            -73.520601,
+            45.526322
+          ],
+          [
+            -73.520602,
+            45.526302
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960492,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519504,
+            45.527897
+          ],
+          [
+            -73.51952,
+            45.527881
+          ],
+          [
+            -73.519533,
+            45.527873
+          ],
+          [
+            -73.519554,
+            45.527865
+          ],
+          [
+            -73.519579,
+            45.527859
+          ],
+          [
+            -73.519599,
+            45.527859
+          ],
+          [
+            -73.519831,
+            45.527869
+          ],
+          [
+            -73.519897,
+            45.527872
+          ],
+          [
+            -73.520331,
+            45.527891
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960495,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520442,
+            45.527896
+          ],
+          [
+            -73.521053,
+            45.527922
+          ],
+          [
+            -73.521124,
+            45.527925
+          ],
+          [
+            -73.521143,
+            45.527926
+          ],
+          [
+            -73.521158,
+            45.527926
+          ],
+          [
+            -73.521266,
+            45.527931
+          ],
+          [
+            -73.521735,
+            45.527951
+          ],
+          [
+            -73.52177,
+            45.527953
+          ],
+          [
+            -73.521821,
+            45.527955
+          ],
+          [
+            -73.522415,
+            45.52798
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960497,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522479,
+            45.527983
+          ],
+          [
+            -73.522805,
+            45.527995
+          ],
+          [
+            -73.52286,
+            45.527991
+          ],
+          [
+            -73.522902,
+            45.527981
+          ],
+          [
+            -73.522954,
+            45.52796
+          ],
+          [
+            -73.522991,
+            45.527943
+          ],
+          [
+            -73.523026,
+            45.527922
+          ],
+          [
+            -73.523054,
+            45.527895
+          ],
+          [
+            -73.523081,
+            45.527865
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960499,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519718,
+            45.526833
+          ],
+          [
+            -73.519696,
+            45.526823
+          ],
+          [
+            -73.519678,
+            45.526816
+          ],
+          [
+            -73.519654,
+            45.526811
+          ],
+          [
+            -73.519627,
+            45.526813
+          ],
+          [
+            -73.519599,
+            45.526817
+          ],
+          [
+            -73.519577,
+            45.526824
+          ],
+          [
+            -73.519562,
+            45.526834
+          ],
+          [
+            -73.519542,
+            45.526845
+          ],
+          [
+            -73.519527,
+            45.526859
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752960540,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519526,
+            45.525554
+          ],
+          [
+            -73.519588,
+            45.525546
+          ],
+          [
+            -73.519621,
+            45.525541
+          ],
+          [
+            -73.51964,
+            45.525539
+          ],
+          [
+            -73.519666,
+            45.525538
+          ],
+          [
+            -73.519966,
+            45.525554
+          ],
+          [
+            -73.52046,
+            45.525576
+          ],
+          [
+            -73.520489,
+            45.525587
+          ],
+          [
+            -73.520507,
+            45.525581
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752979664,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520381,
+            45.52548
+          ],
+          [
+            -73.520209,
+            45.525475
+          ],
+          [
+            -73.52012,
+            45.525472
+          ],
+          [
+            -73.519838,
+            45.52546
+          ],
+          [
+            -73.519731,
+            45.525455
+          ],
+          [
+            -73.519629,
+            45.52545
+          ],
+          [
+            -73.519577,
+            45.525452
+          ],
+          [
+            -73.519526,
+            45.525449
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752979669,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520461,
+            45.525566
+          ],
+          [
+            -73.52046,
+            45.525576
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752979671,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520489,
+            45.525587
+          ],
+          [
+            -73.520514,
+            45.525604
+          ],
+          [
+            -73.520526,
+            45.525617
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752979672,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523429,
+            45.525498
+          ],
+          [
+            -73.52287,
+            45.525468
+          ],
+          [
+            -73.522846,
+            45.525465
+          ],
+          [
+            -73.522828,
+            45.525457
+          ],
+          [
+            -73.522814,
+            45.525446
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752991388,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522845,
+            45.524746
+          ],
+          [
+            -73.522854,
+            45.524658
+          ],
+          [
+            -73.522889,
+            45.524239
+          ],
+          [
+            -73.522896,
+            45.524166
+          ],
+          [
+            -73.522901,
+            45.524116
+          ],
+          [
+            -73.522904,
+            45.524087
+          ],
+          [
+            -73.522943,
+            45.523646
+          ],
+          [
+            -73.52295,
+            45.523621
+          ],
+          [
+            -73.522967,
+            45.523601
+          ],
+          [
+            -73.522998,
+            45.523586
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752991418,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523538,
+            45.525503
+          ],
+          [
+            -73.523599,
+            45.525506
+          ],
+          [
+            -73.523736,
+            45.525512
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 752991454,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522963,
+            45.523465
+          ],
+          [
+            -73.523037,
+            45.523469
+          ],
+          [
+            -73.523306,
+            45.523481
+          ],
+          [
+            -73.523481,
+            45.523489
+          ],
+          [
+            -73.523525,
+            45.523491
+          ],
+          [
+            -73.523557,
+            45.523489
+          ],
+          [
+            -73.52359,
+            45.523483
+          ],
+          [
+            -73.523622,
+            45.523476
+          ],
+          [
+            -73.523654,
+            45.523462
+          ],
+          [
+            -73.523678,
+            45.523449
+          ],
+          [
+            -73.523699,
+            45.523432
+          ],
+          [
+            -73.523716,
+            45.523414
+          ],
+          [
+            -73.523724,
+            45.523401
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753010788,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52368,
+            45.52302
+          ],
+          [
+            -73.523663,
+            45.522923
+          ],
+          [
+            -73.523656,
+            45.522856
+          ],
+          [
+            -73.523648,
+            45.52271
+          ],
+          [
+            -73.523647,
+            45.522681
+          ],
+          [
+            -73.523629,
+            45.522498
+          ],
+          [
+            -73.523616,
+            45.522388
+          ],
+          [
+            -73.52361,
+            45.522346
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753010790,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard La Fayette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.521875,
+            45.523258
+          ],
+          [
+            -73.521853,
+            45.523259
+          ],
+          [
+            -73.521702,
+            45.523251
+          ],
+          [
+            -73.521592,
+            45.523247
+          ],
+          [
+            -73.52148,
+            45.523242
+          ],
+          [
+            -73.521455,
+            45.523248
+          ],
+          [
+            -73.521362,
+            45.523244
+          ],
+          [
+            -73.521315,
+            45.523241
+          ],
+          [
+            -73.521208,
+            45.523237
+          ],
+          [
+            -73.52109,
+            45.52323
+          ],
+          [
+            -73.521053,
+            45.523226
+          ],
+          [
+            -73.521025,
+            45.523221
+          ],
+          [
+            -73.520995,
+            45.523214
+          ],
+          [
+            -73.520968,
+            45.523204
+          ],
+          [
+            -73.52095,
+            45.52319
+          ],
+          [
+            -73.520938,
+            45.523178
+          ],
+          [
+            -73.520931,
+            45.523165
+          ],
+          [
+            -73.520927,
+            45.523153
+          ],
+          [
+            -73.520926,
+            45.523142
+          ],
+          [
+            -73.520938,
+            45.523004
+          ],
+          [
+            -73.520945,
+            45.522919
+          ],
+          [
+            -73.520955,
+            45.522786
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030069,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Débarcadère",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519893,
+            45.523254
+          ],
+          [
+            -73.519954,
+            45.523126
+          ],
+          [
+            -73.519967,
+            45.523099
+          ],
+          [
+            -73.520035,
+            45.522958
+          ],
+          [
+            -73.520101,
+            45.522826
+          ],
+          [
+            -73.520122,
+            45.522784
+          ],
+          [
+            -73.520162,
+            45.522705
+          ],
+          [
+            -73.520204,
+            45.522619
+          ],
+          [
+            -73.520303,
+            45.522419
+          ],
+          [
+            -73.520256,
+            45.522366
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030084,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522762,
+            45.523566
+          ],
+          [
+            -73.522735,
+            45.523565
+          ],
+          [
+            -73.522705,
+            45.523564
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030101,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Terminus",
+        "surface": "concrete",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522705,
+            45.523564
+          ],
+          [
+            -73.522689,
+            45.523564
+          ],
+          [
+            -73.522674,
+            45.523572
+          ],
+          [
+            -73.522667,
+            45.523609
+          ],
+          [
+            -73.522652,
+            45.523691
+          ],
+          [
+            -73.522661,
+            45.523733
+          ],
+          [
+            -73.522659,
+            45.523749
+          ],
+          [
+            -73.522632,
+            45.523858
+          ],
+          [
+            -73.522648,
+            45.523897
+          ],
+          [
+            -73.522646,
+            45.523912
+          ],
+          [
+            -73.52262,
+            45.524016
+          ],
+          [
+            -73.522632,
+            45.52405
+          ],
+          [
+            -73.522631,
+            45.524074
+          ],
+          [
+            -73.522609,
+            45.52418
+          ],
+          [
+            -73.522617,
+            45.524238
+          ],
+          [
+            -73.522594,
+            45.524351
+          ],
+          [
+            -73.522601,
+            45.524421
+          ],
+          [
+            -73.522592,
+            45.524468
+          ],
+          [
+            -73.522576,
+            45.52449
+          ],
+          [
+            -73.522563,
+            45.524496
+          ],
+          [
+            -73.522472,
+            45.524531
+          ],
+          [
+            -73.522438,
+            45.52453
+          ],
+          [
+            -73.522254,
+            45.524513
+          ],
+          [
+            -73.522171,
+            45.524519
+          ],
+          [
+            -73.522137,
+            45.524517
+          ],
+          [
+            -73.522036,
+            45.524513
+          ],
+          [
+            -73.521931,
+            45.524509
+          ],
+          [
+            -73.521907,
+            45.524505
+          ],
+          [
+            -73.521795,
+            45.524492
+          ],
+          [
+            -73.521736,
+            45.524494
+          ],
+          [
+            -73.521706,
+            45.524497
+          ],
+          [
+            -73.521682,
+            45.524498
+          ],
+          [
+            -73.521577,
+            45.524492
+          ],
+          [
+            -73.521473,
+            45.524489
+          ],
+          [
+            -73.521325,
+            45.524481
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030102,
+        "bicycle": "dismount",
+        "bus": "yes",
+        "foot": "private",
+        "footway": "sidewalk",
+        "ford": "yes",
+        "highway": "footway",
+        "public_transport": "platform",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522963,
+            45.523465
+          ],
+          [
+            -73.522929,
+            45.523464
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030104,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522769,
+            45.523456
+          ],
+          [
+            -73.522716,
+            45.523453
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030137,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Terminus",
+        "surface": "concrete",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522716,
+            45.523453
+          ],
+          [
+            -73.522665,
+            45.52345
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753030138,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Terminus",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517531,
+            45.523219
+          ],
+          [
+            -73.518354,
+            45.523259
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753036631,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518509,
+            45.523264
+          ],
+          [
+            -73.519221,
+            45.523293
+          ],
+          [
+            -73.519288,
+            45.523296
+          ],
+          [
+            -73.519337,
+            45.523298
+          ],
+          [
+            -73.519356,
+            45.523297
+          ],
+          [
+            -73.519368,
+            45.523296
+          ],
+          [
+            -73.519392,
+            45.523293
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753036633,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519525,
+            45.526679
+          ],
+          [
+            -73.519547,
+            45.526696
+          ],
+          [
+            -73.519566,
+            45.526704
+          ],
+          [
+            -73.519589,
+            45.526714
+          ],
+          [
+            -73.519615,
+            45.526716
+          ],
+          [
+            -73.519711,
+            45.526708
+          ],
+          [
+            -73.519937,
+            45.526685
+          ],
+          [
+            -73.519961,
+            45.526683
+          ],
+          [
+            -73.520011,
+            45.526679
+          ],
+          [
+            -73.520041,
+            45.52668
+          ],
+          [
+            -73.520234,
+            45.52669
+          ],
+          [
+            -73.520323,
+            45.526694
+          ],
+          [
+            -73.520374,
+            45.526695
+          ],
+          [
+            -73.520406,
+            45.52669
+          ],
+          [
+            -73.520425,
+            45.52668
+          ],
+          [
+            -73.520442,
+            45.526662
+          ],
+          [
+            -73.520449,
+            45.526635
+          ],
+          [
+            -73.520456,
+            45.526572
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 753045880,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519703,
+            45.52352
+          ],
+          [
+            -73.519733,
+            45.523496
+          ],
+          [
+            -73.519775,
+            45.523464
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 771416613,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519828,
+            45.523316
+          ],
+          [
+            -73.519812,
+            45.523303
+          ],
+          [
+            -73.519801,
+            45.523287
+          ],
+          [
+            -73.519799,
+            45.523269
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 771416614,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513648,
+            45.52799
+          ],
+          [
+            -73.513638,
+            45.527975
+          ],
+          [
+            -73.513631,
+            45.527959
+          ],
+          [
+            -73.513624,
+            45.52794
+          ],
+          [
+            -73.513624,
+            45.527918
+          ],
+          [
+            -73.51363,
+            45.527833
+          ],
+          [
+            -73.51364,
+            45.527263
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 779666327,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513634,
+            45.527103
+          ],
+          [
+            -73.513624,
+            45.527084
+          ],
+          [
+            -73.513623,
+            45.526958
+          ],
+          [
+            -73.513623,
+            45.526951
+          ],
+          [
+            -73.513622,
+            45.526871
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 779666329,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519718,
+            45.526833
+          ],
+          [
+            -73.51973,
+            45.52684
+          ],
+          [
+            -73.519743,
+            45.526853
+          ],
+          [
+            -73.519752,
+            45.526864
+          ],
+          [
+            -73.519757,
+            45.526875
+          ],
+          [
+            -73.519761,
+            45.526888
+          ],
+          [
+            -73.519761,
+            45.526904
+          ],
+          [
+            -73.519725,
+            45.527296
+          ],
+          [
+            -73.519715,
+            45.527423
+          ],
+          [
+            -73.519694,
+            45.527668
+          ],
+          [
+            -73.519691,
+            45.527686
+          ],
+          [
+            -73.519683,
+            45.527704
+          ],
+          [
+            -73.519672,
+            45.527718
+          ],
+          [
+            -73.51966,
+            45.527727
+          ],
+          [
+            -73.519644,
+            45.527735
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 809284801,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue De La Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51477,
+            45.530109
+          ],
+          [
+            -73.514537,
+            45.530031
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1116016230,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520169,
+            45.521741
+          ],
+          [
+            -73.520157,
+            45.521788
+          ],
+          [
+            -73.520139,
+            45.521848
+          ],
+          [
+            -73.520114,
+            45.521934
+          ],
+          [
+            -73.520083,
+            45.522024
+          ],
+          [
+            -73.520047,
+            45.522115
+          ],
+          [
+            -73.520029,
+            45.522158
+          ],
+          [
+            -73.519987,
+            45.522243
+          ],
+          [
+            -73.519975,
+            45.522266
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208144838,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520131,
+            45.522234
+          ],
+          [
+            -73.520099,
+            45.522239
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208144840,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Débarcadère",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519996,
+            45.522451
+          ],
+          [
+            -73.520033,
+            45.522449
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208144841,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Débarcadère",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520316,
+            45.522253
+          ],
+          [
+            -73.520309,
+            45.522233
+          ],
+          [
+            -73.520304,
+            45.52221
+          ],
+          [
+            -73.520304,
+            45.522192
+          ],
+          [
+            -73.520323,
+            45.522122
+          ],
+          [
+            -73.520352,
+            45.522005
+          ],
+          [
+            -73.520369,
+            45.521938
+          ],
+          [
+            -73.520394,
+            45.521834
+          ],
+          [
+            -73.520421,
+            45.521737
+          ],
+          [
+            -73.520439,
+            45.52168
+          ],
+          [
+            -73.52048,
+            45.521564
+          ],
+          [
+            -73.520509,
+            45.521487
+          ],
+          [
+            -73.520531,
+            45.52143
+          ],
+          [
+            -73.520556,
+            45.52138
+          ],
+          [
+            -73.52058,
+            45.521336
+          ],
+          [
+            -73.520613,
+            45.521282
+          ],
+          [
+            -73.520637,
+            45.521251
+          ],
+          [
+            -73.520662,
+            45.521225
+          ],
+          [
+            -73.520677,
+            45.521207
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208144844,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520677,
+            45.521207
+          ],
+          [
+            -73.520725,
+            45.521159
+          ],
+          [
+            -73.520769,
+            45.521122
+          ],
+          [
+            -73.520819,
+            45.521088
+          ],
+          [
+            -73.520881,
+            45.521054
+          ],
+          [
+            -73.520943,
+            45.521023
+          ],
+          [
+            -73.521002,
+            45.521003
+          ],
+          [
+            -73.521075,
+            45.520984
+          ],
+          [
+            -73.521125,
+            45.520974
+          ],
+          [
+            -73.521177,
+            45.520965
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208144845,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard La Fayette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519281,
+            45.517022
+          ],
+          [
+            -73.519288,
+            45.51706
+          ],
+          [
+            -73.519291,
+            45.517068
+          ],
+          [
+            -73.519296,
+            45.517081
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190686,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519343,
+            45.517162
+          ],
+          [
+            -73.519404,
+            45.517266
+          ],
+          [
+            -73.51943,
+            45.517311
+          ],
+          [
+            -73.519581,
+            45.517567
+          ],
+          [
+            -73.519585,
+            45.517574
+          ],
+          [
+            -73.519645,
+            45.517675
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190688,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519673,
+            45.517726
+          ],
+          [
+            -73.519749,
+            45.517853
+          ],
+          [
+            -73.519877,
+            45.51807
+          ],
+          [
+            -73.519918,
+            45.51814
+          ],
+          [
+            -73.519935,
+            45.518168
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190690,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519976,
+            45.518246
+          ],
+          [
+            -73.520008,
+            45.518312
+          ],
+          [
+            -73.520027,
+            45.518351
+          ],
+          [
+            -73.520039,
+            45.518375
+          ],
+          [
+            -73.520058,
+            45.518423
+          ],
+          [
+            -73.520062,
+            45.518435
+          ],
+          [
+            -73.520072,
+            45.518457
+          ],
+          [
+            -73.520089,
+            45.518498
+          ],
+          [
+            -73.520107,
+            45.518549
+          ],
+          [
+            -73.520129,
+            45.518614
+          ],
+          [
+            -73.520154,
+            45.518688
+          ],
+          [
+            -73.520169,
+            45.51875
+          ],
+          [
+            -73.52018,
+            45.518802
+          ],
+          [
+            -73.52019,
+            45.518841
+          ],
+          [
+            -73.520201,
+            45.5189
+          ],
+          [
+            -73.520209,
+            45.518956
+          ],
+          [
+            -73.520212,
+            45.518997
+          ],
+          [
+            -73.520214,
+            45.519028
+          ],
+          [
+            -73.520217,
+            45.519106
+          ],
+          [
+            -73.520219,
+            45.519185
+          ],
+          [
+            -73.520224,
+            45.519366
+          ],
+          [
+            -73.520228,
+            45.51939
+          ],
+          [
+            -73.520236,
+            45.519416
+          ],
+          [
+            -73.520246,
+            45.519439
+          ],
+          [
+            -73.52025,
+            45.519459
+          ],
+          [
+            -73.520252,
+            45.519505
+          ],
+          [
+            -73.520252,
+            45.51956
+          ],
+          [
+            -73.520249,
+            45.519583
+          ],
+          [
+            -73.520235,
+            45.519628
+          ],
+          [
+            -73.520232,
+            45.519653
+          ],
+          [
+            -73.520232,
+            45.519686
+          ],
+          [
+            -73.520235,
+            45.51974
+          ],
+          [
+            -73.52024,
+            45.519769
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190692,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520248,
+            45.519841
+          ],
+          [
+            -73.520254,
+            45.519882
+          ],
+          [
+            -73.520257,
+            45.519906
+          ],
+          [
+            -73.52027,
+            45.519993
+          ],
+          [
+            -73.520278,
+            45.520032
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190695,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52029,
+            45.520091
+          ],
+          [
+            -73.520312,
+            45.520225
+          ],
+          [
+            -73.520354,
+            45.520456
+          ],
+          [
+            -73.520378,
+            45.520592
+          ],
+          [
+            -73.520387,
+            45.520644
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190697,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520399,
+            45.52071
+          ],
+          [
+            -73.520396,
+            45.520751
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190699,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520249,
+            45.519583
+          ],
+          [
+            -73.520223,
+            45.519572
+          ],
+          [
+            -73.520187,
+            45.519556
+          ],
+          [
+            -73.520188,
+            45.519471
+          ],
+          [
+            -73.520216,
+            45.519438
+          ],
+          [
+            -73.520236,
+            45.519416
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190706,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519274,
+            45.517069
+          ],
+          [
+            -73.519291,
+            45.517068
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190729,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519255,
+            45.516915
+          ],
+          [
+            -73.519291,
+            45.516915
+          ],
+          [
+            -73.519351,
+            45.516919
+          ],
+          [
+            -73.519423,
+            45.516928
+          ],
+          [
+            -73.519659,
+            45.516962
+          ],
+          [
+            -73.51994,
+            45.517001
+          ],
+          [
+            -73.520011,
+            45.51701
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190732,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519255,
+            45.516915
+          ],
+          [
+            -73.519239,
+            45.516914
+          ],
+          [
+            -73.519223,
+            45.51691
+          ],
+          [
+            -73.51921,
+            45.516903
+          ],
+          [
+            -73.519195,
+            45.516891
+          ],
+          [
+            -73.519184,
+            45.516874
+          ],
+          [
+            -73.519174,
+            45.516851
+          ],
+          [
+            -73.519135,
+            45.516782
+          ],
+          [
+            -73.519128,
+            45.516763
+          ],
+          [
+            -73.519131,
+            45.516747
+          ],
+          [
+            -73.519136,
+            45.516734
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190733,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519281,
+            45.517022
+          ],
+          [
+            -73.519299,
+            45.51701
+          ],
+          [
+            -73.51932,
+            45.517001
+          ],
+          [
+            -73.519342,
+            45.516998
+          ],
+          [
+            -73.519367,
+            45.516996
+          ],
+          [
+            -73.519402,
+            45.517001
+          ],
+          [
+            -73.519954,
+            45.517081
+          ],
+          [
+            -73.519978,
+            45.517087
+          ],
+          [
+            -73.520007,
+            45.517096
+          ],
+          [
+            -73.520032,
+            45.517106
+          ],
+          [
+            -73.520092,
+            45.517141
+          ],
+          [
+            -73.520277,
+            45.517242
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190737,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.521456,
+            45.520609
+          ],
+          [
+            -73.521452,
+            45.520654
+          ],
+          [
+            -73.521448,
+            45.520668
+          ],
+          [
+            -73.521439,
+            45.520676
+          ],
+          [
+            -73.521414,
+            45.520684
+          ],
+          [
+            -73.521317,
+            45.520704
+          ],
+          [
+            -73.521196,
+            45.520724
+          ],
+          [
+            -73.521104,
+            45.520736
+          ],
+          [
+            -73.52102,
+            45.520744
+          ],
+          [
+            -73.520912,
+            45.520751
+          ],
+          [
+            -73.520815,
+            45.520754
+          ],
+          [
+            -73.520706,
+            45.520755
+          ],
+          [
+            -73.520571,
+            45.520755
+          ],
+          [
+            -73.520549,
+            45.520757
+          ],
+          [
+            -73.520531,
+            45.520762
+          ],
+          [
+            -73.520517,
+            45.52077
+          ],
+          [
+            -73.520501,
+            45.520771
+          ],
+          [
+            -73.520469,
+            45.52077
+          ],
+          [
+            -73.520443,
+            45.520766
+          ],
+          [
+            -73.520396,
+            45.520751
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190750,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519085,
+            45.516649
+          ],
+          [
+            -73.519064,
+            45.51661
+          ],
+          [
+            -73.518961,
+            45.516421
+          ],
+          [
+            -73.518927,
+            45.51636
+          ],
+          [
+            -73.518915,
+            45.516328
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190786,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518872,
+            45.51624
+          ],
+          [
+            -73.518845,
+            45.516231
+          ],
+          [
+            -73.518827,
+            45.516219
+          ],
+          [
+            -73.518815,
+            45.516207
+          ],
+          [
+            -73.518846,
+            45.516199
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190788,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518872,
+            45.51624
+          ],
+          [
+            -73.518938,
+            45.516244
+          ],
+          [
+            -73.518983,
+            45.516249
+          ],
+          [
+            -73.519009,
+            45.516257
+          ],
+          [
+            -73.519032,
+            45.516272
+          ],
+          [
+            -73.519051,
+            45.516294
+          ],
+          [
+            -73.519067,
+            45.516323
+          ],
+          [
+            -73.519206,
+            45.516577
+          ],
+          [
+            -73.519229,
+            45.516618
+          ],
+          [
+            -73.519235,
+            45.516637
+          ],
+          [
+            -73.519233,
+            45.516656
+          ],
+          [
+            -73.51922,
+            45.516679
+          ],
+          [
+            -73.519198,
+            45.516695
+          ],
+          [
+            -73.519166,
+            45.516715
+          ],
+          [
+            -73.519149,
+            45.516725
+          ],
+          [
+            -73.519136,
+            45.516734
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190789,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517783,
+            45.513633
+          ],
+          [
+            -73.517756,
+            45.513525
+          ],
+          [
+            -73.51775,
+            45.513495
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190799,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519099,
+            45.516602
+          ],
+          [
+            -73.519064,
+            45.51661
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190811,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517824,
+            45.511719
+          ],
+          [
+            -73.517813,
+            45.511772
+          ],
+          [
+            -73.517809,
+            45.51179
+          ],
+          [
+            -73.5178,
+            45.511843
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190817,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52043,
+            45.517326
+          ],
+          [
+            -73.520489,
+            45.517357
+          ],
+          [
+            -73.520552,
+            45.51739
+          ],
+          [
+            -73.520584,
+            45.517402
+          ],
+          [
+            -73.520609,
+            45.517402
+          ],
+          [
+            -73.520635,
+            45.517399
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190840,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520734,
+            45.517385
+          ],
+          [
+            -73.520854,
+            45.517367
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190842,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520958,
+            45.517349
+          ],
+          [
+            -73.521076,
+            45.517331
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190844,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.521177,
+            45.517316
+          ],
+          [
+            -73.521246,
+            45.517306
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208190846,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522137,
+            45.5219
+          ],
+          [
+            -73.522117,
+            45.522115
+          ],
+          [
+            -73.522073,
+            45.522573
+          ],
+          [
+            -73.522065,
+            45.522649
+          ],
+          [
+            -73.522027,
+            45.523049
+          ],
+          [
+            -73.52202,
+            45.523125
+          ],
+          [
+            -73.522017,
+            45.523174
+          ],
+          [
+            -73.522009,
+            45.5232
+          ],
+          [
+            -73.521988,
+            45.523221
+          ],
+          [
+            -73.521959,
+            45.523242
+          ],
+          [
+            -73.521921,
+            45.523252
+          ],
+          [
+            -73.521891,
+            45.523257
+          ],
+          [
+            -73.521875,
+            45.523258
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208192400,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Débarcadère",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523788,
+            45.523616
+          ],
+          [
+            -73.523804,
+            45.523621
+          ],
+          [
+            -73.523825,
+            45.523634
+          ],
+          [
+            -73.523836,
+            45.52365
+          ],
+          [
+            -73.523852,
+            45.523725
+          ],
+          [
+            -73.523921,
+            45.524129
+          ],
+          [
+            -73.523931,
+            45.524173
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263058,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523724,
+            45.523401
+          ],
+          [
+            -73.523735,
+            45.52338
+          ],
+          [
+            -73.523741,
+            45.523355
+          ],
+          [
+            -73.523732,
+            45.523286
+          ],
+          [
+            -73.523699,
+            45.523114
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263078,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard La Fayette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522861,
+            45.52358
+          ],
+          [
+            -73.522833,
+            45.523569
+          ],
+          [
+            -73.5228,
+            45.523568
+          ],
+          [
+            -73.522762,
+            45.523566
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263080,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Terminus",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523206,
+            45.52359
+          ],
+          [
+            -73.523412,
+            45.5236
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263082,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523549,
+            45.523606
+          ],
+          [
+            -73.523585,
+            45.523607
+          ],
+          [
+            -73.523741,
+            45.523614
+          ],
+          [
+            -73.523788,
+            45.523616
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263084,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522998,
+            45.523586
+          ],
+          [
+            -73.523013,
+            45.523583
+          ],
+          [
+            -73.523038,
+            45.523581
+          ],
+          [
+            -73.523117,
+            45.523585
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263085,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522877,
+            45.525548
+          ],
+          [
+            -73.522922,
+            45.525548
+          ],
+          [
+            -73.523187,
+            45.525562
+          ],
+          [
+            -73.523428,
+            45.525576
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263088,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522814,
+            45.525446
+          ],
+          [
+            -73.5228,
+            45.525429
+          ],
+          [
+            -73.522791,
+            45.525407
+          ],
+          [
+            -73.52279,
+            45.525386
+          ],
+          [
+            -73.522796,
+            45.525282
+          ],
+          [
+            -73.522802,
+            45.525206
+          ],
+          [
+            -73.522818,
+            45.52504
+          ],
+          [
+            -73.522834,
+            45.524863
+          ],
+          [
+            -73.522838,
+            45.524819
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263089,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522688,
+            45.525277
+          ],
+          [
+            -73.522691,
+            45.525241
+          ],
+          [
+            -73.522707,
+            45.525054
+          ],
+          [
+            -73.52273,
+            45.524794
+          ],
+          [
+            -73.522743,
+            45.52465
+          ],
+          [
+            -73.52276,
+            45.524487
+          ],
+          [
+            -73.522782,
+            45.524272
+          ],
+          [
+            -73.522798,
+            45.52409
+          ],
+          [
+            -73.522807,
+            45.523985
+          ],
+          [
+            -73.522836,
+            45.523635
+          ],
+          [
+            -73.522847,
+            45.5236
+          ],
+          [
+            -73.522861,
+            45.52358
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263091,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de Sérigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523682,
+            45.526105
+          ],
+          [
+            -73.523673,
+            45.526176
+          ],
+          [
+            -73.523661,
+            45.526234
+          ],
+          [
+            -73.523652,
+            45.526301
+          ],
+          [
+            -73.523645,
+            45.526338
+          ],
+          [
+            -73.523638,
+            45.526374
+          ],
+          [
+            -73.523624,
+            45.526434
+          ],
+          [
+            -73.523608,
+            45.526493
+          ],
+          [
+            -73.523589,
+            45.526558
+          ],
+          [
+            -73.52357,
+            45.526614
+          ],
+          [
+            -73.523551,
+            45.526675
+          ],
+          [
+            -73.523548,
+            45.526685
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267981,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523705,
+            45.525689
+          ],
+          [
+            -73.523705,
+            45.52578
+          ],
+          [
+            -73.523694,
+            45.525983
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267982,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519644,
+            45.527735
+          ],
+          [
+            -73.519627,
+            45.527741
+          ],
+          [
+            -73.51961,
+            45.527745
+          ],
+          [
+            -73.51959,
+            45.527746
+          ],
+          [
+            -73.51957,
+            45.527745
+          ],
+          [
+            -73.519552,
+            45.52774
+          ],
+          [
+            -73.519533,
+            45.527732
+          ],
+          [
+            -73.519518,
+            45.527724
+          ],
+          [
+            -73.519504,
+            45.527712
+          ],
+          [
+            -73.519495,
+            45.527698
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208274360,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue de la Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519952,
+            45.526791
+          ],
+          [
+            -73.51997,
+            45.52678
+          ],
+          [
+            -73.520001,
+            45.526775
+          ],
+          [
+            -73.520046,
+            45.526776
+          ],
+          [
+            -73.520236,
+            45.526784
+          ],
+          [
+            -73.520385,
+            45.526791
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208274361,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519899,
+            45.527752
+          ],
+          [
+            -73.519878,
+            45.52774
+          ],
+          [
+            -73.519867,
+            45.527729
+          ],
+          [
+            -73.519859,
+            45.527717
+          ],
+          [
+            -73.519857,
+            45.527705
+          ],
+          [
+            -73.519853,
+            45.527688
+          ],
+          [
+            -73.519854,
+            45.527664
+          ],
+          [
+            -73.519883,
+            45.527339
+          ],
+          [
+            -73.51989,
+            45.52725
+          ],
+          [
+            -73.519896,
+            45.527184
+          ],
+          [
+            -73.519927,
+            45.526835
+          ],
+          [
+            -73.519931,
+            45.526816
+          ],
+          [
+            -73.51994,
+            45.526802
+          ],
+          [
+            -73.519952,
+            45.526791
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208274362,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue De La Barre",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519308,
+            45.526863
+          ],
+          [
+            -73.519327,
+            45.526871
+          ],
+          [
+            -73.519337,
+            45.526881
+          ],
+          [
+            -73.519348,
+            45.526892
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208274382,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519159,
+            45.525223
+          ],
+          [
+            -73.519154,
+            45.525402
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208280528,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519636,
+            45.523235
+          ],
+          [
+            -73.519599,
+            45.523235
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208393803,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519319,
+            45.523395
+          ],
+          [
+            -73.51933,
+            45.523398
+          ],
+          [
+            -73.519342,
+            45.523403
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208393987,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519975,
+            45.522266
+          ],
+          [
+            -73.519963,
+            45.522278
+          ],
+          [
+            -73.519953,
+            45.522285
+          ],
+          [
+            -73.519935,
+            45.522292
+          ],
+          [
+            -73.519909,
+            45.522299
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208393989,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519515,
+            45.525104
+          ],
+          [
+            -73.519574,
+            45.525105
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208465096,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52129,
+            45.525177
+          ],
+          [
+            -73.521558,
+            45.525187
+          ],
+          [
+            -73.521955,
+            45.525202
+          ],
+          [
+            -73.522559,
+            45.525225
+          ],
+          [
+            -73.522588,
+            45.525233
+          ],
+          [
+            -73.522632,
+            45.525252
+          ],
+          [
+            -73.522676,
+            45.525276
+          ],
+          [
+            -73.522688,
+            45.525277
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208496331,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522824,
+            45.525559
+          ],
+          [
+            -73.52285,
+            45.525551
+          ],
+          [
+            -73.522877,
+            45.525548
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208496345,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51838,
+            45.525172
+          ],
+          [
+            -73.518419,
+            45.525181
+          ],
+          [
+            -73.518453,
+            45.525183
+          ],
+          [
+            -73.518484,
+            45.525183
+          ],
+          [
+            -73.518511,
+            45.525179
+          ],
+          [
+            -73.518532,
+            45.525175
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208588902,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517617,
+            45.506515
+          ],
+          [
+            -73.517618,
+            45.506487
+          ],
+          [
+            -73.517613,
+            45.506463
+          ],
+          [
+            -73.517608,
+            45.506447
+          ],
+          [
+            -73.517598,
+            45.506434
+          ],
+          [
+            -73.517574,
+            45.506407
+          ],
+          [
+            -73.517549,
+            45.506387
+          ],
+          [
+            -73.517518,
+            45.506373
+          ],
+          [
+            -73.517477,
+            45.506361
+          ],
+          [
+            -73.517441,
+            45.506354
+          ],
+          [
+            -73.51743,
+            45.506352
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644026,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517372,
+            45.506449
+          ],
+          [
+            -73.517405,
+            45.506445
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644027,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517405,
+            45.506445
+          ],
+          [
+            -73.517414,
+            45.506444
+          ],
+          [
+            -73.517438,
+            45.506444
+          ],
+          [
+            -73.517463,
+            45.506451
+          ],
+          [
+            -73.517484,
+            45.506462
+          ],
+          [
+            -73.517494,
+            45.506481
+          ],
+          [
+            -73.517496,
+            45.506502
+          ],
+          [
+            -73.517496,
+            45.506516
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644044,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51743,
+            45.506352
+          ],
+          [
+            -73.517407,
+            45.506331
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644045,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517754,
+            45.509596
+          ],
+          [
+            -73.517742,
+            45.509539
+          ],
+          [
+            -73.517774,
+            45.509533
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644053,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517774,
+            45.509533
+          ],
+          [
+            -73.5178,
+            45.509518
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644054,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51745,
+            45.505764
+          ],
+          [
+            -73.51746,
+            45.505718
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644067,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517494,
+            45.50549
+          ],
+          [
+            -73.517523,
+            45.505499
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644072,
+        "bicycle": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517552,
+            45.505511
+          ],
+          [
+            -73.517621,
+            45.505512
+          ],
+          [
+            -73.51766,
+            45.505514
+          ],
+          [
+            -73.517684,
+            45.505511
+          ],
+          [
+            -73.517709,
+            45.505505
+          ],
+          [
+            -73.517721,
+            45.505498
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644073,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517523,
+            45.505499
+          ],
+          [
+            -73.517552,
+            45.505511
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644076,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517465,
+            45.509131
+          ],
+          [
+            -73.517497,
+            45.509129
+          ],
+          [
+            -73.517512,
+            45.509187
+          ],
+          [
+            -73.517481,
+            45.50919
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208644139,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513599,
+            45.520855
+          ],
+          [
+            -73.513596,
+            45.520851
+          ],
+          [
+            -73.513586,
+            45.520837
+          ],
+          [
+            -73.513575,
+            45.520813
+          ],
+          [
+            -73.513567,
+            45.520788
+          ],
+          [
+            -73.513564,
+            45.52077
+          ],
+          [
+            -73.513563,
+            45.520742
+          ],
+          [
+            -73.513559,
+            45.520557
+          ],
+          [
+            -73.513555,
+            45.520385
+          ],
+          [
+            -73.513555,
+            45.520279
+          ],
+          [
+            -73.513557,
+            45.520209
+          ],
+          [
+            -73.513563,
+            45.520132
+          ],
+          [
+            -73.513572,
+            45.520046
+          ],
+          [
+            -73.513584,
+            45.519971
+          ],
+          [
+            -73.513596,
+            45.519896
+          ],
+          [
+            -73.513614,
+            45.519834
+          ],
+          [
+            -73.513635,
+            45.519759
+          ],
+          [
+            -73.513658,
+            45.519692
+          ],
+          [
+            -73.513689,
+            45.519611
+          ],
+          [
+            -73.513715,
+            45.519549
+          ],
+          [
+            -73.513746,
+            45.519483
+          ],
+          [
+            -73.513773,
+            45.519427
+          ],
+          [
+            -73.513799,
+            45.51938
+          ],
+          [
+            -73.513818,
+            45.51935
+          ],
+          [
+            -73.513851,
+            45.519293
+          ],
+          [
+            -73.513909,
+            45.519202
+          ],
+          [
+            -73.513952,
+            45.519146
+          ],
+          [
+            -73.513965,
+            45.519135
+          ],
+          [
+            -73.513981,
+            45.519125
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208866400,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51356,
+            45.522457
+          ],
+          [
+            -73.513552,
+            45.522439
+          ],
+          [
+            -73.51355,
+            45.522409
+          ],
+          [
+            -73.513546,
+            45.522093
+          ],
+          [
+            -73.513542,
+            45.52195
+          ],
+          [
+            -73.513531,
+            45.521232
+          ],
+          [
+            -73.51353,
+            45.521185
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208866410,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513555,
+            45.522616
+          ],
+          [
+            -73.513556,
+            45.522742
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208866412,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513381,
+            45.522552
+          ],
+          [
+            -73.513395,
+            45.522556
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208866421,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Sainte-Hélène",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515663,
+            45.525026
+          ],
+          [
+            -73.515661,
+            45.525046
+          ],
+          [
+            -73.515657,
+            45.525072
+          ],
+          [
+            -73.515645,
+            45.525094
+          ],
+          [
+            -73.515624,
+            45.525115
+          ],
+          [
+            -73.515595,
+            45.525139
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208874878,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51358,
+            45.522875
+          ],
+          [
+            -73.513568,
+            45.522897
+          ],
+          [
+            -73.513559,
+            45.522919
+          ],
+          [
+            -73.513558,
+            45.52295
+          ],
+          [
+            -73.513562,
+            45.523057
+          ],
+          [
+            -73.513568,
+            45.523638
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887352,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51357,
+            45.523715
+          ],
+          [
+            -73.513571,
+            45.523791
+          ],
+          [
+            -73.513574,
+            45.523988
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887354,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513574,
+            45.524096
+          ],
+          [
+            -73.513576,
+            45.524203
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887356,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51358,
+            45.524314
+          ],
+          [
+            -73.513583,
+            45.524562
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887358,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513584,
+            45.524661
+          ],
+          [
+            -73.513584,
+            45.524685
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887360,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513588,
+            45.524756
+          ],
+          [
+            -73.513617,
+            45.52498
+          ],
+          [
+            -73.513646,
+            45.525194
+          ],
+          [
+            -73.513654,
+            45.525213
+          ],
+          [
+            -73.513669,
+            45.525235
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887362,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513593,
+            45.52526
+          ],
+          [
+            -73.513594,
+            45.525373
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887370,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513594,
+            45.525373
+          ],
+          [
+            -73.513749,
+            45.525361
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887371,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.5136,
+            45.525558
+          ],
+          [
+            -73.513627,
+            45.525555
+          ],
+          [
+            -73.51378,
+            45.52554
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887398,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513669,
+            45.525235
+          ],
+          [
+            -73.513685,
+            45.525254
+          ],
+          [
+            -73.513704,
+            45.52527
+          ],
+          [
+            -73.513723,
+            45.525282
+          ],
+          [
+            -73.513749,
+            45.525294
+          ],
+          [
+            -73.513763,
+            45.5253
+          ],
+          [
+            -73.513778,
+            45.525305
+          ],
+          [
+            -73.513803,
+            45.525312
+          ],
+          [
+            -73.513831,
+            45.525317
+          ],
+          [
+            -73.513864,
+            45.525321
+          ],
+          [
+            -73.513896,
+            45.525321
+          ],
+          [
+            -73.513935,
+            45.525318
+          ],
+          [
+            -73.514194,
+            45.525296
+          ],
+          [
+            -73.514277,
+            45.525288
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887419,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513752,
+            45.525639
+          ],
+          [
+            -73.51377,
+            45.525621
+          ],
+          [
+            -73.513801,
+            45.525601
+          ],
+          [
+            -73.51385,
+            45.525581
+          ],
+          [
+            -73.513899,
+            45.525565
+          ],
+          [
+            -73.513949,
+            45.525557
+          ],
+          [
+            -73.51406,
+            45.525547
+          ],
+          [
+            -73.514772,
+            45.525483
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887427,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514869,
+            45.525475
+          ],
+          [
+            -73.515174,
+            45.525448
+          ],
+          [
+            -73.515511,
+            45.525418
+          ],
+          [
+            -73.51556,
+            45.525415
+          ],
+          [
+            -73.515603,
+            45.525417
+          ],
+          [
+            -73.515647,
+            45.525423
+          ],
+          [
+            -73.515686,
+            45.525434
+          ],
+          [
+            -73.515714,
+            45.525449
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887434,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.5136,
+            45.525558
+          ],
+          [
+            -73.513598,
+            45.525577
+          ],
+          [
+            -73.513602,
+            45.525721
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887443,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515714,
+            45.525449
+          ],
+          [
+            -73.515735,
+            45.52546
+          ],
+          [
+            -73.51576,
+            45.52548
+          ],
+          [
+            -73.51579,
+            45.525511
+          ],
+          [
+            -73.515814,
+            45.525546
+          ],
+          [
+            -73.515836,
+            45.525597
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887450,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515836,
+            45.525597
+          ],
+          [
+            -73.515918,
+            45.525777
+          ],
+          [
+            -73.516002,
+            45.525976
+          ],
+          [
+            -73.516042,
+            45.526084
+          ],
+          [
+            -73.516069,
+            45.52618
+          ],
+          [
+            -73.516091,
+            45.52627
+          ],
+          [
+            -73.516127,
+            45.526378
+          ],
+          [
+            -73.516171,
+            45.526511
+          ],
+          [
+            -73.516189,
+            45.526563
+          ],
+          [
+            -73.516194,
+            45.526588
+          ],
+          [
+            -73.51619,
+            45.526614
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887451,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515777,
+            45.525278
+          ],
+          [
+            -73.515773,
+            45.525266
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887454,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515755,
+            45.525188
+          ],
+          [
+            -73.515748,
+            45.525163
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887456,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515793,
+            45.52536
+          ],
+          [
+            -73.515795,
+            45.525372
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887458,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515957,
+            45.525358
+          ],
+          [
+            -73.515956,
+            45.525376
+          ],
+          [
+            -73.515963,
+            45.525408
+          ],
+          [
+            -73.516007,
+            45.525557
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887463,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517933,
+            45.525418
+          ],
+          [
+            -73.517942,
+            45.52546
+          ],
+          [
+            -73.518165,
+            45.525438
+          ],
+          [
+            -73.518197,
+            45.525438
+          ],
+          [
+            -73.518253,
+            45.525447
+          ],
+          [
+            -73.518418,
+            45.525475
+          ],
+          [
+            -73.518572,
+            45.525496
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887470,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518572,
+            45.525496
+          ],
+          [
+            -73.518595,
+            45.525482
+          ],
+          [
+            -73.518602,
+            45.525469
+          ],
+          [
+            -73.518605,
+            45.525459
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887474,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518605,
+            45.525459
+          ],
+          [
+            -73.518661,
+            45.525463
+          ],
+          [
+            -73.518672,
+            45.52547
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887475,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522821,
+            45.523459
+          ],
+          [
+            -73.522808,
+            45.523458
+          ],
+          [
+            -73.522769,
+            45.523456
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208918829,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Terminus",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523428,
+            45.525576
+          ],
+          [
+            -73.523474,
+            45.525581
+          ],
+          [
+            -73.52353,
+            45.525591
+          ],
+          [
+            -73.523577,
+            45.525603
+          ],
+          [
+            -73.523625,
+            45.52562
+          ],
+          [
+            -73.523657,
+            45.525634
+          ],
+          [
+            -73.523675,
+            45.525645
+          ],
+          [
+            -73.52369,
+            45.525659
+          ],
+          [
+            -73.523699,
+            45.525672
+          ],
+          [
+            -73.523705,
+            45.525689
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208933340,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.521276,
+            45.527842
+          ],
+          [
+            -73.521279,
+            45.527817
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208933342,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52127,
+            45.527905
+          ],
+          [
+            -73.521266,
+            45.527931
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208933343,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516597,
+            45.527293
+          ],
+          [
+            -73.516662,
+            45.527378
+          ],
+          [
+            -73.516825,
+            45.527596
+          ],
+          [
+            -73.516904,
+            45.527706
+          ],
+          [
+            -73.51699,
+            45.527843
+          ],
+          [
+            -73.517005,
+            45.527882
+          ],
+          [
+            -73.517017,
+            45.527925
+          ],
+          [
+            -73.517043,
+            45.528043
+          ],
+          [
+            -73.517065,
+            45.528106
+          ],
+          [
+            -73.517096,
+            45.528207
+          ],
+          [
+            -73.517148,
+            45.528349
+          ],
+          [
+            -73.517178,
+            45.528436
+          ],
+          [
+            -73.517203,
+            45.528498
+          ],
+          [
+            -73.51722,
+            45.528544
+          ],
+          [
+            -73.51724,
+            45.528583
+          ],
+          [
+            -73.517271,
+            45.528631
+          ],
+          [
+            -73.51734,
+            45.528733
+          ],
+          [
+            -73.517355,
+            45.52876
+          ],
+          [
+            -73.51737,
+            45.528799
+          ],
+          [
+            -73.517535,
+            45.529204
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209357803,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516514,
+            45.527177
+          ],
+          [
+            -73.516474,
+            45.527122
+          ],
+          [
+            -73.516411,
+            45.527014
+          ],
+          [
+            -73.516336,
+            45.526892
+          ],
+          [
+            -73.516301,
+            45.526831
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209357805,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516301,
+            45.526831
+          ],
+          [
+            -73.516278,
+            45.52679
+          ],
+          [
+            -73.51624,
+            45.526735
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209357813,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Boulevard Taschereau",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517589,
+            45.531033
+          ],
+          [
+            -73.517695,
+            45.531067
+          ],
+          [
+            -73.517722,
+            45.531076
+          ],
+          [
+            -73.517747,
+            45.531081
+          ],
+          [
+            -73.517773,
+            45.531084
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423204,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518288,
+            45.531242
+          ],
+          [
+            -73.518285,
+            45.531221
+          ],
+          [
+            -73.518287,
+            45.531201
+          ],
+          [
+            -73.518295,
+            45.531177
+          ],
+          [
+            -73.518303,
+            45.531166
+          ],
+          [
+            -73.518327,
+            45.531139
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423208,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517806,
+            45.531277
+          ],
+          [
+            -73.517788,
+            45.531261
+          ],
+          [
+            -73.517764,
+            45.531247
+          ],
+          [
+            -73.517492,
+            45.531154
+          ],
+          [
+            -73.517098,
+            45.53102
+          ],
+          [
+            -73.516713,
+            45.530887
+          ],
+          [
+            -73.516507,
+            45.530817
+          ],
+          [
+            -73.51643,
+            45.530791
+          ],
+          [
+            -73.516377,
+            45.530773
+          ],
+          [
+            -73.516298,
+            45.530747
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423209,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518288,
+            45.531242
+          ],
+          [
+            -73.518299,
+            45.531257
+          ],
+          [
+            -73.518317,
+            45.531272
+          ],
+          [
+            -73.518338,
+            45.531284
+          ],
+          [
+            -73.518369,
+            45.531295
+          ],
+          [
+            -73.518674,
+            45.531397
+          ],
+          [
+            -73.518703,
+            45.531387
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423210,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518998,
+            45.53145
+          ],
+          [
+            -73.518986,
+            45.531448
+          ],
+          [
+            -73.518968,
+            45.531443
+          ],
+          [
+            -73.518942,
+            45.531429
+          ],
+          [
+            -73.518876,
+            45.531392
+          ],
+          [
+            -73.51883,
+            45.531362
+          ],
+          [
+            -73.518801,
+            45.531343
+          ],
+          [
+            -73.518753,
+            45.531309
+          ],
+          [
+            -73.518715,
+            45.531277
+          ],
+          [
+            -73.518685,
+            45.531245
+          ],
+          [
+            -73.518659,
+            45.531212
+          ],
+          [
+            -73.518638,
+            45.53118
+          ],
+          [
+            -73.518628,
+            45.531159
+          ],
+          [
+            -73.518622,
+            45.531141
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423211,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516765,
+            45.530791
+          ],
+          [
+            -73.516618,
+            45.530737
+          ],
+          [
+            -73.516572,
+            45.530721
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423234,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519158,
+            45.53156
+          ],
+          [
+            -73.519194,
+            45.531576
+          ],
+          [
+            -73.519255,
+            45.5316
+          ],
+          [
+            -73.519302,
+            45.531624
+          ],
+          [
+            -73.51934,
+            45.531645
+          ],
+          [
+            -73.519388,
+            45.531675
+          ],
+          [
+            -73.519429,
+            45.531703
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423244,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519507,
+            45.531765
+          ],
+          [
+            -73.519543,
+            45.531801
+          ],
+          [
+            -73.519576,
+            45.531838
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423246,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519429,
+            45.531703
+          ],
+          [
+            -73.519448,
+            45.531702
+          ],
+          [
+            -73.51951,
+            45.531686
+          ],
+          [
+            -73.519545,
+            45.531677
+          ],
+          [
+            -73.519563,
+            45.531676
+          ],
+          [
+            -73.519575,
+            45.531678
+          ],
+          [
+            -73.519589,
+            45.531681
+          ],
+          [
+            -73.519614,
+            45.531689
+          ],
+          [
+            -73.51964,
+            45.531697
+          ],
+          [
+            -73.519665,
+            45.531706
+          ],
+          [
+            -73.519687,
+            45.531715
+          ],
+          [
+            -73.519702,
+            45.531725
+          ],
+          [
+            -73.519709,
+            45.531738
+          ],
+          [
+            -73.519714,
+            45.531761
+          ],
+          [
+            -73.519707,
+            45.531793
+          ],
+          [
+            -73.519685,
+            45.531887
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423253,
+        "access": "private",
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519158,
+            45.53156
+          ],
+          [
+            -73.519153,
+            45.531548
+          ],
+          [
+            -73.519156,
+            45.531531
+          ],
+          [
+            -73.519171,
+            45.53151
+          ],
+          [
+            -73.519514,
+            45.530999
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423257,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place de la Louisiane",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519541,
+            45.530962
+          ],
+          [
+            -73.519604,
+            45.530873
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423259,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place de la Louisiane",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519628,
+            45.530834
+          ],
+          [
+            -73.519658,
+            45.53079
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423261,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place de la Louisiane",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519694,
+            45.530734
+          ],
+          [
+            -73.519704,
+            45.530712
+          ],
+          [
+            -73.519708,
+            45.530695
+          ],
+          [
+            -73.519708,
+            45.530676
+          ],
+          [
+            -73.519704,
+            45.530658
+          ],
+          [
+            -73.519692,
+            45.530633
+          ],
+          [
+            -73.519673,
+            45.530607
+          ],
+          [
+            -73.51965,
+            45.530586
+          ],
+          [
+            -73.519622,
+            45.53057
+          ],
+          [
+            -73.519586,
+            45.530557
+          ],
+          [
+            -73.519558,
+            45.530549
+          ],
+          [
+            -73.519528,
+            45.530547
+          ],
+          [
+            -73.519499,
+            45.530546
+          ],
+          [
+            -73.519468,
+            45.530549
+          ],
+          [
+            -73.519439,
+            45.530556
+          ],
+          [
+            -73.519415,
+            45.530561
+          ],
+          [
+            -73.519395,
+            45.53057
+          ],
+          [
+            -73.519387,
+            45.530573
+          ],
+          [
+            -73.519359,
+            45.530589
+          ],
+          [
+            -73.519338,
+            45.530607
+          ],
+          [
+            -73.519323,
+            45.530625
+          ],
+          [
+            -73.519311,
+            45.530646
+          ],
+          [
+            -73.519306,
+            45.530668
+          ],
+          [
+            -73.519305,
+            45.530693
+          ],
+          [
+            -73.519315,
+            45.530758
+          ],
+          [
+            -73.519357,
+            45.530929
+          ],
+          [
+            -73.519362,
+            45.530956
+          ],
+          [
+            -73.519362,
+            45.530974
+          ],
+          [
+            -73.519356,
+            45.531003
+          ],
+          [
+            -73.519348,
+            45.531028
+          ],
+          [
+            -73.519329,
+            45.531056
+          ],
+          [
+            -73.519202,
+            45.531241
+          ],
+          [
+            -73.519077,
+            45.531422
+          ],
+          [
+            -73.519066,
+            45.531434
+          ],
+          [
+            -73.519043,
+            45.531444
+          ],
+          [
+            -73.519022,
+            45.531449
+          ],
+          [
+            -73.518998,
+            45.53145
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423263,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place de la Louisiane",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519514,
+            45.530999
+          ],
+          [
+            -73.519568,
+            45.530998
+          ],
+          [
+            -73.519608,
+            45.530997
+          ],
+          [
+            -73.519629,
+            45.530994
+          ],
+          [
+            -73.519648,
+            45.530986
+          ],
+          [
+            -73.519671,
+            45.530958
+          ],
+          [
+            -73.51968,
+            45.530945
+          ],
+          [
+            -73.519689,
+            45.530932
+          ],
+          [
+            -73.519704,
+            45.530906
+          ],
+          [
+            -73.519706,
+            45.530896
+          ],
+          [
+            -73.519694,
+            45.530882
+          ],
+          [
+            -73.519651,
+            45.530849
+          ],
+          [
+            -73.519628,
+            45.530834
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423266,
+        "access": "private",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51813,
+            45.531384
+          ],
+          [
+            -73.518152,
+            45.531377
+          ],
+          [
+            -73.518179,
+            45.531374
+          ],
+          [
+            -73.518203,
+            45.531374
+          ],
+          [
+            -73.518229,
+            45.531377
+          ],
+          [
+            -73.51826,
+            45.531384
+          ],
+          [
+            -73.518296,
+            45.531393
+          ],
+          [
+            -73.518328,
+            45.531405
+          ],
+          [
+            -73.51835,
+            45.531413
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423288,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518417,
+            45.531435
+          ],
+          [
+            -73.518535,
+            45.531476
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423291,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518604,
+            45.531499
+          ],
+          [
+            -73.518674,
+            45.531521
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423293,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518743,
+            45.531545
+          ],
+          [
+            -73.518837,
+            45.531576
+          ],
+          [
+            -73.518912,
+            45.531601
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423295,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518994,
+            45.531628
+          ],
+          [
+            -73.519055,
+            45.531649
+          ],
+          [
+            -73.519085,
+            45.531659
+          ],
+          [
+            -73.51911,
+            45.531668
+          ],
+          [
+            -73.519159,
+            45.531689
+          ],
+          [
+            -73.5192,
+            45.531708
+          ],
+          [
+            -73.519245,
+            45.531734
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423297,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519311,
+            45.531777
+          ],
+          [
+            -73.519352,
+            45.531809
+          ],
+          [
+            -73.519384,
+            45.531837
+          ],
+          [
+            -73.519415,
+            45.531867
+          ],
+          [
+            -73.519444,
+            45.531901
+          ],
+          [
+            -73.519469,
+            45.531935
+          ],
+          [
+            -73.519496,
+            45.531974
+          ],
+          [
+            -73.519515,
+            45.532013
+          ],
+          [
+            -73.519528,
+            45.532046
+          ],
+          [
+            -73.519536,
+            45.532069
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423299,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51835,
+            45.531413
+          ],
+          [
+            -73.51835,
+            45.531439
+          ],
+          [
+            -73.518339,
+            45.531459
+          ],
+          [
+            -73.518337,
+            45.531469
+          ],
+          [
+            -73.518343,
+            45.531478
+          ],
+          [
+            -73.518364,
+            45.531488
+          ],
+          [
+            -73.518451,
+            45.531517
+          ],
+          [
+            -73.518523,
+            45.53154
+          ],
+          [
+            -73.518537,
+            45.531542
+          ],
+          [
+            -73.51855,
+            45.53154
+          ],
+          [
+            -73.518562,
+            45.531534
+          ],
+          [
+            -73.518578,
+            45.531517
+          ],
+          [
+            -73.518585,
+            45.531507
+          ],
+          [
+            -73.518604,
+            45.531499
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423318,
+        "access": "private",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517585,
+            45.531866
+          ],
+          [
+            -73.517787,
+            45.531676
+          ],
+          [
+            -73.517987,
+            45.531469
+          ],
+          [
+            -73.518012,
+            45.531444
+          ],
+          [
+            -73.51804,
+            45.531419
+          ],
+          [
+            -73.518063,
+            45.531405
+          ],
+          [
+            -73.518083,
+            45.531395
+          ],
+          [
+            -73.518106,
+            45.531388
+          ],
+          [
+            -73.51813,
+            45.531384
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423348,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514394,
+            45.525278
+          ],
+          [
+            -73.514868,
+            45.525236
+          ],
+          [
+            -73.515457,
+            45.525184
+          ],
+          [
+            -73.515497,
+            45.525178
+          ],
+          [
+            -73.515539,
+            45.525168
+          ],
+          [
+            -73.515569,
+            45.525157
+          ],
+          [
+            -73.515595,
+            45.525139
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209686465,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520493,
+            45.526775
+          ],
+          [
+            -73.520526,
+            45.526755
+          ],
+          [
+            -73.520545,
+            45.526738
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210015092,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520474,
+            45.526352
+          ],
+          [
+            -73.520478,
+            45.526316
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017313,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520487,
+            45.526238
+          ],
+          [
+            -73.520489,
+            45.526211
+          ],
+          [
+            -73.520498,
+            45.526106
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017315,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520513,
+            45.525946
+          ],
+          [
+            -73.520515,
+            45.525916
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017317,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520521,
+            45.525835
+          ],
+          [
+            -73.520533,
+            45.525702
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017318,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520462,
+            45.5265
+          ],
+          [
+            -73.52047,
+            45.526404
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017321,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520504,
+            45.526039
+          ],
+          [
+            -73.520505,
+            45.526028
+          ],
+          [
+            -73.520506,
+            45.526017
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210017324,
+        "bicycle": "dismount",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue d'Assigny",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513621,
+            45.526817
+          ],
+          [
+            -73.513621,
+            45.526803
+          ],
+          [
+            -73.513613,
+            45.526457
+          ],
+          [
+            -73.513612,
+            45.526367
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268680,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515008,
+            45.52977
+          ],
+          [
+            -73.514807,
+            45.530066
+          ],
+          [
+            -73.514782,
+            45.530097
+          ],
+          [
+            -73.51477,
+            45.530109
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268723,
+        "access": "customers",
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513593,
+            45.529045
+          ],
+          [
+            -73.513569,
+            45.52906
+          ],
+          [
+            -73.51355,
+            45.529065
+          ],
+          [
+            -73.513524,
+            45.529068
+          ],
+          [
+            -73.513498,
+            45.52907
+          ],
+          [
+            -73.513473,
+            45.529067
+          ],
+          [
+            -73.513443,
+            45.529062
+          ],
+          [
+            -73.513393,
+            45.529046
+          ],
+          [
+            -73.513258,
+            45.528999
+          ],
+          [
+            -73.513152,
+            45.528959
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268728,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514096,
+            45.529879
+          ],
+          [
+            -73.51376,
+            45.529762
+          ],
+          [
+            -73.513731,
+            45.529749
+          ],
+          [
+            -73.51372,
+            45.529741
+          ],
+          [
+            -73.513711,
+            45.529735
+          ],
+          [
+            -73.513664,
+            45.529699
+          ],
+          [
+            -73.513624,
+            45.529652
+          ],
+          [
+            -73.513591,
+            45.529606
+          ],
+          [
+            -73.513573,
+            45.529562
+          ],
+          [
+            -73.513559,
+            45.529512
+          ],
+          [
+            -73.513549,
+            45.529463
+          ],
+          [
+            -73.513547,
+            45.529437
+          ],
+          [
+            -73.513546,
+            45.529418
+          ],
+          [
+            -73.513547,
+            45.529376
+          ],
+          [
+            -73.513558,
+            45.529327
+          ],
+          [
+            -73.513575,
+            45.529283
+          ],
+          [
+            -73.513589,
+            45.529247
+          ],
+          [
+            -73.513638,
+            45.529176
+          ],
+          [
+            -73.513669,
+            45.529131
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268729,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514537,
+            45.530031
+          ],
+          [
+            -73.514096,
+            45.529879
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268730,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515404,
+            45.529816
+          ],
+          [
+            -73.515519,
+            45.529853
+          ],
+          [
+            -73.515541,
+            45.529856
+          ],
+          [
+            -73.515676,
+            45.529849
+          ],
+          [
+            -73.515759,
+            45.529846
+          ],
+          [
+            -73.515781,
+            45.529849
+          ],
+          [
+            -73.515801,
+            45.529856
+          ],
+          [
+            -73.515813,
+            45.52986
+          ],
+          [
+            -73.51585,
+            45.529873
+          ],
+          [
+            -73.516015,
+            45.529929
+          ],
+          [
+            -73.516227,
+            45.530001
+          ],
+          [
+            -73.516325,
+            45.530034
+          ],
+          [
+            -73.51635,
+            45.530045
+          ],
+          [
+            -73.51644,
+            45.530075
+          ],
+          [
+            -73.516514,
+            45.530099
+          ],
+          [
+            -73.516642,
+            45.530142
+          ],
+          [
+            -73.516729,
+            45.53017
+          ],
+          [
+            -73.516749,
+            45.530174
+          ],
+          [
+            -73.516776,
+            45.53017
+          ],
+          [
+            -73.516794,
+            45.530157
+          ],
+          [
+            -73.516818,
+            45.530122
+          ],
+          [
+            -73.516919,
+            45.529976
+          ],
+          [
+            -73.516966,
+            45.529908
+          ],
+          [
+            -73.517016,
+            45.52983
+          ],
+          [
+            -73.517068,
+            45.529751
+          ],
+          [
+            -73.517113,
+            45.529678
+          ],
+          [
+            -73.517185,
+            45.52956
+          ],
+          [
+            -73.517194,
+            45.52954
+          ],
+          [
+            -73.517192,
+            45.529519
+          ],
+          [
+            -73.51719,
+            45.52947
+          ],
+          [
+            -73.517195,
+            45.529445
+          ],
+          [
+            -73.517204,
+            45.529423
+          ],
+          [
+            -73.517223,
+            45.529392
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268740,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516717,
+            45.530273
+          ],
+          [
+            -73.516714,
+            45.530286
+          ],
+          [
+            -73.516696,
+            45.53031
+          ],
+          [
+            -73.516621,
+            45.530421
+          ],
+          [
+            -73.51652,
+            45.53057
+          ],
+          [
+            -73.516471,
+            45.530642
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268743,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516443,
+            45.530676
+          ],
+          [
+            -73.516425,
+            45.530664
+          ],
+          [
+            -73.516249,
+            45.530605
+          ],
+          [
+            -73.514934,
+            45.530159
+          ],
+          [
+            -73.514914,
+            45.530157
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268745,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Joliette",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513588,
+            45.528261
+          ],
+          [
+            -73.513636,
+            45.528237
+          ],
+          [
+            -73.513693,
+            45.528222
+          ],
+          [
+            -73.51373,
+            45.528218
+          ],
+          [
+            -73.513754,
+            45.528224
+          ],
+          [
+            -73.514099,
+            45.528339
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268749,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514325,
+            45.528432
+          ],
+          [
+            -73.514487,
+            45.528488
+          ],
+          [
+            -73.514553,
+            45.52839
+          ],
+          [
+            -73.514581,
+            45.528348
+          ],
+          [
+            -73.514641,
+            45.528259
+          ],
+          [
+            -73.514745,
+            45.528106
+          ],
+          [
+            -73.514846,
+            45.527954
+          ],
+          [
+            -73.514942,
+            45.52781
+          ],
+          [
+            -73.514985,
+            45.527749
+          ],
+          [
+            -73.514958,
+            45.527693
+          ],
+          [
+            -73.514914,
+            45.527601
+          ],
+          [
+            -73.514993,
+            45.527485
+          ],
+          [
+            -73.515011,
+            45.527458
+          ],
+          [
+            -73.51507,
+            45.527369
+          ],
+          [
+            -73.515305,
+            45.527449
+          ],
+          [
+            -73.515492,
+            45.527514
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268751,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514954,
+            45.527328
+          ],
+          [
+            -73.514767,
+            45.527265
+          ],
+          [
+            -73.514694,
+            45.527241
+          ],
+          [
+            -73.514664,
+            45.527234
+          ],
+          [
+            -73.514623,
+            45.527234
+          ],
+          [
+            -73.514367,
+            45.527234
+          ],
+          [
+            -73.51374,
+            45.527234
+          ],
+          [
+            -73.513701,
+            45.527237
+          ],
+          [
+            -73.513674,
+            45.527244
+          ],
+          [
+            -73.513657,
+            45.527252
+          ],
+          [
+            -73.51364,
+            45.527263
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268752,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51557,
+            45.527536
+          ],
+          [
+            -73.51573,
+            45.52759
+          ],
+          [
+            -73.515897,
+            45.527647
+          ],
+          [
+            -73.516082,
+            45.52771
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210268757,
+        "access": "customers",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "motor_vehicle": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513648,
+            45.52799
+          ],
+          [
+            -73.513695,
+            45.528031
+          ],
+          [
+            -73.513744,
+            45.528068
+          ],
+          [
+            -73.513765,
+            45.52808
+          ],
+          [
+            -73.513804,
+            45.528096
+          ],
+          [
+            -73.514185,
+            45.528222
+          ],
+          [
+            -73.514415,
+            45.528298
+          ],
+          [
+            -73.514426,
+            45.528302
+          ],
+          [
+            -73.514438,
+            45.528303
+          ],
+          [
+            -73.514448,
+            45.528302
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210312733,
+        "access": "customers",
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513152,
+            45.528959
+          ],
+          [
+            -73.51331,
+            45.528741
+          ],
+          [
+            -73.513317,
+            45.528731
+          ],
+          [
+            -73.513341,
+            45.528697
+          ],
+          [
+            -73.513364,
+            45.528663
+          ],
+          [
+            -73.513381,
+            45.528639
+          ],
+          [
+            -73.513399,
+            45.528606
+          ],
+          [
+            -73.513416,
+            45.528562
+          ],
+          [
+            -73.513458,
+            45.528455
+          ],
+          [
+            -73.513486,
+            45.528387
+          ],
+          [
+            -73.513502,
+            45.528352
+          ],
+          [
+            -73.513525,
+            45.528314
+          ],
+          [
+            -73.513542,
+            45.528292
+          ],
+          [
+            -73.513563,
+            45.528276
+          ],
+          [
+            -73.513588,
+            45.528261
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319416,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513576,
+            45.528183
+          ],
+          [
+            -73.513581,
+            45.528172
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319418,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51383,
+            45.528925
+          ],
+          [
+            -73.513842,
+            45.528907
+          ],
+          [
+            -73.513944,
+            45.528757
+          ],
+          [
+            -73.514042,
+            45.528614
+          ],
+          [
+            -73.514142,
+            45.528467
+          ],
+          [
+            -73.514184,
+            45.528405
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319431,
+        "access": "customers",
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513607,
+            45.528052
+          ],
+          [
+            -73.513605,
+            45.52804
+          ],
+          [
+            -73.513605,
+            45.528033
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319443,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513605,
+            45.52804
+          ],
+          [
+            -73.513591,
+            45.52804
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319445,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Marmier",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513557,
+            45.528182
+          ],
+          [
+            -73.513576,
+            45.528183
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319456,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Marmier",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513616,
+            45.526292
+          ],
+          [
+            -73.513622,
+            45.526221
+          ],
+          [
+            -73.513627,
+            45.526161
+          ],
+          [
+            -73.513632,
+            45.526119
+          ],
+          [
+            -73.513632,
+            45.526114
+          ],
+          [
+            -73.513656,
+            45.525916
+          ],
+          [
+            -73.513674,
+            45.525789
+          ],
+          [
+            -73.513705,
+            45.525705
+          ],
+          [
+            -73.513752,
+            45.525639
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210322320,
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Laurent Ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.518804,
+            45.53332
+          ],
+          [
+            -73.518798,
+            45.533341
+          ],
+          [
+            -73.518786,
+            45.53336
+          ],
+          [
+            -73.518554,
+            45.533647
+          ],
+          [
+            -73.518399,
+            45.533831
+          ],
+          [
+            -73.518342,
+            45.533898
+          ],
+          [
+            -73.518327,
+            45.533907
+          ],
+          [
+            -73.518307,
+            45.533913
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210649716,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519536,
+            45.532069
+          ],
+          [
+            -73.519544,
+            45.532111
+          ],
+          [
+            -73.519552,
+            45.532161
+          ],
+          [
+            -73.519554,
+            45.532208
+          ],
+          [
+            -73.51955,
+            45.532252
+          ],
+          [
+            -73.519543,
+            45.532295
+          ],
+          [
+            -73.519534,
+            45.532335
+          ],
+          [
+            -73.519518,
+            45.532374
+          ],
+          [
+            -73.5195,
+            45.53241
+          ],
+          [
+            -73.519476,
+            45.532448
+          ],
+          [
+            -73.519441,
+            45.532502
+          ],
+          [
+            -73.519323,
+            45.532679
+          ],
+          [
+            -73.519283,
+            45.532738
+          ],
+          [
+            -73.519246,
+            45.532789
+          ],
+          [
+            -73.519154,
+            45.5329
+          ],
+          [
+            -73.51903,
+            45.533053
+          ],
+          [
+            -73.518926,
+            45.533182
+          ],
+          [
+            -73.518914,
+            45.533192
+          ],
+          [
+            -73.518898,
+            45.533198
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210649718,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51657,
+            45.536199
+          ],
+          [
+            -73.51655,
+            45.536225
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1211251935,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514389,
+            45.538224
+          ],
+          [
+            -73.514354,
+            45.538247
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1211711833,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517441,
+            45.531672
+          ],
+          [
+            -73.517457,
+            45.531669
+          ],
+          [
+            -73.517475,
+            45.531658
+          ],
+          [
+            -73.517621,
+            45.531513
+          ],
+          [
+            -73.517741,
+            45.531395
+          ],
+          [
+            -73.517804,
+            45.531329
+          ],
+          [
+            -73.517811,
+            45.53131
+          ],
+          [
+            -73.517812,
+            45.531292
+          ],
+          [
+            -73.517806,
+            45.531277
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1226797464,
+        "bicycle": "no",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
+      }
+    }
+  ]
+}

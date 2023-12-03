@@ -17,7 +17,14 @@
         ]
       },
       "properties": {
-        "@id": 96725782
+        "@id": 96725782,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "layer": "1",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -60,7 +67,14 @@
         ]
       },
       "properties": {
-        "@id": 335936871
+        "@id": 335936871,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -155,7 +169,11 @@
         ]
       },
       "properties": {
-        "@id": 353598936
+        "@id": 353598936,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -226,7 +244,14 @@
         ]
       },
       "properties": {
-        "@id": 521045864
+        "@id": 521045864,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -245,7 +270,15 @@
         ]
       },
       "properties": {
-        "@id": 521045868
+        "@id": 521045868,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1352,7 +1385,19 @@
         ]
       },
       "properties": {
-        "@id": 547673885
+        "@id": 547673885,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "name": "La Riveraine",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -1419,7 +1464,19 @@
         ]
       },
       "properties": {
-        "@id": 547946681
+        "@id": 547946681,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "oneway": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1454,7 +1511,19 @@
         ]
       },
       "properties": {
-        "@id": 718375300
+        "@id": 718375300,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -1473,7 +1542,14 @@
         ]
       },
       "properties": {
-        "@id": 719036678
+        "@id": 719036678,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Pierre-Dupuy",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1556,7 +1632,14 @@
         ]
       },
       "properties": {
-        "@id": 721195862
+        "@id": 721195862,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1587,7 +1670,18 @@
         ]
       },
       "properties": {
-        "@id": 724329466
+        "@id": 724329466,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "surface",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "concrete",
+        "winter_service": "yes"
       }
     },
     {
@@ -1626,7 +1720,18 @@
         ]
       },
       "properties": {
-        "@id": 724329974
+        "@id": 724329974,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1645,7 +1750,14 @@
         ]
       },
       "properties": {
-        "@id": 752979662
+        "@id": 752979662,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1688,7 +1800,13 @@
         ]
       },
       "properties": {
-        "@id": 753010810
+        "@id": 753010810,
+        "cycleway:surface": "asphalt",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1711,7 +1829,16 @@
         ]
       },
       "properties": {
-        "@id": 753010811
+        "@id": 753010811,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1730,7 +1857,15 @@
         ]
       },
       "properties": {
-        "@id": 753010812
+        "@id": 753010812,
+        "bicycle": "designated",
+        "cycleway:surface": "asphalt",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "concrete",
+        "winter_service": "yes"
       }
     },
     {
@@ -1761,7 +1896,16 @@
         ]
       },
       "properties": {
-        "@id": 753030081
+        "@id": 753030081,
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1784,7 +1928,14 @@
         ]
       },
       "properties": {
-        "@id": 753030082
+        "@id": 753030082,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones",
+        "winter_service": "yes"
       }
     },
     {
@@ -1811,7 +1962,14 @@
         ]
       },
       "properties": {
-        "@id": 753030083
+        "@id": 753030083,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones",
+        "winter_service": "yes"
       }
     },
     {
@@ -1858,7 +2016,14 @@
         ]
       },
       "properties": {
-        "@id": 779593514
+        "@id": 779593514,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1877,7 +2042,19 @@
         ]
       },
       "properties": {
-        "@id": 779665717
+        "@id": 779665717,
+        "bicycle": "designated",
+        "cycleway:surface": "asphalt",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -1900,7 +2077,19 @@
         ]
       },
       "properties": {
-        "@id": 830282021
+        "@id": 830282021,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2063,7 +2252,18 @@
         ]
       },
       "properties": {
-        "@id": 852435428
+        "@id": 852435428,
+        "bicycle": "designated",
+        "bridge": "yes",
+        "foot": "designated",
+        "highway": "cycleway",
+        "layer": "1",
+        "lcn": "yes",
+        "lit": "yes",
+        "name": "Pont Jacques-Cartier",
+        "segregated": "no",
+        "surface": "concrete",
+        "width": "2"
       }
     },
     {
@@ -2094,7 +2294,19 @@
         ]
       },
       "properties": {
-        "@id": 927391208
+        "@id": 927391208,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2137,7 +2349,18 @@
         ]
       },
       "properties": {
-        "@id": 927391209
+        "@id": 927391209,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2156,7 +2379,18 @@
         ]
       },
       "properties": {
-        "@id": 1018630459
+        "@id": 1018630459,
+        "crossing": "traffic_signals",
+        "crossing:markings": "no",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -2179,7 +2413,18 @@
         ]
       },
       "properties": {
-        "@id": 1018630460
+        "@id": 1018630460,
+        "crossing": "traffic_signals",
+        "crossing:markings": "no",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -2242,7 +2487,20 @@
         ]
       },
       "properties": {
-        "@id": 1063724989
+        "@id": 1063724989,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2269,7 +2527,20 @@
         ]
       },
       "properties": {
-        "@id": 1063724990
+        "@id": 1063724990,
+        "bicycle": "designated",
+        "bridge": "yes",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "layer": "1",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "La Riveraine",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "wood"
       }
     },
     {
@@ -2292,7 +2563,21 @@
         ]
       },
       "properties": {
-        "@id": 1183483080
+        "@id": 1183483080,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2391,7 +2676,16 @@
         ]
       },
       "properties": {
-        "@id": 1183483086
+        "@id": 1183483086,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2430,7 +2724,19 @@
         ]
       },
       "properties": {
-        "@id": 1206487489
+        "@id": 1206487489,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -2453,7 +2759,21 @@
         ]
       },
       "properties": {
-        "@id": 1207894130
+        "@id": 1207894130,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2476,7 +2796,21 @@
         ]
       },
       "properties": {
-        "@id": 1207894131
+        "@id": 1207894131,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2519,7 +2853,20 @@
         ]
       },
       "properties": {
-        "@id": 1207894132
+        "@id": 1207894132,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Avenue Notre-Dame",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2674,7 +3021,19 @@
         ]
       },
       "properties": {
-        "@id": 1207894148
+        "@id": 1207894148,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "oneway": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2693,7 +3052,16 @@
         ]
       },
       "properties": {
-        "@id": 1207894152
+        "@id": 1207894152,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Pierre-Dupuy",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3484,7 +3852,19 @@
         ]
       },
       "properties": {
-        "@id": 1207894153
+        "@id": 1207894153,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "La Riveraine",
+        "oneway": "no",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt"
       }
     },
     {
@@ -3755,7 +4135,16 @@
         ]
       },
       "properties": {
-        "@id": 1208000513
+        "@id": 1208000513,
+        "bicycle": "designated",
+        "cycleway:surface": "asphalt",
+        "foot": "designated",
+        "highway": "cycleway",
+        "layer": "1",
+        "lcn": "yes",
+        "lit": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3790,7 +4179,19 @@
         ]
       },
       "properties": {
-        "@id": 1208010141
+        "@id": 1208010141,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -3809,7 +4210,13 @@
         ]
       },
       "properties": {
-        "@id": 1208144821
+        "@id": 1208144821,
+        "cycleway:surface": "asphalt",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "concrete",
+        "winter_service": "yes"
       }
     },
     {
@@ -3872,7 +4279,13 @@
         ]
       },
       "properties": {
-        "@id": 1208144823
+        "@id": 1208144823,
+        "cycleway:surface": "asphalt",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -3975,7 +4388,15 @@
         ]
       },
       "properties": {
-        "@id": 1208144824
+        "@id": 1208144824,
+        "bicycle": "designated",
+        "cycleway:surface": "asphalt",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -4002,7 +4423,17 @@
         ]
       },
       "properties": {
-        "@id": 1208144968
+        "@id": 1208144968,
+        "bicycle": "designated",
+        "cycleway:surface": "asphalt",
+        "foot": "designated",
+        "highway": "cycleway",
+        "layer": "1",
+        "lcn": "yes",
+        "lit": "yes",
+        "name": "Boulevard La Fayette",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4029,7 +4460,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190670
+        "@id": 1208190670,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4052,7 +4488,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190671
+        "@id": 1208190671,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4071,7 +4514,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190672
+        "@id": 1208190672,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4094,7 +4542,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190673
+        "@id": 1208190673,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4121,7 +4576,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190674
+        "@id": 1208190674,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4144,7 +4604,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190675
+        "@id": 1208190675,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4295,7 +4762,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190676
+        "@id": 1208190676,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4318,7 +4790,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190677
+        "@id": 1208190677,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4341,7 +4820,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190679
+        "@id": 1208190679,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4364,7 +4848,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190681
+        "@id": 1208190681,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4403,7 +4894,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190682
+        "@id": 1208190682,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4426,7 +4922,14 @@
         ]
       },
       "properties": {
-        "@id": 1208190683
+        "@id": 1208190683,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4461,7 +4964,12 @@
         ]
       },
       "properties": {
-        "@id": 1208190685
+        "@id": 1208190685,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "concrete"
       }
     },
     {
@@ -4480,7 +4988,13 @@
         ]
       },
       "properties": {
-        "@id": 1208190700
+        "@id": 1208190700,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Rue Rouville",
+        "surface": "asphalt"
       }
     },
     {
@@ -4503,7 +5017,15 @@
         ]
       },
       "properties": {
-        "@id": 1208190734
+        "@id": 1208190734,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "concrete"
       }
     },
     {
@@ -4578,7 +5100,15 @@
         ]
       },
       "properties": {
-        "@id": 1208190735
+        "@id": 1208190735,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "asphalt"
       }
     },
     {
@@ -4601,7 +5131,17 @@
         ]
       },
       "properties": {
-        "@id": 1208190736
+        "@id": 1208190736,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4668,7 +5208,15 @@
         ]
       },
       "properties": {
-        "@id": 1208190791
+        "@id": 1208190791,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "surface": "asphalt"
       }
     },
     {
@@ -4691,7 +5239,16 @@
         ]
       },
       "properties": {
-        "@id": 1208190792
+        "@id": 1208190792,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4714,7 +5271,18 @@
         ]
       },
       "properties": {
-        "@id": 1208190793
+        "@id": 1208190793,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4737,7 +5305,17 @@
         ]
       },
       "properties": {
-        "@id": 1208190804
+        "@id": 1208190804,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Avenue Durocher",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4768,7 +5346,13 @@
         ]
       },
       "properties": {
-        "@id": 1208190805
+        "@id": 1208190805,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4799,7 +5383,19 @@
         ]
       },
       "properties": {
-        "@id": 1208190806
+        "@id": 1208190806,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4818,7 +5414,16 @@
         ]
       },
       "properties": {
-        "@id": 1208190807
+        "@id": 1208190807,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4837,7 +5442,12 @@
         ]
       },
       "properties": {
-        "@id": 1208274373
+        "@id": 1208274373,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4876,7 +5486,16 @@
         ]
       },
       "properties": {
-        "@id": 1208274377
+        "@id": 1208274377,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4895,7 +5514,11 @@
         ]
       },
       "properties": {
-        "@id": 1208274378
+        "@id": 1208274378,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "surface": "paving_stones"
       }
     },
     {
@@ -4914,7 +5537,14 @@
         ]
       },
       "properties": {
-        "@id": 1208274379
+        "@id": 1208274379,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt"
       }
     },
     {
@@ -4953,7 +5583,17 @@
         ]
       },
       "properties": {
-        "@id": 1208280531
+        "@id": 1208280531,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -4972,7 +5612,14 @@
         ]
       },
       "properties": {
-        "@id": 1208280532
+        "@id": 1208280532,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "surface": "concrete",
+        "winter_service": "yes"
       }
     },
     {
@@ -4995,7 +5642,17 @@
         ]
       },
       "properties": {
-        "@id": 1208280547
+        "@id": 1208280547,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "surface",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -5042,7 +5699,14 @@
         ]
       },
       "properties": {
-        "@id": 1208280548
+        "@id": 1208280548,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -5065,7 +5729,14 @@
         ]
       },
       "properties": {
-        "@id": 1208388959
+        "@id": 1208388959,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "paving_stones",
+        "winter_service": "yes"
       }
     },
     {
@@ -5100,7 +5771,14 @@
         ]
       },
       "properties": {
-        "@id": 1208393825
+        "@id": 1208393825,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -5143,7 +5821,13 @@
         ]
       },
       "properties": {
-        "@id": 1208465091
+        "@id": 1208465091,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "paving_stones"
       }
     },
     {
@@ -5210,7 +5894,14 @@
         ]
       },
       "properties": {
-        "@id": 1208496321
+        "@id": 1208496321,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "paving_stones"
       }
     },
     {
@@ -5229,7 +5920,16 @@
         ]
       },
       "properties": {
-        "@id": 1208496330
+        "@id": 1208496330,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5256,7 +5956,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588904
+        "@id": 1208588904,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5587,7 +6297,16 @@
         ]
       },
       "properties": {
-        "@id": 1208622602
+        "@id": 1208622602,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5610,7 +6329,19 @@
         ]
       },
       "properties": {
-        "@id": 1208622603
+        "@id": 1208622603,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5713,7 +6444,16 @@
         ]
       },
       "properties": {
-        "@id": 1208622604
+        "@id": 1208622604,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5736,7 +6476,19 @@
         ]
       },
       "properties": {
-        "@id": 1208622606
+        "@id": 1208622606,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5839,7 +6591,16 @@
         ]
       },
       "properties": {
-        "@id": 1208622607
+        "@id": 1208622607,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5862,7 +6623,19 @@
         ]
       },
       "properties": {
-        "@id": 1208622611
+        "@id": 1208622611,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6085,7 +6858,16 @@
         ]
       },
       "properties": {
-        "@id": 1208622612
+        "@id": 1208622612,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6108,7 +6890,19 @@
         ]
       },
       "properties": {
-        "@id": 1208622615
+        "@id": 1208622615,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6599,7 +7393,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649932
+        "@id": 1208649932,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6618,7 +7418,16 @@
         ]
       },
       "properties": {
-        "@id": 1208649933
+        "@id": 1208649933,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6637,7 +7446,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649965
+        "@id": 1208649965,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue Maple",
+        "surface": "asphalt"
       }
     },
     {
@@ -6656,7 +7471,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649966
+        "@id": 1208649966,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue Maple",
+        "surface": "grass"
       }
     },
     {
@@ -6675,7 +7496,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649967
+        "@id": 1208649967,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue Maple",
+        "surface": "asphalt"
       }
     },
     {
@@ -6694,7 +7521,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649968
+        "@id": 1208649968,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Merton",
+        "surface": "asphalt"
       }
     },
     {
@@ -6713,7 +7546,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649969
+        "@id": 1208649969,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Merton",
+        "surface": "grass"
       }
     },
     {
@@ -6732,7 +7571,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649970
+        "@id": 1208649970,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Merton",
+        "surface": "asphalt"
       }
     },
     {
@@ -6751,7 +7596,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649972
+        "@id": 1208649972,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Dulwich",
+        "surface": "asphalt"
       }
     },
     {
@@ -6770,7 +7621,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649973
+        "@id": 1208649973,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Dulwich",
+        "surface": "grass"
       }
     },
     {
@@ -6789,7 +7646,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649974
+        "@id": 1208649974,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Dulwich",
+        "surface": "asphalt"
       }
     },
     {
@@ -6808,7 +7671,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649975
+        "@id": 1208649975,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Brixton",
+        "surface": "asphalt"
       }
     },
     {
@@ -6827,7 +7696,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649976
+        "@id": 1208649976,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue Durocher",
+        "surface": "asphalt"
       }
     },
     {
@@ -6846,7 +7721,13 @@
         ]
       },
       "properties": {
-        "@id": 1208649977
+        "@id": 1208649977,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Avenue de Sanford",
+        "surface": "asphalt"
       }
     },
     {
@@ -6897,7 +7778,16 @@
         ]
       },
       "properties": {
-        "@id": 1208887416
+        "@id": 1208887416,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -6920,7 +7810,16 @@
         ]
       },
       "properties": {
-        "@id": 1208887418
+        "@id": 1208887418,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -6943,7 +7842,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887428
+        "@id": 1208887428,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6966,7 +7875,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887429
+        "@id": 1208887429,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7017,7 +7938,15 @@
         ]
       },
       "properties": {
-        "@id": 1208887430
+        "@id": 1208887430,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -7040,7 +7969,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887431
+        "@id": 1208887431,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -7091,7 +8030,15 @@
         ]
       },
       "properties": {
-        "@id": 1208887432
+        "@id": 1208887432,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -7114,7 +8061,20 @@
         ]
       },
       "properties": {
-        "@id": 1208887435
+        "@id": 1208887435,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7133,7 +8093,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887436
+        "@id": 1208887436,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "concrete"
       }
     },
     {
@@ -7164,7 +8134,20 @@
         ]
       },
       "properties": {
-        "@id": 1208887457
+        "@id": 1208887457,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7195,7 +8178,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887459
+        "@id": 1208887459,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7214,7 +8207,14 @@
         ]
       },
       "properties": {
-        "@id": 1208887460
+        "@id": 1208887460,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7233,7 +8233,14 @@
         ]
       },
       "properties": {
-        "@id": 1208887461
+        "@id": 1208887461,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7256,7 +8263,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887462
+        "@id": 1208887462,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7315,7 +8332,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887465
+        "@id": 1208887465,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7350,7 +8377,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887466
+        "@id": 1208887466,
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:markings": "lines",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7417,7 +8454,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887467
+        "@id": 1208887467,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "concrete"
       }
     },
     {
@@ -7440,7 +8487,20 @@
         ]
       },
       "properties": {
-        "@id": 1208887468
+        "@id": 1208887468,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7495,7 +8555,14 @@
         ]
       },
       "properties": {
-        "@id": 1208887469
+        "@id": 1208887469,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -7530,7 +8597,16 @@
         ]
       },
       "properties": {
-        "@id": 1208887473
+        "@id": 1208887473,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "oneway:foot": "no",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7553,7 +8629,14 @@
         ]
       },
       "properties": {
-        "@id": 1209357795
+        "@id": 1209357795,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "concrete"
       }
     },
     {
@@ -7640,7 +8723,14 @@
         ]
       },
       "properties": {
-        "@id": 1209357796
+        "@id": 1209357796,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7663,7 +8753,16 @@
         ]
       },
       "properties": {
-        "@id": 1209357815
+        "@id": 1209357815,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7702,7 +8801,12 @@
         ]
       },
       "properties": {
-        "@id": 1209357816
+        "@id": 1209357816,
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "surface": "asphalt"
       }
     },
     {
@@ -7725,7 +8829,14 @@
         ]
       },
       "properties": {
-        "@id": 1209357817
+        "@id": 1209357817,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "surface": "asphalt"
       }
     },
     {
@@ -7792,7 +8903,14 @@
         ]
       },
       "properties": {
-        "@id": 1209357818
+        "@id": 1209357818,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7815,7 +8933,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423201
+        "@id": 1209423201,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7834,7 +8961,14 @@
         ]
       },
       "properties": {
-        "@id": 1209423202
+        "@id": 1209423202,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7913,7 +9047,14 @@
         ]
       },
       "properties": {
-        "@id": 1209423203
+        "@id": 1209423203,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "segregated": "no",
+        "surface": "concrete"
       }
     },
     {
@@ -7932,7 +9073,12 @@
         ]
       },
       "properties": {
-        "@id": 1209423282
+        "@id": 1209423282,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "surface": "asphalt"
       }
     },
     {
@@ -7951,7 +9097,12 @@
         ]
       },
       "properties": {
-        "@id": 1209423283
+        "@id": 1209423283,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "surface": "asphalt"
       }
     },
     {
@@ -7974,7 +9125,18 @@
         ]
       },
       "properties": {
-        "@id": 1209686467
+        "@id": 1209686467,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -8025,7 +9187,16 @@
         ]
       },
       "properties": {
-        "@id": 1209686468
+        "@id": 1209686468,
+        "bicycle": "designated",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -8056,7 +9227,23 @@
         ]
       },
       "properties": {
-        "@id": 1209703840
+        "@id": 1209703840,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8231,7 +9418,21 @@
         ]
       },
       "properties": {
-        "@id": 1209703841
+        "@id": 1209703841,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Rue Pierre-Dupuy",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8254,7 +9455,23 @@
         ]
       },
       "properties": {
-        "@id": 1209703849
+        "@id": 1209703849,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Rue Pierre-Dupuy",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8293,7 +9510,21 @@
         ]
       },
       "properties": {
-        "@id": 1209703850
+        "@id": 1209703850,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Rue Pierre-Dupuy",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8312,7 +9543,16 @@
         ]
       },
       "properties": {
-        "@id": 1209704751
+        "@id": 1209704751,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Boulevard Taschereau",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8335,7 +9575,16 @@
         ]
       },
       "properties": {
-        "@id": 1209901402
+        "@id": 1209901402,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8394,7 +9643,21 @@
         ]
       },
       "properties": {
-        "@id": 1209901403
+        "@id": 1209901403,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8417,7 +9680,23 @@
         ]
       },
       "properties": {
-        "@id": 1209901406
+        "@id": 1209901406,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8520,7 +9799,21 @@
         ]
       },
       "properties": {
-        "@id": 1209901407
+        "@id": 1209901407,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8543,7 +9836,23 @@
         ]
       },
       "properties": {
-        "@id": 1209901409
+        "@id": 1209901409,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8618,7 +9927,21 @@
         ]
       },
       "properties": {
-        "@id": 1209901410
+        "@id": 1209901410,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8641,7 +9964,13 @@
         ]
       },
       "properties": {
-        "@id": 1209991365
+        "@id": 1209991365,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8660,7 +9989,15 @@
         ]
       },
       "properties": {
-        "@id": 1209991377
+        "@id": 1209991377,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "layer": "1",
+        "lcn": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -8683,7 +10020,23 @@
         ]
       },
       "properties": {
-        "@id": 1209991378
+        "@id": 1209991378,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8702,7 +10055,12 @@
         ]
       },
       "properties": {
-        "@id": 1210177009
+        "@id": 1210177009,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "surface": "asphalt"
       }
     },
     {
@@ -8721,7 +10079,13 @@
         ]
       },
       "properties": {
-        "@id": 1210319412
+        "@id": 1210319412,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "name": "Rue Gagnon",
+        "surface": "asphalt"
       }
     },
     {
@@ -8740,7 +10104,16 @@
         ]
       },
       "properties": {
-        "@id": 1210322328
+        "@id": 1210322328,
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "no",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -8759,7 +10132,21 @@
         ]
       },
       "properties": {
-        "@id": 1210654547
+        "@id": 1210654547,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8782,7 +10169,23 @@
         ]
       },
       "properties": {
-        "@id": 1210654548
+        "@id": 1210654548,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8909,7 +10312,21 @@
         ]
       },
       "properties": {
-        "@id": 1210654549
+        "@id": 1210654549,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8932,7 +10349,24 @@
         ]
       },
       "properties": {
-        "@id": 1210654550
+        "@id": 1210654550,
+        "bicycle": "designated",
+        "crossing": "uncontrolled",
+        "crossing:markings": "dots",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -8955,7 +10389,21 @@
         ]
       },
       "properties": {
-        "@id": 1210887045
+        "@id": 1210887045,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9054,7 +10502,21 @@
         ]
       },
       "properties": {
-        "@id": 1210887046
+        "@id": 1210887046,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9077,7 +10539,23 @@
         ]
       },
       "properties": {
-        "@id": 1210887059
+        "@id": 1210887059,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9384,7 +10862,21 @@
         ]
       },
       "properties": {
-        "@id": 1210887060
+        "@id": 1210887060,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9407,7 +10899,23 @@
         ]
       },
       "properties": {
-        "@id": 1210887079
+        "@id": 1210887079,
+        "bicycle": "designated",
+        "crossing": "unmarked",
+        "cycleway": "crossing",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9466,7 +10974,21 @@
         ]
       },
       "properties": {
-        "@id": 1210887080
+        "@id": 1210887080,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "horse": "no",
+        "lcn": "yes",
+        "motor_vehicle": "no",
+        "name": "Chemin de la Rive",
+        "oneway": "no",
+        "seasonal": "spring;summer;autumn",
+        "segregated": "no",
+        "snowplowing": "no",
+        "source": "https://carto.routeverte.com/fr",
+        "surface": "asphalt",
+        "winter_service": "no"
       }
     },
     {
@@ -9505,7 +11027,13 @@
         ]
       },
       "properties": {
-        "@id": 1211235036
+        "@id": 1211235036,
+        "bicycle": "designated",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "segregated": "no",
+        "surface": "asphalt"
       }
     }
   ]

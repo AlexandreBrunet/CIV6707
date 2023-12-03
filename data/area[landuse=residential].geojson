@@ -77,7 +77,9 @@
         ]
       },
       "properties": {
-        "@id": 754261013
+        "@id": 754261013,
+        "flats": "20",
+        "landuse": "residential"
       }
     },
     {
@@ -176,7 +178,8 @@
         ]
       },
       "properties": {
-        "@id": 754293469
+        "@id": 754293469,
+        "landuse": "residential"
       }
     },
     {
@@ -259,7 +262,8 @@
         ]
       },
       "properties": {
-        "@id": 770447914
+        "@id": 770447914,
+        "landuse": "residential"
       }
     },
     {
@@ -350,7 +354,10 @@
         ]
       },
       "properties": {
-        "@id": 1208465100
+        "@id": 1208465100,
+        "flats": "166",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     },
     {
@@ -413,7 +420,10 @@
         ]
       },
       "properties": {
-        "@id": 1208925016
+        "@id": 1208925016,
+        "flats": "225",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     },
     {
@@ -480,7 +490,8 @@
         ]
       },
       "properties": {
-        "@id": 1209423240
+        "@id": 1209423240,
+        "landuse": "residential"
       }
     },
     {
@@ -635,7 +646,10 @@
         ]
       },
       "properties": {
-        "@id": 1209423243
+        "@id": 1209423243,
+        "flats": "360",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     },
     {
@@ -826,7 +840,10 @@
         ]
       },
       "properties": {
-        "@id": 1209423332
+        "@id": 1209423332,
+        "flats": "360",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     },
     {
@@ -973,7 +990,10 @@
         ]
       },
       "properties": {
-        "@id": 1209900401
+        "@id": 1209900401,
+        "flats": "264",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     },
     {
@@ -1304,7 +1324,10 @@
         ]
       },
       "properties": {
-        "@id": 1210241837
+        "@id": 1210241837,
+        "flats": "778",
+        "landuse": "residential",
+        "residential": "apartments"
       }
     }
   ]

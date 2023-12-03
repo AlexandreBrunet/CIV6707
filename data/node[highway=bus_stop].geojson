@@ -11,7 +11,17 @@
         ]
       },
       "properties": {
-        "@id": 570776051
+        "@id": 570776051,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "location": "Taschereau/Place Longueuil",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "75",
+        "shelter": "yes",
+        "stop": "3958",
+        "towards": "Quinn - Brébeuf (Vieux-Longueuil)"
       }
     },
     {
@@ -24,7 +34,21 @@
         ]
       },
       "properties": {
-        "@id": 2775929815
+        "@id": 2775929815,
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "location": "Terminus Longueuil",
+        "name": "Terminus Longueuil",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "73",
+        "shelter": "yes",
+        "source": "RTL",
+        "stop": "4416",
+        "towards": "Terminus Longueuil"
       }
     },
     {
@@ -37,7 +61,13 @@
         ]
       },
       "properties": {
-        "@id": 5183030895
+        "@id": 5183030895,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -50,7 +80,15 @@
         ]
       },
       "properties": {
-        "@id": 6132969258
+        "@id": 6132969258,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P23",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "74148",
+        "shelter": "yes"
       }
     },
     {
@@ -63,7 +101,15 @@
         ]
       },
       "properties": {
-        "@id": 6133324631
+        "@id": 6133324631,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P23",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "75030",
+        "shelter": "yes"
       }
     },
     {
@@ -76,7 +122,15 @@
         ]
       },
       "properties": {
-        "@id": 6133354138
+        "@id": 6133354138,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P20",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "76066",
+        "shelter": "yes"
       }
     },
     {
@@ -89,7 +143,14 @@
         ]
       },
       "properties": {
-        "@id": 6133453872
+        "@id": 6133453872,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P31",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "73995",
+        "shelter": "yes"
       }
     },
     {
@@ -102,7 +163,15 @@
         ]
       },
       "properties": {
-        "@id": 6184473515
+        "@id": 6184473515,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P20",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "71031",
+        "shelter": "yes"
       }
     },
     {
@@ -115,7 +184,20 @@
         ]
       },
       "properties": {
-        "@id": 6885957584
+        "@id": 6885957584,
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "location": "Saint-Charles / Charles-Lmoyne",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "ref": "31433",
+        "route_ref": "75",
+        "shelter": "no",
+        "source": "RTL",
+        "stop": "1433",
+        "towards": "Terminus Longueuil"
       }
     },
     {
@@ -128,7 +210,15 @@
         ]
       },
       "properties": {
-        "@id": 7035924439
+        "@id": 7035924439,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P1",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "route_ref": "80;82;85;180",
+        "shelter": "yes"
       }
     },
     {
@@ -141,7 +231,15 @@
         ]
       },
       "properties": {
-        "@id": 7035924461
+        "@id": 7035924461,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P8",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "route_ref": "16",
+        "shelter": "yes"
       }
     },
     {
@@ -154,7 +252,14 @@
         ]
       },
       "properties": {
-        "@id": 7035924463
+        "@id": 7035924463,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P6",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -167,7 +272,14 @@
         ]
       },
       "properties": {
-        "@id": 7035924469
+        "@id": 7035924469,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P5",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -180,7 +292,16 @@
         ]
       },
       "properties": {
-        "@id": 7035924474
+        "@id": 7035924474,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P5",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "route_ref": "700;705;707;708;709;710;723",
+        "shelter": "yes",
+        "stop": "0"
       }
     },
     {
@@ -193,7 +314,17 @@
         ]
       },
       "properties": {
-        "@id": 7035924476
+        "@id": 7035924476,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P4",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "ref": "70000",
+        "route_ref": "720;721;722;724;730,731,732,733",
+        "shelter": "yes",
+        "stop": "0"
       }
     },
     {
@@ -206,7 +337,15 @@
         ]
       },
       "properties": {
-        "@id": 7035924478
+        "@id": 7035924478,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P3",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "route_ref": "25;81;185",
+        "shelter": "yes"
       }
     },
     {
@@ -219,7 +358,16 @@
         ]
       },
       "properties": {
-        "@id": 7035924480
+        "@id": 7035924480,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P2",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "route_ref": "83;84",
+        "shelter": "yes",
+        "stop": "0"
       }
     },
     {
@@ -232,7 +380,15 @@
         ]
       },
       "properties": {
-        "@id": 8000720120
+        "@id": 8000720120,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P34",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "75",
+        "shelter": "yes"
       }
     },
     {
@@ -245,7 +401,12 @@
         ]
       },
       "properties": {
-        "@id": 11194735935
+        "@id": 11194735935,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -258,7 +419,13 @@
         ]
       },
       "properties": {
-        "@id": 11195101772
+        "@id": 11195101772,
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -271,7 +438,12 @@
         ]
       },
       "properties": {
-        "@id": 11195102173
+        "@id": 11195102173,
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -284,7 +456,13 @@
         ]
       },
       "properties": {
-        "@id": 11195102229
+        "@id": 11195102229,
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -297,7 +475,14 @@
         ]
       },
       "properties": {
-        "@id": 11197491155
+        "@id": 11197491155,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P9",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -310,7 +495,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511914
+        "@id": 11197511914,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P25",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "74",
+        "shelter": "yes"
       }
     },
     {
@@ -323,7 +516,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511915
+        "@id": 11197511915,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P18",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "6;106",
+        "shelter": "yes"
       }
     },
     {
@@ -336,7 +537,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511916
+        "@id": 11197511916,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P19",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "13;506",
+        "shelter": "yes"
       }
     },
     {
@@ -349,7 +558,14 @@
         ]
       },
       "properties": {
-        "@id": 11197511917
+        "@id": 11197511917,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P21",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -362,7 +578,14 @@
         ]
       },
       "properties": {
-        "@id": 11197511918
+        "@id": 11197511918,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P22",
+        "operator": "RTL;exo",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -375,7 +598,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511919
+        "@id": 11197511919,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P24",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "98;99;192;199",
+        "shelter": "yes"
       }
     },
     {
@@ -388,7 +619,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511920
+        "@id": 11197511920,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P16",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "71",
+        "shelter": "yes"
       }
     },
     {
@@ -401,7 +640,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511921
+        "@id": 11197511921,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P15",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "21;121",
+        "shelter": "yes"
       }
     },
     {
@@ -414,7 +661,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511922
+        "@id": 11197511922,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P14",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "4;504",
+        "shelter": "yes"
       }
     },
     {
@@ -427,7 +682,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511923
+        "@id": 11197511923,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P13",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "2;54;607",
+        "shelter": "yes"
       }
     },
     {
@@ -440,7 +703,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511924
+        "@id": 11197511924,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P12",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "3;9;602",
+        "shelter": "yes"
       }
     },
     {
@@ -453,7 +724,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511925
+        "@id": 11197511925,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P11",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "19",
+        "shelter": "yes"
       }
     },
     {
@@ -466,7 +745,16 @@
         ]
       },
       "properties": {
-        "@id": 11197511926
+        "@id": 11197511926,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P10;Terminus Longueuil",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "20;120;125",
+        "shelter": "yes",
+        "source": "RTL"
       }
     },
     {
@@ -479,7 +767,14 @@
         ]
       },
       "properties": {
-        "@id": 11197511927
+        "@id": 11197511927,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P17",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -492,7 +787,14 @@
         ]
       },
       "properties": {
-        "@id": 11197511935
+        "@id": 11197511935,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P32",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -505,7 +807,15 @@
         ]
       },
       "properties": {
-        "@id": 11197511936
+        "@id": 11197511936,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P37",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "73",
+        "shelter": "yes"
       }
     },
     {
@@ -518,7 +828,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543637
+        "@id": 11197543637,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P36",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "10;76;161",
+        "shelter": "yes"
       }
     },
     {
@@ -531,7 +849,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543638
+        "@id": 11197543638,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P35",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "17;410;417",
+        "shelter": "yes"
       }
     },
     {
@@ -544,7 +870,16 @@
         ]
       },
       "properties": {
-        "@id": 11197543639
+        "@id": 11197543639,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "1",
+        "shelter": "yes"
       }
     },
     {
@@ -557,7 +892,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543640
+        "@id": 11197543640,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P26",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "23;123",
+        "shelter": "yes"
       }
     },
     {
@@ -570,7 +913,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543641
+        "@id": 11197543641,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P27",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "29",
+        "shelter": "yes"
       }
     },
     {
@@ -583,7 +934,14 @@
         ]
       },
       "properties": {
-        "@id": 11197543642
+        "@id": 11197543642,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P28",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -596,7 +954,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543643
+        "@id": 11197543643,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P30",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "15",
+        "shelter": "yes"
       }
     },
     {
@@ -609,7 +975,15 @@
         ]
       },
       "properties": {
-        "@id": 11197543644
+        "@id": 11197543644,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P29",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "14;78",
+        "shelter": "yes"
       }
     },
     {
@@ -622,7 +996,16 @@
         ]
       },
       "properties": {
-        "@id": 11197543645
+        "@id": 11197543645,
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P41",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "261;268;299",
+        "shelter": "yes"
       }
     },
     {
@@ -635,7 +1018,16 @@
         ]
       },
       "properties": {
-        "@id": 11197543646
+        "@id": 11197543646,
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P40",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "88;128",
+        "shelter": "yes"
       }
     },
     {
@@ -648,7 +1040,16 @@
         ]
       },
       "properties": {
-        "@id": 11197543647
+        "@id": 11197543647,
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminus Longueuil - P39",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "route_ref": "8;28;442;608",
+        "shelter": "yes"
       }
     },
     {
@@ -661,7 +1062,13 @@
         ]
       },
       "properties": {
-        "@id": 11198761648
+        "@id": 11198761648,
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -674,7 +1081,12 @@
         ]
       },
       "properties": {
-        "@id": 11198761730
+        "@id": 11198761730,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -687,7 +1099,12 @@
         ]
       },
       "properties": {
-        "@id": 11198762107
+        "@id": 11198762107,
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -700,7 +1117,12 @@
         ]
       },
       "properties": {
-        "@id": 11198762138
+        "@id": 11198762138,
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -713,7 +1135,16 @@
         ]
       },
       "properties": {
-        "@id": 11200600216
+        "@id": 11200600216,
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Saint-Laurent / Saint-Hélène",
+        "network": "Réseau de transport de Longueuil",
+        "operator": "Réseau de transport de Longueuil",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -726,7 +1157,14 @@
         ]
       },
       "properties": {
-        "@id": 11205318385
+        "@id": 11205318385,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -739,7 +1177,14 @@
         ]
       },
       "properties": {
-        "@id": 11205318516
+        "@id": 11205318516,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -752,7 +1197,14 @@
         ]
       },
       "properties": {
-        "@id": 11205319155
+        "@id": 11205319155,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -765,7 +1217,14 @@
         ]
       },
       "properties": {
-        "@id": 11212648768
+        "@id": 11212648768,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -778,7 +1237,14 @@
         ]
       },
       "properties": {
-        "@id": 11212676552
+        "@id": 11212676552,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -791,7 +1257,14 @@
         ]
       },
       "properties": {
-        "@id": 11222459534
+        "@id": 11222459534,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -804,7 +1277,12 @@
         ]
       },
       "properties": {
-        "@id": 11226010164
+        "@id": 11226010164,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -817,7 +1295,14 @@
         ]
       },
       "properties": {
-        "@id": 11226010273
+        "@id": 11226010273,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "RTL",
+        "operator": "RTL",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     }
   ]

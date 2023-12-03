@@ -14,14 +14,13 @@ def convert_element_to_geojson(element):
         geometry_type = 'Point'
         coordinates = [float(element.lon), float(element.lat)]
     elif isinstance(element, overpy.Relation) and element.tags.get('type') == 'multipolygon':
-        geometry_type = 'Polygon'
-        coordinates = [
-            [
-                [float(node.lon), float(node.lat)] for node in element.nodes
-            ]
-        ]
+        geometry_type = 'MultiPolygon'
+        coordinates = []
+        for member in element.members:
+            if isinstance(member, overpy.Way):  # Check if the member is a Way
+                coordinates.append([[float(node.lon), float(node.lat)] for node in member.get_nodes(resolve_missing=True)])
     else:
-        # Ajouter d'autres geometry type si besoin
+        # Ajouter d'autres types d'éléments
         return None
     
     properties = {"@id": element.id}
@@ -31,8 +30,8 @@ def convert_element_to_geojson(element):
         geometry = geojson.Point(coordinates)
     elif geometry_type == 'LineString':
         geometry = geojson.LineString(coordinates)
-    elif geometry_type == 'Polygon':
-        geometry = geojson.Polygon(coordinates)
+    elif geometry_type == 'MultiPolygon':
+        geometry = geojson.MultiPolygon(coordinates)
     else:
         return None
 
@@ -42,7 +41,6 @@ def convert_element_to_geojson(element):
     )
 
     return feature
-
 
 def convert_to_geojson(query, api):
     result = api.query(query)
@@ -60,11 +58,3 @@ def convert_to_geojson(query, api):
     geojson_string = geojson.dumps(geojson_data, indent=2)
 
     return geojson_string
-
-
-
-
-
-
-
-

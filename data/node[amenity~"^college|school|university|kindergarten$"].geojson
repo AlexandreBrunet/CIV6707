@@ -133,7 +133,21 @@
         ]
       },
       "properties": {
-        "@id": 40416426
+        "@id": 40416426,
+        "addr:city": "Saint-Lambert",
+        "addr:housenumber": "900",
+        "addr:postcode": "J4P 3P2",
+        "addr:province": "QC",
+        "addr:street": "Rue Riverside",
+        "amenity": "college",
+        "fax": "+1-450-672-9299",
+        "name": "Collège Champlain - Saint-Lambert",
+        "name:en": "Champlain College St-Lambert",
+        "name:fr": "Collège Champlain - Saint-Lambert",
+        "phone": "+1-450-672-7360",
+        "school:language": "en",
+        "student:count": "3140",
+        "website": "https://www.champlainonline.com/champlainweb/"
       }
     },
     {
@@ -236,7 +250,13 @@
         ]
       },
       "properties": {
-        "@id": 759498704
+        "@id": 759498704,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "150",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "university",
+        "name": "Université de Sherbrooke - Campus Longueuil"
       }
     }
   ]

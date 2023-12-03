@@ -132,10 +132,35 @@ queries = {
         out geom;
     """,
     "query21": f"""
-        way[building=apartments]
+        way[building=commercial]
             (poly:"{polygone}");
         out geom;
-    """
+    """,
+    "query22": f"""
+        way[amenity=bus_station]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query23": f"""
+        way["highway"="footway"]["footway"="sidewalk"]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query24": f"""
+        way["highway"="footway"]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query25": f"""
+        node["amenity"="parking"]
+            (poly:"{polygone}");
+        way[amenity=parking]
+            (poly:"{polygone}");
+        relation["amenity"="parking"]
+            (poly:"{polygone}");
+        out geom;
+    """,
+
 }
 
 # TODO : Nombre de buildings résidentiels et nombre de ménages?

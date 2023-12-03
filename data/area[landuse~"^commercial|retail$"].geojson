@@ -57,7 +57,8 @@
         ]
       },
       "properties": {
-        "@id": 755541568
+        "@id": 755541568,
+        "landuse": "commercial"
       }
     },
     {
@@ -180,7 +181,8 @@
         ]
       },
       "properties": {
-        "@id": 771960614
+        "@id": 771960614,
+        "landuse": "commercial"
       }
     },
     {
@@ -271,7 +273,8 @@
         ]
       },
       "properties": {
-        "@id": 771960617
+        "@id": 771960617,
+        "landuse": "commercial"
       }
     },
     {
@@ -354,7 +357,8 @@
         ]
       },
       "properties": {
-        "@id": 1208465090
+        "@id": 1208465090,
+        "landuse": "commercial"
       }
     },
     {
@@ -513,7 +517,8 @@
         ]
       },
       "properties": {
-        "@id": 1208918883
+        "@id": 1208918883,
+        "landuse": "commercial"
       }
     },
     {
@@ -628,7 +633,8 @@
         ]
       },
       "properties": {
-        "@id": 1209686472
+        "@id": 1209686472,
+        "landuse": "commercial"
       }
     },
     {
@@ -807,7 +813,8 @@
         ]
       },
       "properties": {
-        "@id": 1209703898
+        "@id": 1209703898,
+        "landuse": "commercial"
       }
     },
     {
@@ -966,7 +973,8 @@
         ]
       },
       "properties": {
-        "@id": 1209998824
+        "@id": 1209998824,
+        "landuse": "commercial"
       }
     },
     {
@@ -1137,7 +1145,8 @@
         ]
       },
       "properties": {
-        "@id": 1210015071
+        "@id": 1210015071,
+        "landuse": "commercial"
       }
     },
     {
@@ -1624,7 +1633,8 @@
         ]
       },
       "properties": {
-        "@id": 1210541732
+        "@id": 1210541732,
+        "landuse": "retail"
       }
     },
     {
@@ -1739,7 +1749,8 @@
         ]
       },
       "properties": {
-        "@id": 1210541733
+        "@id": 1210541733,
+        "landuse": "commercial"
       }
     },
     {
@@ -1902,7 +1913,9 @@
         ]
       },
       "properties": {
-        "@id": 1210737163
+        "@id": 1210737163,
+        "landuse": "commercial",
+        "leisure": "marina"
       }
     },
     {
@@ -2145,7 +2158,16 @@
         ]
       },
       "properties": {
-        "@id": 1210877078
+        "@id": 1210877078,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "101",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Rive",
+        "capacity": "82",
+        "landuse": "commercial",
+        "name": "Halte de véhicules récréatifs de la Marina de Longueuil",
+        "tourism": "caravan_site",
+        "website": "http://www.parcoursducerf.com/"
       }
     },
     {
@@ -2892,7 +2914,9 @@
         ]
       },
       "properties": {
-        "@id": 1210881929
+        "@id": 1210881929,
+        "landuse": "commercial",
+        "leisure": "marina"
       }
     }
   ]

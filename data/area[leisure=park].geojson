@@ -157,7 +157,9 @@
         ]
       },
       "properties": {
-        "@id": 114853003
+        "@id": 114853003,
+        "leisure": "park",
+        "name": "Place Charles-Le Moyne"
       }
     },
     {
@@ -244,7 +246,8 @@
         ]
       },
       "properties": {
-        "@id": 162846774
+        "@id": 162846774,
+        "leisure": "park"
       }
     },
     {
@@ -339,7 +342,8 @@
         ]
       },
       "properties": {
-        "@id": 162864933
+        "@id": 162864933,
+        "leisure": "park"
       }
     },
     {
@@ -426,7 +430,8 @@
         ]
       },
       "properties": {
-        "@id": 162865040
+        "@id": 162865040,
+        "leisure": "park"
       }
     },
     {
@@ -681,7 +686,9 @@
         ]
       },
       "properties": {
-        "@id": 598214525
+        "@id": 598214525,
+        "leisure": "park",
+        "name": "Parc Georges-Dor"
       }
     },
     {
@@ -784,7 +791,8 @@
         ]
       },
       "properties": {
-        "@id": 1207894147
+        "@id": 1207894147,
+        "leisure": "park"
       }
     },
     {
@@ -883,7 +891,9 @@
         ]
       },
       "properties": {
-        "@id": 1208388958
+        "@id": 1208388958,
+        "leisure": "park",
+        "name": "Place Jean-Paul-Auclair"
       }
     },
     {
@@ -1450,7 +1460,9 @@
         ]
       },
       "properties": {
-        "@id": 1208649964
+        "@id": 1208649964,
+        "leisure": "park",
+        "name": "Parc de la Voie maritime"
       }
     },
     {
@@ -1625,7 +1637,9 @@
         ]
       },
       "properties": {
-        "@id": 1210176997
+        "@id": 1210176997,
+        "leisure": "park",
+        "name": "Jardin du Métro"
       }
     }
   ]

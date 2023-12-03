@@ -17,7 +17,25 @@
         ]
       },
       "properties": {
-        "@id": 4842035
+        "@id": 4842035,
+        "bicycle": "no",
+        "bus": "designated",
+        "cycleway:both": "no",
+        "destination": "Montréal;Pont Jacques-Cartier",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "hov": "designated",
+        "hov:minimum": "2",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -36,7 +54,20 @@
         ]
       },
       "properties": {
-        "@id": 4842066
+        "@id": 4842066,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "||2",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -55,7 +86,18 @@
         ]
       },
       "properties": {
-        "@id": 4842067
+        "@id": 4842067,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -74,7 +116,16 @@
         ]
       },
       "properties": {
-        "@id": 4842069
+        "@id": 4842069,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -117,7 +168,19 @@
         ]
       },
       "properties": {
-        "@id": 4842096
+        "@id": 4842096,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -136,7 +199,17 @@
         ]
       },
       "properties": {
-        "@id": 4842116
+        "@id": 4842116,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -155,7 +228,19 @@
         ]
       },
       "properties": {
-        "@id": 4842119
+        "@id": 4842119,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -178,7 +263,18 @@
         ]
       },
       "properties": {
-        "@id": 12547449
+        "@id": 12547449,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -197,7 +293,18 @@
         ]
       },
       "properties": {
-        "@id": 12547450
+        "@id": 12547450,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -244,7 +351,23 @@
         ]
       },
       "properties": {
-        "@id": 19940858
+        "@id": 19940858,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "toll": "no"
       }
     },
     {
@@ -263,7 +386,21 @@
         ]
       },
       "properties": {
-        "@id": 25695939
+        "@id": 25695939,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Charles",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -282,7 +419,20 @@
         ]
       },
       "properties": {
-        "@id": 25874469
+        "@id": 25874469,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -301,7 +451,20 @@
         ]
       },
       "properties": {
-        "@id": 25874516
+        "@id": 25874516,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Laurent;Rue Saint-Charles",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -392,7 +555,15 @@
         ]
       },
       "properties": {
-        "@id": 25874689
+        "@id": 25874689,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -411,7 +582,20 @@
         ]
       },
       "properties": {
-        "@id": 25875210
+        "@id": 25875210,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134",
+        "destination:street": "Boulevard Taschereau",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -430,7 +614,19 @@
         ]
       },
       "properties": {
-        "@id": 25875222
+        "@id": 25875222,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -449,7 +645,19 @@
         ]
       },
       "properties": {
-        "@id": 25875252
+        "@id": 25875252,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -472,7 +680,16 @@
         ]
       },
       "properties": {
-        "@id": 25875347
+        "@id": 25875347,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -491,7 +708,19 @@
         ]
       },
       "properties": {
-        "@id": 25875576
+        "@id": 25875576,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -514,7 +743,24 @@
         ]
       },
       "properties": {
-        "@id": 26100748
+        "@id": 26100748,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0",
+        "cycleway:right:marking": "solid_line",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -533,7 +779,17 @@
         ]
       },
       "properties": {
-        "@id": 29422472
+        "@id": 29422472,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -552,7 +808,21 @@
         ]
       },
       "properties": {
-        "@id": 30033194
+        "@id": 30033194,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -571,7 +841,21 @@
         ]
       },
       "properties": {
-        "@id": 30033603
+        "@id": 30033603,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -590,7 +874,20 @@
         ]
       },
       "properties": {
-        "@id": 37625522
+        "@id": 37625522,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Varennes;USA",
+        "destination:ref": "R132;A20",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -609,7 +906,22 @@
         ]
       },
       "properties": {
-        "@id": 37625602
+        "@id": 37625602,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -640,7 +952,17 @@
         ]
       },
       "properties": {
-        "@id": 39279654
+        "@id": 39279654,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -659,7 +981,25 @@
         ]
       },
       "properties": {
-        "@id": 39279657
+        "@id": 39279657,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated|yes",
+        "busway": "lane",
+        "busway:right": "lane",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "4",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "||merge_to_left|",
+        "width:lanes:end": "||0|"
       }
     },
     {
@@ -678,7 +1018,17 @@
         ]
       },
       "properties": {
-        "@id": 39723074
+        "@id": 39723074,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -701,7 +1051,17 @@
         ]
       },
       "properties": {
-        "@id": 39723075
+        "@id": 39723075,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -720,7 +1080,19 @@
         ]
       },
       "properties": {
-        "@id": 40216039
+        "@id": 40216039,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -739,7 +1111,23 @@
         ]
       },
       "properties": {
-        "@id": 40260788
+        "@id": 40260788,
+        "bicycle": "no",
+        "bridge": "yes",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -758,7 +1146,21 @@
         ]
       },
       "properties": {
-        "@id": 40260789
+        "@id": 40260789,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "level": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -789,7 +1191,21 @@
         ]
       },
       "properties": {
-        "@id": 40260790
+        "@id": 40260790,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -812,7 +1228,19 @@
         ]
       },
       "properties": {
-        "@id": 40260791
+        "@id": 40260791,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -943,7 +1371,19 @@
         ]
       },
       "properties": {
-        "@id": 40260792
+        "@id": 40260792,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -962,7 +1402,16 @@
         ]
       },
       "properties": {
-        "@id": 40260927
+        "@id": 40260927,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1009,7 +1458,18 @@
         ]
       },
       "properties": {
-        "@id": 40413443
+        "@id": 40413443,
+        "bicycle": "no",
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1028,7 +1488,17 @@
         ]
       },
       "properties": {
-        "@id": 40413444
+        "@id": 40413444,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1075,7 +1545,18 @@
         ]
       },
       "properties": {
-        "@id": 40413445
+        "@id": 40413445,
+        "bridge": "yes",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1094,7 +1575,16 @@
         ]
       },
       "properties": {
-        "@id": 40413446
+        "@id": 40413446,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1113,7 +1603,17 @@
         ]
       },
       "properties": {
-        "@id": 40429034
+        "@id": 40429034,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1132,7 +1632,24 @@
         ]
       },
       "properties": {
-        "@id": 40682302
+        "@id": 40682302,
+        "bicycle": "no",
+        "bridge": "yes",
+        "change:lanes": "no|only_right|yes",
+        "cycleway:both": "no",
+        "destination:lanes": "Boulevard Taschereau;La Prairie|Pont Jacques-Cartier;Montréal|Pont Jacques-Cartier;Montréal",
+        "destination:ref:lanes": "134 Ouest|134 Est|134 Est",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "level": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1203,7 +1720,17 @@
         ]
       },
       "properties": {
-        "@id": 41785841
+        "@id": 41785841,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1262,7 +1789,22 @@
         ]
       },
       "properties": {
-        "@id": 41785842
+        "@id": 41785842,
+        "bus:lanes": "yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1293,7 +1835,18 @@
         ]
       },
       "properties": {
-        "@id": 42049816
+        "@id": 42049816,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:forward:start": "|0"
       }
     },
     {
@@ -1312,7 +1865,21 @@
         ]
       },
       "properties": {
-        "@id": 42056206
+        "@id": 42056206,
+        "bus": "designated",
+        "bus:lanes": "1",
+        "busway:left": "lane",
+        "highway": "service",
+        "lanes": "2",
+        "lanes:bus": "designated|yes",
+        "maxspeed": "50",
+        "motor_vehicle": "destination",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1415,7 +1982,18 @@
         ]
       },
       "properties": {
-        "@id": 42057386
+        "@id": 42057386,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1454,7 +2032,17 @@
         ]
       },
       "properties": {
-        "@id": 42257927
+        "@id": 42257927,
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt"
       }
     },
     {
@@ -1473,7 +2061,20 @@
         ]
       },
       "properties": {
-        "@id": 42786809
+        "@id": 42786809,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1492,7 +2093,17 @@
         ]
       },
       "properties": {
-        "@id": 42798942
+        "@id": 42798942,
+        "cycleway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1543,7 +2154,24 @@
         ]
       },
       "properties": {
-        "@id": 45465559
+        "@id": 45465559,
+        "change:lanes:forward": "no|no",
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through;right"
       }
     },
     {
@@ -1562,7 +2190,17 @@
         ]
       },
       "properties": {
-        "@id": 88568140
+        "@id": 88568140,
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1581,7 +2219,17 @@
         ]
       },
       "properties": {
-        "@id": 88568142
+        "@id": 88568142,
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1604,7 +2252,18 @@
         ]
       },
       "properties": {
-        "@id": 147608665
+        "@id": 147608665,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1699,7 +2358,17 @@
         ]
       },
       "properties": {
-        "@id": 147608671
+        "@id": 147608671,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1730,7 +2399,18 @@
         ]
       },
       "properties": {
-        "@id": 147608676
+        "@id": 147608676,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1753,7 +2433,18 @@
         ]
       },
       "properties": {
-        "@id": 147608677
+        "@id": 147608677,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1772,7 +2463,20 @@
         ]
       },
       "properties": {
-        "@id": 247960205
+        "@id": 247960205,
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1791,7 +2495,19 @@
         ]
       },
       "properties": {
-        "@id": 247960317
+        "@id": 247960317,
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left;through"
       }
     },
     {
@@ -1810,7 +2526,18 @@
         ]
       },
       "properties": {
-        "@id": 288454204
+        "@id": 288454204,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1845,7 +2572,16 @@
         ]
       },
       "properties": {
-        "@id": 288454206
+        "@id": 288454206,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1908,7 +2644,19 @@
         ]
       },
       "properties": {
-        "@id": 288454207
+        "@id": 288454207,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -1931,7 +2679,21 @@
         ]
       },
       "properties": {
-        "@id": 301552858
+        "@id": 301552858,
+        "bicycle": "no",
+        "change:lanes": "no|no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1950,7 +2712,23 @@
         ]
       },
       "properties": {
-        "@id": 301552870
+        "@id": 301552870,
+        "bicycle": "no",
+        "busway": "lane",
+        "cycleway:both": "no",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "||2",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -1973,7 +2751,17 @@
         ]
       },
       "properties": {
-        "@id": 301552872
+        "@id": 301552872,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1992,7 +2780,23 @@
         ]
       },
       "properties": {
-        "@id": 301651382
+        "@id": 301651382,
+        "bicycle": "no",
+        "change:lanes": "no|no",
+        "cycleway:right": "separate",
+        "destination": "Boulevard Taschereau;La Prairie",
+        "destination:ref": "134 Ouest",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2011,7 +2815,19 @@
         ]
       },
       "properties": {
-        "@id": 317401336
+        "@id": 317401336,
+        "bicycle": "no",
+        "change:lanes": "no|yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2034,7 +2850,23 @@
         ]
       },
       "properties": {
-        "@id": 341093393
+        "@id": 341093393,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "middle_of:3",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2053,7 +2885,21 @@
         ]
       },
       "properties": {
-        "@id": 380515502
+        "@id": 380515502,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2144,7 +2990,20 @@
         ]
       },
       "properties": {
-        "@id": 449867574
+        "@id": 449867574,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2171,7 +3030,18 @@
         ]
       },
       "properties": {
-        "@id": 453297306
+        "@id": 453297306,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2190,7 +3060,19 @@
         ]
       },
       "properties": {
-        "@id": 453297307
+        "@id": 453297307,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2217,7 +3099,17 @@
         ]
       },
       "properties": {
-        "@id": 453456561
+        "@id": 453456561,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2240,7 +3132,17 @@
         ]
       },
       "properties": {
-        "@id": 453456562
+        "@id": 453456562,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2331,7 +3233,17 @@
         ]
       },
       "properties": {
-        "@id": 453456563
+        "@id": 453456563,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2350,7 +3262,19 @@
         ]
       },
       "properties": {
-        "@id": 453456564
+        "@id": 453456564,
+        "cycleway:both": "separate",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2369,7 +3293,20 @@
         ]
       },
       "properties": {
-        "@id": 453456565
+        "@id": 453456565,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2388,7 +3325,21 @@
         ]
       },
       "properties": {
-        "@id": 453456566
+        "@id": 453456566,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "||0"
       }
     },
     {
@@ -2427,7 +3378,22 @@
         ]
       },
       "properties": {
-        "@id": 453462326
+        "@id": 453462326,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "134",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|2|0||"
       }
     },
     {
@@ -2446,7 +3412,17 @@
         ]
       },
       "properties": {
-        "@id": 453462327
+        "@id": 453462327,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -2497,7 +3473,17 @@
         ]
       },
       "properties": {
-        "@id": 453462328
+        "@id": 453462328,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2520,7 +3506,17 @@
         ]
       },
       "properties": {
-        "@id": 453462329
+        "@id": 453462329,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2539,7 +3535,22 @@
         ]
       },
       "properties": {
-        "@id": 455727144
+        "@id": 455727144,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2558,7 +3569,17 @@
         ]
       },
       "properties": {
-        "@id": 459123778
+        "@id": 459123778,
+        "cycleway:right": "no",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2589,7 +3610,23 @@
         ]
       },
       "properties": {
-        "@id": 459594650
+        "@id": 459594650,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "134",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|0||",
+        "width:lanes:start": "|2||"
       }
     },
     {
@@ -2612,7 +3649,19 @@
         ]
       },
       "properties": {
-        "@id": 462519039
+        "@id": 462519039,
+        "change:lanes": "no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
       }
     },
     {
@@ -2635,7 +3684,17 @@
         ]
       },
       "properties": {
-        "@id": 462519041
+        "@id": 462519041,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "||0"
       }
     },
     {
@@ -2658,7 +3717,15 @@
         ]
       },
       "properties": {
-        "@id": 462519042
+        "@id": 462519042,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2677,7 +3744,16 @@
         ]
       },
       "properties": {
-        "@id": 466596889
+        "@id": 466596889,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2716,7 +3792,15 @@
         ]
       },
       "properties": {
-        "@id": 466596890
+        "@id": 466596890,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2739,7 +3823,17 @@
         ]
       },
       "properties": {
-        "@id": 466601425
+        "@id": 466601425,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2770,7 +3864,16 @@
         ]
       },
       "properties": {
-        "@id": 466601426
+        "@id": 466601426,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2789,7 +3892,16 @@
         ]
       },
       "properties": {
-        "@id": 466601427
+        "@id": 466601427,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rue Mercier",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2808,7 +3920,17 @@
         ]
       },
       "properties": {
-        "@id": 466601428
+        "@id": 466601428,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2831,7 +3953,24 @@
         ]
       },
       "properties": {
-        "@id": 470637264
+        "@id": 470637264,
+        "bus:lanes": "yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through"
       }
     },
     {
@@ -2850,7 +3989,18 @@
         ]
       },
       "properties": {
-        "@id": 470637266
+        "@id": 470637266,
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2869,7 +4019,17 @@
         ]
       },
       "properties": {
-        "@id": 470637268
+        "@id": 470637268,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2916,7 +4076,19 @@
         ]
       },
       "properties": {
-        "@id": 471483935
+        "@id": 471483935,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -2935,7 +4107,16 @@
         ]
       },
       "properties": {
-        "@id": 480202994
+        "@id": 480202994,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -2966,7 +4147,16 @@
         ]
       },
       "properties": {
-        "@id": 480202995
+        "@id": 480202995,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3009,7 +4199,20 @@
         ]
       },
       "properties": {
-        "@id": 482433027
+        "@id": 482433027,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "merge_to_right||"
       }
     },
     {
@@ -3096,7 +4299,15 @@
         ]
       },
       "properties": {
-        "@id": 504000961
+        "@id": 504000961,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3115,7 +4326,19 @@
         ]
       },
       "properties": {
-        "@id": 519511371
+        "@id": 519511371,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3194,7 +4417,21 @@
         ]
       },
       "properties": {
-        "@id": 521042423
+        "@id": 521042423,
+        "bus:lanes:forward": "yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:bus:forward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "placement:forward": "left_of:1",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3225,7 +4462,19 @@
         ]
       },
       "properties": {
-        "@id": 546125442
+        "@id": 546125442,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3316,7 +4565,20 @@
         ]
       },
       "properties": {
-        "@id": 622964344
+        "@id": 622964344,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "level": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3335,7 +4597,16 @@
         ]
       },
       "properties": {
-        "@id": 681069346
+        "@id": 681069346,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3354,7 +4625,18 @@
         ]
       },
       "properties": {
-        "@id": 681069348
+        "@id": 681069348,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3393,7 +4675,18 @@
         ]
       },
       "properties": {
-        "@id": 685121014
+        "@id": 685121014,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "||0"
       }
     },
     {
@@ -3420,7 +4713,15 @@
         ]
       },
       "properties": {
-        "@id": 685121067
+        "@id": 685121067,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3443,7 +4744,22 @@
         ]
       },
       "properties": {
-        "@id": 685506747
+        "@id": 685506747,
+        "bicycle": "no",
+        "change:lanes": "no|yes|yes",
+        "cycleway:both": "no",
+        "destination:lanes": "Boulevard Taschereau;La Prairie|Pont Jacques-Cartier;Montréal|Pont Jacques-Cartier;Montréal",
+        "destination:ref:lanes": "134 Ouest|134 Est|134 Est",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3462,7 +4778,13 @@
         ]
       },
       "properties": {
-        "@id": 686674270
+        "@id": 686674270,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -3493,7 +4815,18 @@
         ]
       },
       "properties": {
-        "@id": 687049969
+        "@id": 687049969,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3512,7 +4845,24 @@
         ]
       },
       "properties": {
-        "@id": 687150633
+        "@id": 687150633,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3531,7 +4881,20 @@
         ]
       },
       "properties": {
-        "@id": 687150635
+        "@id": 687150635,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3550,7 +4913,21 @@
         ]
       },
       "properties": {
-        "@id": 717301137
+        "@id": 717301137,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3569,7 +4946,21 @@
         ]
       },
       "properties": {
-        "@id": 717301138
+        "@id": 717301138,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3596,7 +4987,16 @@
         ]
       },
       "properties": {
-        "@id": 752960493
+        "@id": 752960493,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3631,7 +5031,19 @@
         ]
       },
       "properties": {
-        "@id": 752960494
+        "@id": 752960494,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "||1",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -3650,7 +5062,19 @@
         ]
       },
       "properties": {
-        "@id": 753010795
+        "@id": 753010795,
+        "access": "yes",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -3669,7 +5093,17 @@
         ]
       },
       "properties": {
-        "@id": 753010850
+        "@id": 753010850,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3704,7 +5138,18 @@
         ]
       },
       "properties": {
-        "@id": 753010853
+        "@id": 753010853,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3723,7 +5168,20 @@
         ]
       },
       "properties": {
-        "@id": 753010855
+        "@id": 753010855,
+        "cycleway:both": "separate",
+        "destination": "Boulevard La Fayette Sud",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "winter_service": "yes"
       }
     },
     {
@@ -3742,7 +5200,18 @@
         ]
       },
       "properties": {
-        "@id": 753010857
+        "@id": 753010857,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3801,7 +5270,17 @@
         ]
       },
       "properties": {
-        "@id": 753010858
+        "@id": 753010858,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3848,7 +5327,19 @@
         ]
       },
       "properties": {
-        "@id": 753011840
+        "@id": 753011840,
+        "bus:lanes": "yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -3867,7 +5358,18 @@
         ]
       },
       "properties": {
-        "@id": 753011843
+        "@id": 753011843,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3886,7 +5388,18 @@
         ]
       },
       "properties": {
-        "@id": 753011845
+        "@id": 753011845,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3905,7 +5418,19 @@
         ]
       },
       "properties": {
-        "@id": 753036639
+        "@id": 753036639,
+        "change:lanes": "no|only_right|yes",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|right"
       }
     },
     {
@@ -3944,7 +5469,24 @@
         ]
       },
       "properties": {
-        "@id": 755944401
+        "@id": 755944401,
+        "bus:lanes:forward": "yes|designated",
+        "busway:right": "lane",
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:bus:forward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -3983,7 +5525,18 @@
         ]
       },
       "properties": {
-        "@id": 755944402
+        "@id": 755944402,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4026,7 +5579,21 @@
         ]
       },
       "properties": {
-        "@id": 917316995
+        "@id": 917316995,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "0||"
       }
     },
     {
@@ -4065,7 +5632,16 @@
         ]
       },
       "properties": {
-        "@id": 917316996
+        "@id": 917316996,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4084,7 +5660,21 @@
         ]
       },
       "properties": {
-        "@id": 934107370
+        "@id": 934107370,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "left|through",
+        "width:lanes:start": "0|"
       }
     },
     {
@@ -4103,7 +5693,16 @@
         ]
       },
       "properties": {
-        "@id": 985597532
+        "@id": 985597532,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Sainte-Hélène",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4122,7 +5721,18 @@
         ]
       },
       "properties": {
-        "@id": 985597767
+        "@id": 985597767,
+        "bicycle": "designated",
+        "cycleway:right": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4141,7 +5751,19 @@
         ]
       },
       "properties": {
-        "@id": 1079526819
+        "@id": 1079526819,
+        "bicycle": "designated",
+        "cycleway:right": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4216,7 +5838,25 @@
         ]
       },
       "properties": {
-        "@id": 1092081052
+        "@id": 1092081052,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "no|yes|only_left|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "4",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "motor_vehicle:lanes": "yes|yes|yes|no",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4235,7 +5875,20 @@
         ]
       },
       "properties": {
-        "@id": 1092081054
+        "@id": 1092081054,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134",
+        "destination:street": "Boulevard Taschereau",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4310,7 +5963,22 @@
         ]
       },
       "properties": {
-        "@id": 1207894118
+        "@id": 1207894118,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4333,7 +6001,16 @@
         ]
       },
       "properties": {
-        "@id": 1207984675
+        "@id": 1207984675,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4352,7 +6029,21 @@
         ]
       },
       "properties": {
-        "@id": 1207984676
+        "@id": 1207984676,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4371,7 +6062,23 @@
         ]
       },
       "properties": {
-        "@id": 1208000498
+        "@id": 1208000498,
+        "bicycle": "no",
+        "change:lanes:forward": "no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4390,7 +6097,21 @@
         ]
       },
       "properties": {
-        "@id": 1208000500
+        "@id": 1208000500,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "134",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "toll": "no"
       }
     },
     {
@@ -4437,7 +6158,22 @@
         ]
       },
       "properties": {
-        "@id": 1208000501
+        "@id": 1208000501,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4464,7 +6200,25 @@
         ]
       },
       "properties": {
-        "@id": 1208000502
+        "@id": 1208000502,
+        "bicycle": "no",
+        "bridge": "yes",
+        "change:lanes:forward": "no|yes",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4487,7 +6241,23 @@
         ]
       },
       "properties": {
-        "@id": 1208000503
+        "@id": 1208000503,
+        "bicycle": "use_sidepath",
+        "bridge": "yes",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "ref": "134",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4514,7 +6284,25 @@
         ]
       },
       "properties": {
-        "@id": 1208000504
+        "@id": 1208000504,
+        "bicycle": "use_sidepath",
+        "bridge": "yes",
+        "change:lanes:backward": "no|no",
+        "change:lanes:forward": "no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "ref": "134",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4533,7 +6321,20 @@
         ]
       },
       "properties": {
-        "@id": 1208010137
+        "@id": 1208010137,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4552,7 +6353,20 @@
         ]
       },
       "properties": {
-        "@id": 1208010138
+        "@id": 1208010138,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4571,7 +6385,18 @@
         ]
       },
       "properties": {
-        "@id": 1208010139
+        "@id": 1208010139,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4590,7 +6415,17 @@
         ]
       },
       "properties": {
-        "@id": 1208010142
+        "@id": 1208010142,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4613,7 +6448,18 @@
         ]
       },
       "properties": {
-        "@id": 1208010146
+        "@id": 1208010146,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -4636,7 +6482,18 @@
         ]
       },
       "properties": {
-        "@id": 1208010147
+        "@id": 1208010147,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4655,7 +6512,20 @@
         ]
       },
       "properties": {
-        "@id": 1208144826
+        "@id": 1208144826,
+        "change:lanes": "yes|only_left|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4722,7 +6592,16 @@
         ]
       },
       "properties": {
-        "@id": 1208144827
+        "@id": 1208144827,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4773,7 +6652,21 @@
         ]
       },
       "properties": {
-        "@id": 1208144828
+        "@id": 1208144828,
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through"
       }
     },
     {
@@ -4800,7 +6693,20 @@
         ]
       },
       "properties": {
-        "@id": 1208144829
+        "@id": 1208144829,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|||2",
+        "width:lanes:start": "|||0"
       }
     },
     {
@@ -4835,7 +6741,19 @@
         ]
       },
       "properties": {
-        "@id": 1208144830
+        "@id": 1208144830,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -4854,7 +6772,18 @@
         ]
       },
       "properties": {
-        "@id": 1208144946
+        "@id": 1208144946,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4873,7 +6802,18 @@
         ]
       },
       "properties": {
-        "@id": 1208144947
+        "@id": 1208144947,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4896,7 +6836,18 @@
         ]
       },
       "properties": {
-        "@id": 1208144954
+        "@id": 1208144954,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4927,7 +6878,20 @@
         ]
       },
       "properties": {
-        "@id": 1208147992
+        "@id": 1208147992,
+        "bus": "designated",
+        "bus:lanes": "1",
+        "busway:left": "lane",
+        "highway": "service",
+        "lanes": "2",
+        "lanes:bus": "designated|yes",
+        "maxspeed": "50",
+        "motor_vehicle": "destination",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -4958,7 +6922,15 @@
         ]
       },
       "properties": {
-        "@id": 1208147994
+        "@id": 1208147994,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5053,7 +7025,20 @@
         ]
       },
       "properties": {
-        "@id": 1208147995
+        "@id": 1208147995,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5088,7 +7073,20 @@
         ]
       },
       "properties": {
-        "@id": 1208147996
+        "@id": 1208147996,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5115,7 +7113,20 @@
         ]
       },
       "properties": {
-        "@id": 1208147997
+        "@id": 1208147997,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5134,7 +7145,21 @@
         ]
       },
       "properties": {
-        "@id": 1208147999
+        "@id": 1208147999,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5153,7 +7178,21 @@
         ]
       },
       "properties": {
-        "@id": 1208148000
+        "@id": 1208148000,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5196,7 +7235,21 @@
         ]
       },
       "properties": {
-        "@id": 1208148001
+        "@id": 1208148001,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "foot": "no",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5219,7 +7272,17 @@
         ]
       },
       "properties": {
-        "@id": 1208190722
+        "@id": 1208190722,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5302,7 +7365,18 @@
         ]
       },
       "properties": {
-        "@id": 1208190730
+        "@id": 1208190730,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5321,7 +7395,21 @@
         ]
       },
       "properties": {
-        "@id": 1208190794
+        "@id": 1208190794,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5368,7 +7456,21 @@
         ]
       },
       "properties": {
-        "@id": 1208190801
+        "@id": 1208190801,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5387,7 +7489,22 @@
         ]
       },
       "properties": {
-        "@id": 1208190821
+        "@id": 1208190821,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left||"
       }
     },
     {
@@ -5414,7 +7531,23 @@
         ]
       },
       "properties": {
-        "@id": 1208190823
+        "@id": 1208190823,
+        "change:lanes:forward": "no|no|no",
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:forward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through|through;right"
       }
     },
     {
@@ -5437,7 +7570,18 @@
         ]
       },
       "properties": {
-        "@id": 1208192416
+        "@id": 1208192416,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -5460,7 +7604,16 @@
         ]
       },
       "properties": {
-        "@id": 1208192417
+        "@id": 1208192417,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5479,7 +7632,16 @@
         ]
       },
       "properties": {
-        "@id": 1208192418
+        "@id": 1208192418,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5498,7 +7660,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263047
+        "@id": 1208263047,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "through|right"
       }
     },
     {
@@ -5529,7 +7701,18 @@
         ]
       },
       "properties": {
-        "@id": 1208263048
+        "@id": 1208263048,
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -5548,7 +7731,12 @@
         ]
       },
       "properties": {
-        "@id": 1208263049
+        "@id": 1208263049,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -5567,7 +7755,13 @@
         ]
       },
       "properties": {
-        "@id": 1208263050
+        "@id": 1208263050,
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -5594,7 +7788,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263051
+        "@id": 1208263051,
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5621,7 +7824,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263052
+        "@id": 1208263052,
+        "cycleway:right": "no",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5664,7 +7876,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263060
+        "@id": 1208263060,
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5699,7 +7920,18 @@
         ]
       },
       "properties": {
-        "@id": 1208263061
+        "@id": 1208263061,
+        "change:lanes": "no|no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard La Fayette",
+        "note:chaire_mobilite": "missing_sidewalk",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "through|right"
       }
     },
     {
@@ -5718,7 +7950,16 @@
         ]
       },
       "properties": {
-        "@id": 1208263062
+        "@id": 1208263062,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5737,7 +7978,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263063
+        "@id": 1208263063,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5756,7 +8007,13 @@
         ]
       },
       "properties": {
-        "@id": 1208263065
+        "@id": 1208263065,
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -5775,7 +8032,13 @@
         ]
       },
       "properties": {
-        "@id": 1208263066
+        "@id": 1208263066,
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt"
       }
     },
     {
@@ -5810,7 +8073,12 @@
         ]
       },
       "properties": {
-        "@id": 1208263067
+        "@id": 1208263067,
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -5829,7 +8097,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263069
+        "@id": 1208263069,
+        "cycleway:right": "no",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5880,7 +8158,19 @@
         ]
       },
       "properties": {
-        "@id": 1208263109
+        "@id": 1208263109,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -5899,7 +8189,16 @@
         ]
       },
       "properties": {
-        "@id": 1208267985
+        "@id": 1208267985,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -5918,7 +8217,18 @@
         ]
       },
       "properties": {
-        "@id": 1208267986
+        "@id": 1208267986,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -6001,7 +8311,19 @@
         ]
       },
       "properties": {
-        "@id": 1208267987
+        "@id": 1208267987,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134",
+        "destination:street": "Boulevard Taschereau",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6024,7 +8346,17 @@
         ]
       },
       "properties": {
-        "@id": 1208267992
+        "@id": 1208267992,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|right"
       }
     },
     {
@@ -6043,7 +8375,19 @@
         ]
       },
       "properties": {
-        "@id": 1208267993
+        "@id": 1208267993,
+        "change:lanes": "yes|only_left|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|right"
       }
     },
     {
@@ -6062,7 +8406,19 @@
         ]
       },
       "properties": {
-        "@id": 1208267994
+        "@id": 1208267994,
+        "change:lanes": "no|only_right|yes",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "||1"
       }
     },
     {
@@ -6089,7 +8445,19 @@
         ]
       },
       "properties": {
-        "@id": 1208267995
+        "@id": 1208267995,
+        "change:lanes": "no|no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|right"
       }
     },
     {
@@ -6112,7 +8480,16 @@
         ]
       },
       "properties": {
-        "@id": 1208267996
+        "@id": 1208267996,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6139,7 +8516,18 @@
         ]
       },
       "properties": {
-        "@id": 1208267999
+        "@id": 1208267999,
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left;through"
       }
     },
     {
@@ -6166,7 +8554,21 @@
         ]
       },
       "properties": {
-        "@id": 1208274368
+        "@id": 1208274368,
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through;right"
       }
     },
     {
@@ -6185,7 +8587,18 @@
         ]
       },
       "properties": {
-        "@id": 1208274369
+        "@id": 1208274369,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through;right"
       }
     },
     {
@@ -6204,7 +8617,18 @@
         ]
       },
       "properties": {
-        "@id": 1208274370
+        "@id": 1208274370,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
       }
     },
     {
@@ -6235,7 +8659,16 @@
         ]
       },
       "properties": {
-        "@id": 1208274371
+        "@id": 1208274371,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6254,7 +8687,19 @@
         ]
       },
       "properties": {
-        "@id": 1208274372
+        "@id": 1208274372,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
       }
     },
     {
@@ -6285,7 +8730,17 @@
         ]
       },
       "properties": {
-        "@id": 1208274384
+        "@id": 1208274384,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left"
       }
     },
     {
@@ -6324,7 +8779,24 @@
         ]
       },
       "properties": {
-        "@id": 1208280527
+        "@id": 1208280527,
+        "bus:lanes": "yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|"
       }
     },
     {
@@ -6355,7 +8827,22 @@
         ]
       },
       "properties": {
-        "@id": 1208393798
+        "@id": 1208393798,
+        "bus:lanes": "designated|yes|yes",
+        "busway:left": "lane",
+        "change:lanes": "no|no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|"
       }
     },
     {
@@ -6378,7 +8865,17 @@
         ]
       },
       "properties": {
-        "@id": 1208393799
+        "@id": 1208393799,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6397,7 +8894,20 @@
         ]
       },
       "properties": {
-        "@id": 1208393800
+        "@id": 1208393800,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "motor_vehicle": "yes",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
       }
     },
     {
@@ -6428,7 +8938,20 @@
         ]
       },
       "properties": {
-        "@id": 1208393801
+        "@id": 1208393801,
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|"
       }
     },
     {
@@ -6459,7 +8982,19 @@
         ]
       },
       "properties": {
-        "@id": 1208393806
+        "@id": 1208393806,
+        "change:lanes": "no|no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right|right"
       }
     },
     {
@@ -6478,7 +9013,18 @@
         ]
       },
       "properties": {
-        "@id": 1208393809
+        "@id": 1208393809,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right|right"
       }
     },
     {
@@ -6497,7 +9043,21 @@
         ]
       },
       "properties": {
-        "@id": 1208588905
+        "@id": 1208588905,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6516,7 +9076,20 @@
         ]
       },
       "properties": {
-        "@id": 1208588906
+        "@id": 1208588906,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "|merg_to_right||",
+        "width:lanes:start": "0|||"
       }
     },
     {
@@ -6535,7 +9108,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588907
+        "@id": 1208588907,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6554,7 +9137,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588908
+        "@id": 1208588908,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6581,7 +9174,23 @@
         ]
       },
       "properties": {
-        "@id": 1208588909
+        "@id": 1208588909,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6600,7 +9209,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588910
+        "@id": 1208588910,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6619,7 +9238,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588911
+        "@id": 1208588911,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6642,7 +9271,17 @@
         ]
       },
       "properties": {
-        "@id": 1208588912
+        "@id": 1208588912,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6697,7 +9336,16 @@
         ]
       },
       "properties": {
-        "@id": 1208588913
+        "@id": 1208588913,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6824,7 +9472,16 @@
         ]
       },
       "properties": {
-        "@id": 1208588914
+        "@id": 1208588914,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -6843,7 +9500,25 @@
         ]
       },
       "properties": {
-        "@id": 1208618024
+        "@id": 1208618024,
+        "bicycle": "no",
+        "bus": "designated",
+        "cycleway:both": "no",
+        "destination": "Montréal;Pont Jacques-Cartier",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "hov": "designated",
+        "hov:minimum": "2",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6926,7 +9601,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618025
+        "@id": 1208618025,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -6945,7 +9633,19 @@
         ]
       },
       "properties": {
-        "@id": 1208618026
+        "@id": 1208618026,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7104,7 +9804,18 @@
         ]
       },
       "properties": {
-        "@id": 1208618028
+        "@id": 1208618028,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7135,7 +9846,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618029
+        "@id": 1208618029,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montréal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -7270,7 +9994,24 @@
         ]
       },
       "properties": {
-        "@id": 1208618041
+        "@id": 1208618041,
+        "bicycle": "no",
+        "bus": "designated",
+        "cycleway:both": "no",
+        "destination": "Montréal;Pont Jacques-Cartier",
+        "destination:ref": "134 Est",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "hov": "designated",
+        "hov:minimum": "2",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "psv": "designated",
+        "routing:bus": "designated",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -7289,7 +10030,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618045
+        "@id": 1208618045,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Varennes;USA",
+        "destination:ref": "R132;A20",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7308,7 +10062,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618046
+        "@id": 1208618046,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7327,7 +10094,18 @@
         ]
       },
       "properties": {
-        "@id": 1208618050
+        "@id": 1208618050,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7362,7 +10140,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618051
+        "@id": 1208618051,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7389,7 +10180,22 @@
         ]
       },
       "properties": {
-        "@id": 1208618052
+        "@id": 1208618052,
+        "bicycle": "no",
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7412,7 +10218,18 @@
         ]
       },
       "properties": {
-        "@id": 1208618054
+        "@id": 1208618054,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7435,7 +10252,20 @@
         ]
       },
       "properties": {
-        "@id": 1208618055
+        "@id": 1208618055,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7702,7 +10532,19 @@
         ]
       },
       "properties": {
-        "@id": 1208644064
+        "@id": 1208644064,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Riverside",
+        "name:en": "Riverside Drive",
+        "name:fr": "Rue Riverside",
+        "placement:backward": "left_of:1",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -7761,7 +10603,23 @@
         ]
       },
       "properties": {
-        "@id": 1208866385
+        "@id": 1208866385,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -7864,7 +10722,21 @@
         ]
       },
       "properties": {
-        "@id": 1208866386
+        "@id": 1208866386,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination": "Boulevard Taschereau;La Prairie",
+        "destination:ref": "134 Ouest",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -7915,7 +10787,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866388
+        "@id": 1208866388,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -7934,7 +10816,22 @@
         ]
       },
       "properties": {
-        "@id": 1208866389
+        "@id": 1208866389,
+        "bicycle": "no",
+        "change:lanes": "no|no",
+        "cycleway:right": "separate",
+        "destination": "Boulevard Taschereau;La Prairie",
+        "destination:ref": "134 Ouest",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -7961,7 +10858,24 @@
         ]
       },
       "properties": {
-        "@id": 1208866390
+        "@id": 1208866390,
+        "bicycle": "no",
+        "change:lanes": "yes|yes|only_left|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Pont Jacques-Cartier",
+        "oneway": "yes",
+        "placement": "transition",
+        "ref": "134",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "|0||"
       }
     },
     {
@@ -8000,7 +10914,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866396
+        "@id": 1208866396,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8051,7 +10975,16 @@
         ]
       },
       "properties": {
-        "@id": 1208866397
+        "@id": 1208866397,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8086,7 +11019,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866398
+        "@id": 1208866398,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8105,7 +11048,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866414
+        "@id": 1208866414,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8180,7 +11133,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866415
+        "@id": 1208866415,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8231,7 +11194,16 @@
         ]
       },
       "properties": {
-        "@id": 1208866416
+        "@id": 1208866416,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8258,7 +11230,18 @@
         ]
       },
       "properties": {
-        "@id": 1208866423
+        "@id": 1208866423,
+        "change:lanes": "no|no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -8281,7 +11264,17 @@
         ]
       },
       "properties": {
-        "@id": 1208866453
+        "@id": 1208866453,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "primary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -8316,7 +11309,18 @@
         ]
       },
       "properties": {
-        "@id": 1208866459
+        "@id": 1208866459,
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|right|right"
       }
     },
     {
@@ -8347,7 +11351,19 @@
         ]
       },
       "properties": {
-        "@id": 1208866460
+        "@id": 1208866460,
+        "change:lanes": "no|no|no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|right|right"
       }
     },
     {
@@ -8386,7 +11402,23 @@
         ]
       },
       "properties": {
-        "@id": 1208871757
+        "@id": 1208871757,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "embankment": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "||slight_right"
       }
     },
     {
@@ -8429,7 +11461,22 @@
         ]
       },
       "properties": {
-        "@id": 1208871758
+        "@id": 1208871758,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "embankment": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "134",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8480,7 +11527,19 @@
         ]
       },
       "properties": {
-        "@id": 1208871762
+        "@id": 1208871762,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Varennes;USA",
+        "destination:ref": "R132;A20",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8663,7 +11722,19 @@
         ]
       },
       "properties": {
-        "@id": 1208871763
+        "@id": 1208871763,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Pont Jacques-Cartier;Montreal",
+        "destination:ref": "134 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8730,7 +11801,20 @@
         ]
       },
       "properties": {
-        "@id": 1208874873
+        "@id": 1208874873,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Laurent;Rue Saint-Charles",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8749,7 +11833,22 @@
         ]
       },
       "properties": {
-        "@id": 1208874874
+        "@id": 1208874874,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Laurent;Rue Saint-Charles",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -8768,7 +11867,22 @@
         ]
       },
       "properties": {
-        "@id": 1208874875
+        "@id": 1208874875,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Laurent;Rue Saint-Charles",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:start": "0|||"
       }
     },
     {
@@ -8787,7 +11901,17 @@
         ]
       },
       "properties": {
-        "@id": 1208874876
+        "@id": 1208874876,
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8826,7 +11950,18 @@
         ]
       },
       "properties": {
-        "@id": 1208874877
+        "@id": 1208874877,
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -8853,7 +11988,18 @@
         ]
       },
       "properties": {
-        "@id": 1208874879
+        "@id": 1208874879,
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -8880,7 +12026,21 @@
         ]
       },
       "properties": {
-        "@id": 1208874880
+        "@id": 1208874880,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -8899,7 +12059,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887350
+        "@id": 1208887350,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "0||"
       }
     },
     {
@@ -8922,7 +12092,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887351
+        "@id": 1208887351,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -8941,7 +12121,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887364
+        "@id": 1208887364,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -8960,7 +12150,18 @@
         ]
       },
       "properties": {
-        "@id": 1208887365
+        "@id": 1208887365,
+        "bicycle": "designated",
+        "cycleway:right": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9011,7 +12212,15 @@
         ]
       },
       "properties": {
-        "@id": 1208887399
+        "@id": 1208887399,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9074,7 +12283,16 @@
         ]
       },
       "properties": {
-        "@id": 1208887420
+        "@id": 1208887420,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9093,7 +12311,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887424
+        "@id": 1208887424,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9112,7 +12340,18 @@
         ]
       },
       "properties": {
-        "@id": 1208887425
+        "@id": 1208887425,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9131,7 +12370,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887438
+        "@id": 1208887438,
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil",
+        "destination:street": "Saint-Laurent Street;Saint-Charles Street",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9154,7 +12405,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887439
+        "@id": 1208887439,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
       }
     },
     {
@@ -9173,7 +12436,20 @@
         ]
       },
       "properties": {
-        "@id": 1208887440
+        "@id": 1208887440,
+        "change:lanes": "yes|only_left|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|right"
       }
     },
     {
@@ -9228,7 +12504,16 @@
         ]
       },
       "properties": {
-        "@id": 1208887446
+        "@id": 1208887446,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9247,7 +12532,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887447
+        "@id": 1208887447,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lane_markings": "no",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9266,7 +12561,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887448
+        "@id": 1208887448,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
       }
     },
     {
@@ -9313,7 +12620,17 @@
         ]
       },
       "properties": {
-        "@id": 1208887449
+        "@id": 1208887449,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9332,7 +12649,18 @@
         ]
       },
       "properties": {
-        "@id": 1208887452
+        "@id": 1208887452,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9351,7 +12679,20 @@
         ]
       },
       "properties": {
-        "@id": 1208887464
+        "@id": 1208887464,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9374,7 +12715,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887471
+        "@id": 1208887471,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "use_sidepath",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -9409,7 +12762,19 @@
         ]
       },
       "properties": {
-        "@id": 1208887472
+        "@id": 1208887472,
+        "change:lanes": "no|no",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -9476,7 +12841,22 @@
         ]
       },
       "properties": {
-        "@id": 1209119184
+        "@id": 1209119184,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "Métro Longueuil;Rue Saint-Charles",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -9499,7 +12879,22 @@
         ]
       },
       "properties": {
-        "@id": 1209119185
+        "@id": 1209119185,
+        "bicycle": "no",
+        "change:lanes": "no|only_right|yes",
+        "cycleway:both": "no",
+        "destination:lanes": "Boulevard Taschereau;La Prairie|Pont Jacques-Cartier;Montréal|Pont Jacques-Cartier;Montréal",
+        "destination:ref:lanes": "134 Ouest|134 Est|134 Est",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9534,7 +12929,18 @@
         ]
       },
       "properties": {
-        "@id": 1209147366
+        "@id": 1209147366,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9641,7 +13047,18 @@
         ]
       },
       "properties": {
-        "@id": 1209147367
+        "@id": 1209147367,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9664,7 +13081,20 @@
         ]
       },
       "properties": {
-        "@id": 1209147370
+        "@id": 1209147370,
+        "bicycle": "no",
+        "change:lanes": "no|no",
+        "cycleway:both": "no",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "maxspeed:advisory": "35",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
       }
     },
     {
@@ -9691,7 +13121,21 @@
         ]
       },
       "properties": {
-        "@id": 1209147371
+        "@id": 1209147371,
+        "bicycle": "no",
+        "busway": "lane",
+        "change:lanes": "no|yes|yes|yes",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9730,7 +13174,24 @@
         ]
       },
       "properties": {
-        "@id": 1209147372
+        "@id": 1209147372,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "yes|only_left|no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9749,7 +13210,26 @@
         ]
       },
       "properties": {
-        "@id": 1209147374
+        "@id": 1209147374,
+        "bicycle": "no",
+        "bus:lanes": "yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "no|no",
+        "cycleway:both": "no",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "0|"
       }
     },
     {
@@ -9768,7 +13248,19 @@
         ]
       },
       "properties": {
-        "@id": 1209147376
+        "@id": 1209147376,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9791,7 +13283,24 @@
         ]
       },
       "properties": {
-        "@id": 1209147378
+        "@id": 1209147378,
+        "bicycle": "no",
+        "bus:lanes": "yes|designated",
+        "busway": "lane",
+        "busway:right": "lane",
+        "change:lanes": "no|no",
+        "cycleway:both": "no",
+        "destination": "Varennes;Québec",
+        "destination:ref": "20 Est;132 Est",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9810,7 +13319,16 @@
         ]
       },
       "properties": {
-        "@id": 1209341821
+        "@id": 1209341821,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9901,7 +13419,18 @@
         ]
       },
       "properties": {
-        "@id": 1209341822
+        "@id": 1209341822,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -9968,7 +13497,16 @@
         ]
       },
       "properties": {
-        "@id": 1209341823
+        "@id": 1209341823,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10007,7 +13545,20 @@
         ]
       },
       "properties": {
-        "@id": 1209342720
+        "@id": 1209342720,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -10026,7 +13577,19 @@
         ]
       },
       "properties": {
-        "@id": 1209342721
+        "@id": 1209342721,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10045,7 +13608,22 @@
         ]
       },
       "properties": {
-        "@id": 1209342722
+        "@id": 1209342722,
+        "bicycle": "no",
+        "change:lanes": "yes|only_left|yes",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10068,7 +13646,16 @@
         ]
       },
       "properties": {
-        "@id": 1209357786
+        "@id": 1209357786,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10239,7 +13826,18 @@
         ]
       },
       "properties": {
-        "@id": 1209357787
+        "@id": 1209357787,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10290,7 +13888,16 @@
         ]
       },
       "properties": {
-        "@id": 1209357788
+        "@id": 1209357788,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10309,7 +13916,20 @@
         ]
       },
       "properties": {
-        "@id": 1209357791
+        "@id": 1209357791,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10328,7 +13948,17 @@
         ]
       },
       "properties": {
-        "@id": 1209357792
+        "@id": 1209357792,
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10347,7 +13977,22 @@
         ]
       },
       "properties": {
-        "@id": 1209357793
+        "@id": 1209357793,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0",
+        "width:lanes:start": "|1"
       }
     },
     {
@@ -10370,7 +14015,18 @@
         ]
       },
       "properties": {
-        "@id": 1209357794
+        "@id": 1209357794,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10389,7 +14045,22 @@
         ]
       },
       "properties": {
-        "@id": 1209357798
+        "@id": 1209357798,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|1",
+        "width:lanes:start": "|2"
       }
     },
     {
@@ -10408,7 +14079,22 @@
         ]
       },
       "properties": {
-        "@id": 1209357799
+        "@id": 1209357799,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|2"
       }
     },
     {
@@ -10439,7 +14125,25 @@
         ]
       },
       "properties": {
-        "@id": 1209357800
+        "@id": 1209357800,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "||0"
       }
     },
     {
@@ -10470,7 +14174,23 @@
         ]
       },
       "properties": {
-        "@id": 1209357801
+        "@id": 1209357801,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10493,7 +14213,25 @@
         ]
       },
       "properties": {
-        "@id": 1209357802
+        "@id": 1209357802,
+        "bicycle": "no",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "||0"
       }
     },
     {
@@ -10536,7 +14274,19 @@
         ]
       },
       "properties": {
-        "@id": 1209357806
+        "@id": 1209357806,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10583,7 +14333,18 @@
         ]
       },
       "properties": {
-        "@id": 1209357809
+        "@id": 1209357809,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10634,7 +14395,20 @@
         ]
       },
       "properties": {
-        "@id": 1209357810
+        "@id": 1209357810,
+        "bicycle": "no",
+        "cycleway:right": "separate",
+        "destination:street": "Rue Saint-Charles",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10665,7 +14439,18 @@
         ]
       },
       "properties": {
-        "@id": 1209357821
+        "@id": 1209357821,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10684,7 +14469,19 @@
         ]
       },
       "properties": {
-        "@id": 1209357822
+        "@id": 1209357822,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10707,7 +14504,18 @@
         ]
       },
       "properties": {
-        "@id": 1209357823
+        "@id": 1209357823,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10726,7 +14534,20 @@
         ]
       },
       "properties": {
-        "@id": 1209357824
+        "@id": 1209357824,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "||0"
       }
     },
     {
@@ -10745,7 +14566,19 @@
         ]
       },
       "properties": {
-        "@id": 1209357825
+        "@id": 1209357825,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "destination": "La Prairie;USA;Varennes;Québec",
+        "destination:ref": "20;132",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -10764,7 +14597,18 @@
         ]
       },
       "properties": {
-        "@id": 1209423196
+        "@id": 1209423196,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -10783,7 +14627,17 @@
         ]
       },
       "properties": {
-        "@id": 1209423197
+        "@id": 1209423197,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10802,7 +14656,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423198
+        "@id": 1209423198,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10821,7 +14684,17 @@
         ]
       },
       "properties": {
-        "@id": 1209423199
+        "@id": 1209423199,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10888,7 +14761,22 @@
         ]
       },
       "properties": {
-        "@id": 1209423200
+        "@id": 1209423200,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -10971,7 +14859,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423212
+        "@id": 1209423212,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -10990,7 +14886,19 @@
         ]
       },
       "properties": {
-        "@id": 1209423215
+        "@id": 1209423215,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "2||",
+        "width:lanes:start": "0||"
       }
     },
     {
@@ -11009,7 +14917,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423216
+        "@id": 1209423216,
+        "bicycle": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11084,7 +15000,14 @@
         ]
       },
       "properties": {
-        "@id": 1209423217
+        "@id": 1209423217,
+        "foot": "use_sidepath",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11103,7 +15026,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423219
+        "@id": 1209423219,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11122,7 +15054,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423221
+        "@id": 1209423221,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11141,7 +15082,20 @@
         ]
       },
       "properties": {
-        "@id": 1209423222
+        "@id": 1209423222,
+        "bicycle": "no",
+        "change:lanes": "no|no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -11160,7 +15114,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423224
+        "@id": 1209423224,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11191,7 +15153,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423225
+        "@id": 1209423225,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11222,7 +15192,17 @@
         ]
       },
       "properties": {
-        "@id": 1209423226
+        "@id": 1209423226,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "placement:forward": "left_of:1",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11261,7 +15241,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423229
+        "@id": 1209423229,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11300,7 +15288,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423230
+        "@id": 1209423230,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11319,7 +15315,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423232
+        "@id": 1209423232,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11406,7 +15410,15 @@
         ]
       },
       "properties": {
-        "@id": 1209423233
+        "@id": 1209423233,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11429,7 +15441,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423526
+        "@id": 1209423526,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11448,7 +15469,20 @@
         ]
       },
       "properties": {
-        "@id": 1209549947
+        "@id": 1209549947,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -11467,7 +15501,18 @@
         ]
       },
       "properties": {
-        "@id": 1209549948
+        "@id": 1209549948,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11530,7 +15575,18 @@
         ]
       },
       "properties": {
-        "@id": 1209549949
+        "@id": 1209549949,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11549,7 +15605,21 @@
         ]
       },
       "properties": {
-        "@id": 1209549951
+        "@id": 1209549951,
+        "bicycle": "no",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard Taschereau",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "width:lanes:end": "|1",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -11568,7 +15638,16 @@
         ]
       },
       "properties": {
-        "@id": 1209998151
+        "@id": 1209998151,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11591,7 +15670,16 @@
         ]
       },
       "properties": {
-        "@id": 1209998152
+        "@id": 1209998152,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11610,7 +15698,20 @@
         ]
       },
       "properties": {
-        "@id": 1209998154
+        "@id": 1209998154,
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11629,7 +15730,20 @@
         ]
       },
       "properties": {
-        "@id": 1209998155
+        "@id": 1209998155,
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11648,7 +15762,16 @@
         ]
       },
       "properties": {
-        "@id": 1209998157
+        "@id": 1209998157,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Saint-Charles Ouest",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11687,7 +15810,17 @@
         ]
       },
       "properties": {
-        "@id": 1210268670
+        "@id": 1210268670,
+        "change:lanes": "no|no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -11706,7 +15839,18 @@
         ]
       },
       "properties": {
-        "@id": 1210268671
+        "@id": 1210268671,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -11725,7 +15869,17 @@
         ]
       },
       "properties": {
-        "@id": 1210319414
+        "@id": 1210319414,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -11764,7 +15918,17 @@
         ]
       },
       "properties": {
-        "@id": 1210319415
+        "@id": 1210319415,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -11807,7 +15971,24 @@
         ]
       },
       "properties": {
-        "@id": 1210319422
+        "@id": 1210319422,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0",
+        "cycleway:right:marking": "solid_line",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11838,7 +16019,23 @@
         ]
       },
       "properties": {
-        "@id": 1210319423
+        "@id": 1210319423,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11869,7 +16066,22 @@
         ]
       },
       "properties": {
-        "@id": 1210319426
+        "@id": 1210319426,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11920,7 +16132,23 @@
         ]
       },
       "properties": {
-        "@id": 1210319451
+        "@id": 1210319451,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -11959,7 +16187,19 @@
         ]
       },
       "properties": {
-        "@id": 1210319482
+        "@id": 1210319482,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:forward:start": "|0"
       }
     },
     {
@@ -11978,7 +16218,24 @@
         ]
       },
       "properties": {
-        "@id": 1210322313
+        "@id": 1210322313,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "0|"
       }
     },
     {
@@ -11997,7 +16254,24 @@
         ]
       },
       "properties": {
-        "@id": 1210322314
+        "@id": 1210322314,
+        "bicycle": "designated",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -12020,7 +16294,25 @@
         ]
       },
       "properties": {
-        "@id": 1210322315
+        "@id": 1210322315,
+        "bicycle": "designated",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "change:lanes": "no|only_right|yes",
+        "cycleway:right": "share_busway",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
       }
     },
     {
@@ -12047,7 +16339,22 @@
         ]
       },
       "properties": {
-        "@id": 1210322316
+        "@id": 1210322316,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -12074,7 +16381,24 @@
         ]
       },
       "properties": {
-        "@id": 1210322317
+        "@id": 1210322317,
+        "bicycle": "designated",
+        "bus:lanes": "yes|yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "placement": "left_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -12109,7 +16433,27 @@
         ]
       },
       "properties": {
-        "@id": 1210322318
+        "@id": 1210322318,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0",
+        "cycleway:right:marking": "solid_line",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "no",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "|merge_to_left",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -12128,7 +16472,23 @@
         ]
       },
       "properties": {
-        "@id": 1210322325
+        "@id": 1210322325,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|"
       }
     },
     {
@@ -12147,7 +16507,24 @@
         ]
       },
       "properties": {
-        "@id": 1210322326
+        "@id": 1210322326,
+        "bicycle": "designated",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "3",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "0||0"
       }
     },
     {
@@ -12182,7 +16559,24 @@
         ]
       },
       "properties": {
-        "@id": 1210322327
+        "@id": 1210322327,
+        "bicycle": "designated",
+        "change:lanes": "no|no",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|"
       }
     },
     {
@@ -12201,7 +16595,20 @@
         ]
       },
       "properties": {
-        "@id": 1210322946
+        "@id": 1210322946,
+        "bicycle": "designated",
+        "cycleway:right": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -12248,7 +16655,16 @@
         ]
       },
       "properties": {
-        "@id": 1210441072
+        "@id": 1210441072,
+        "cycleway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "oneway": "yes",
+        "surface": "asphalt"
       }
     },
     {
@@ -12291,7 +16707,25 @@
         ]
       },
       "properties": {
-        "@id": 1210441090
+        "@id": 1210441090,
+        "bicycle": "designated",
+        "change:lanes": "no|no",
+        "cycleway:right": "lane",
+        "cycleway:right:buffer": "0.5",
+        "cycleway:right:oneway": "yes",
+        "cycleway:right:separation": "buffer",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "placement": "middle_of:2",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|"
       }
     },
     {
@@ -12322,7 +16756,22 @@
         ]
       },
       "properties": {
-        "@id": 1210441107
+        "@id": 1210441107,
+        "bicycle": "designated",
+        "change:lanes": "no|no",
+        "cycleway:right": "shared_lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "placement": "middle_of:1",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right"
       }
     },
     {
@@ -12341,7 +16790,22 @@
         ]
       },
       "properties": {
-        "@id": 1210441108
+        "@id": 1210441108,
+        "bus:lanes": "yes|designated",
+        "busway:right": "lane",
+        "cycleway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:bus": "1",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Rue Saint-Laurent Ouest",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes": "left|"
       }
     },
     {
@@ -12364,7 +16828,19 @@
         ]
       },
       "properties": {
-        "@id": 1210542690
+        "@id": 1210542690,
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue Joliette",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:forward:start": "|0"
       }
     },
     {
@@ -12407,7 +16883,22 @@
         ]
       },
       "properties": {
-        "@id": 1210649719
+        "@id": 1210649719,
+        "bus:lanes:forward": "yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:bus:forward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "placement": "transition",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt",
+        "width:lanes:forward:end": "|0"
       }
     },
     {
@@ -12458,7 +16949,20 @@
         ]
       },
       "properties": {
-        "@id": 1211251945
+        "@id": 1211251945,
+        "bus:lanes:forward": "yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:bus:forward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -12601,7 +17105,20 @@
         ]
       },
       "properties": {
-        "@id": 1211711839
+        "@id": 1211711839,
+        "bus:lanes:forward": "yes|designated",
+        "busway:right": "lane",
+        "foot": "use_sidepath",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:bus:forward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Rue du Bord-de-l'Eau Ouest",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     }
   ]

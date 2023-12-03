@@ -19,6 +19,10 @@
             45.53321
           ],
           [
+            -73.516045,
+            45.533223
+          ],
+          [
             -73.516387,
             45.533341
           ],
@@ -69,7 +73,11 @@
         ]
       },
       "properties": {
-        "@id": 19710004
+        "@id": 19710004,
+        "highway": "residential",
+        "maxspeed": "40",
+        "name": "Rue de Châteauguay",
+        "surface": "asphalt"
       }
     },
     {
@@ -204,7 +212,17 @@
         ]
       },
       "properties": {
-        "@id": 25874957
+        "@id": 25874957,
+        "cycleway:right": "separate",
+        "foot": "use_sidepath",
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Pierre-Dupuy",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -255,7 +273,14 @@
         ]
       },
       "properties": {
-        "@id": 25875362
+        "@id": 25875362,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -274,7 +299,14 @@
         ]
       },
       "properties": {
-        "@id": 26697601
+        "@id": 26697601,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Duvernay",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -293,7 +325,16 @@
         ]
       },
       "properties": {
-        "@id": 26697635
+        "@id": 26697635,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Cartier",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -312,7 +353,15 @@
         ]
       },
       "properties": {
-        "@id": 40216044
+        "@id": 40216044,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Dollard",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -331,7 +380,14 @@
         ]
       },
       "properties": {
-        "@id": 41889029
+        "@id": 41889029,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Marmier",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -378,7 +434,15 @@
         ]
       },
       "properties": {
-        "@id": 42056058
+        "@id": 42056058,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue De La Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     },
     {
@@ -421,7 +485,17 @@
         ]
       },
       "properties": {
-        "@id": 95440147
+        "@id": 95440147,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "oneway:bus": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -440,7 +514,18 @@
         ]
       },
       "properties": {
-        "@id": 149510475
+        "@id": 149510475,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -459,7 +544,17 @@
         ]
       },
       "properties": {
-        "@id": 183603165
+        "@id": 183603165,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -482,7 +577,16 @@
         ]
       },
       "properties": {
-        "@id": 183603166
+        "@id": 183603166,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     },
     {
@@ -501,7 +605,16 @@
         ]
       },
       "properties": {
-        "@id": 183603167
+        "@id": 183603167,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -532,7 +645,16 @@
         ]
       },
       "properties": {
-        "@id": 459123779
+        "@id": 459123779,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -555,7 +677,16 @@
         ]
       },
       "properties": {
-        "@id": 686674271
+        "@id": 686674271,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -594,7 +725,15 @@
         ]
       },
       "properties": {
-        "@id": 710200376
+        "@id": 710200376,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -645,7 +784,18 @@
         ]
       },
       "properties": {
-        "@id": 754089105
+        "@id": 754089105,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -764,7 +914,15 @@
         ]
       },
       "properties": {
-        "@id": 779593511
+        "@id": 779593511,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -787,7 +945,17 @@
         ]
       },
       "properties": {
-        "@id": 779593513
+        "@id": 779593513,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -806,7 +974,17 @@
         ]
       },
       "properties": {
-        "@id": 1092081053
+        "@id": 1092081053,
+        "cycleway:left": "separate",
+        "foot": "use_sidepath",
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Chemin de la Rive",
+        "routing:bicycle": "use_sidepath",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -837,7 +1015,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263064
+        "@id": 1208263064,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -860,7 +1048,15 @@
         ]
       },
       "properties": {
-        "@id": 1208263068
+        "@id": 1208263068,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -879,7 +1075,18 @@
         ]
       },
       "properties": {
-        "@id": 1208263070
+        "@id": 1208263070,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -914,7 +1121,17 @@
         ]
       },
       "properties": {
-        "@id": 1208263087
+        "@id": 1208263087,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -933,7 +1150,16 @@
         ]
       },
       "properties": {
-        "@id": 1208267988
+        "@id": 1208267988,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -956,7 +1182,16 @@
         ]
       },
       "properties": {
-        "@id": 1208267989
+        "@id": 1208267989,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     },
     {
@@ -979,7 +1214,16 @@
         ]
       },
       "properties": {
-        "@id": 1208267990
+        "@id": 1208267990,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -998,7 +1242,17 @@
         ]
       },
       "properties": {
-        "@id": 1208267991
+        "@id": 1208267991,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1029,7 +1283,15 @@
         ]
       },
       "properties": {
-        "@id": 1208267997
+        "@id": 1208267997,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1072,7 +1334,17 @@
         ]
       },
       "properties": {
-        "@id": 1208496346
+        "@id": 1208496346,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes:backward": "through;right",
+        "turn:lanes:forward": "through;right"
       }
     },
     {
@@ -1103,7 +1375,15 @@
         ]
       },
       "properties": {
-        "@id": 1208496350
+        "@id": 1208496350,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1122,7 +1402,15 @@
         ]
       },
       "properties": {
-        "@id": 1208887400
+        "@id": 1208887400,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Préfontaine",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1141,7 +1429,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423255
+        "@id": 1209423255,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1252,7 +1549,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423256
+        "@id": 1209423256,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1271,7 +1577,16 @@
         ]
       },
       "properties": {
-        "@id": 1209423264
+        "@id": 1209423264,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1386,7 +1701,13 @@
         ]
       },
       "properties": {
-        "@id": 1209703834
+        "@id": 1209703834,
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Pierre-Dupuy",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1465,7 +1786,13 @@
         ]
       },
       "properties": {
-        "@id": 1209703835
+        "@id": 1209703835,
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Pierre-Dupuy",
+        "sidewalk": "no",
+        "surface": "asphalt"
       }
     },
     {
@@ -1484,7 +1811,16 @@
         ]
       },
       "properties": {
-        "@id": 1209900393
+        "@id": 1209900393,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     },
     {
@@ -1507,7 +1843,16 @@
         ]
       },
       "properties": {
-        "@id": 1209900394
+        "@id": 1209900394,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     },
     {
@@ -1526,7 +1871,19 @@
         ]
       },
       "properties": {
-        "@id": 1210241793
+        "@id": 1210241793,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
       }
     },
     {
@@ -1545,7 +1902,19 @@
         ]
       },
       "properties": {
-        "@id": 1210241794
+        "@id": 1210241794,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
       }
     },
     {
@@ -1564,7 +1933,18 @@
         ]
       },
       "properties": {
-        "@id": 1210241795
+        "@id": 1210241795,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1619,7 +1999,16 @@
         ]
       },
       "properties": {
-        "@id": 1210241796
+        "@id": 1210241796,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1642,7 +2031,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241811
+        "@id": 1210241811,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1721,7 +2118,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241812
+        "@id": 1210241812,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1740,7 +2145,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241813
+        "@id": 1210241813,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1763,7 +2176,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241814
+        "@id": 1210241814,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1782,7 +2203,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241815
+        "@id": 1210241815,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1801,7 +2230,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241816
+        "@id": 1210241816,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1864,7 +2301,16 @@
         ]
       },
       "properties": {
-        "@id": 1210254503
+        "@id": 1210254503,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
       }
     }
   ]

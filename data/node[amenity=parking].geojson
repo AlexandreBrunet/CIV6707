@@ -73,7 +73,14 @@
         ]
       },
       "properties": {
-        "@id": 753010824
+        "@id": 753010824,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "16",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking:condition": "employee",
+        "surface": "asphalt"
       }
     },
     {
@@ -216,7 +223,16 @@
         ]
       },
       "properties": {
-        "@id": 1208190756
+        "@id": 1208190756,
+        "amenity": "parking",
+        "capacity": "330",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "fee": "yes",
+        "operator:type": "public",
+        "park_ride": "yes",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     },
     {
@@ -291,7 +307,13 @@
         ]
       },
       "properties": {
-        "@id": 1208190872
+        "@id": 1208190872,
+        "amenity": "parking",
+        "capacity": "120",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     },
     {
@@ -394,7 +416,13 @@
         ]
       },
       "properties": {
-        "@id": 1208190873
+        "@id": 1208190873,
+        "amenity": "parking",
+        "capacity": "220",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     },
     {
@@ -653,7 +681,15 @@
         ]
       },
       "properties": {
-        "@id": 1208274408
+        "@id": 1208274408,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "343",
+        "capacity:charging": "0",
+        "capacity:disabled": "3",
+        "fee": "yes",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -724,7 +760,14 @@
         ]
       },
       "properties": {
-        "@id": 1208754288
+        "@id": 1208754288,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "21",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -783,7 +826,15 @@
         ]
       },
       "properties": {
-        "@id": 1208754295
+        "@id": 1208754295,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "14",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "asphalt"
       }
     },
     {
@@ -826,7 +877,15 @@
         ]
       },
       "properties": {
-        "@id": 1208754302
+        "@id": 1208754302,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "14",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "asphalt"
       }
     },
     {
@@ -877,7 +936,15 @@
         ]
       },
       "properties": {
-        "@id": 1209686459
+        "@id": 1209686459,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "78",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "unpaved"
       }
     },
     {
@@ -972,7 +1039,14 @@
         ]
       },
       "properties": {
-        "@id": 1209686460
+        "@id": 1209686460,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "20",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -1039,7 +1113,15 @@
         ]
       },
       "properties": {
-        "@id": 1209686478
+        "@id": 1209686478,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "14",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "asphalt"
       }
     },
     {
@@ -1086,7 +1168,13 @@
         ]
       },
       "properties": {
-        "@id": 1209703839
+        "@id": 1209703839,
+        "amenity": "parking",
+        "capacity": "16",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -1121,7 +1209,17 @@
         ]
       },
       "properties": {
-        "@id": 1209703910
+        "@id": 1209703910,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "13",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "hgv": "private",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "asphalt",
+        "truck": "private"
       }
     },
     {
@@ -1168,7 +1266,12 @@
         ]
       },
       "properties": {
-        "@id": 1209703911
+        "@id": 1209703911,
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "asphalt"
       }
     },
     {
@@ -1207,7 +1310,14 @@
         ]
       },
       "properties": {
-        "@id": 1209703913
+        "@id": 1209703913,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "6",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -1286,7 +1396,14 @@
         ]
       },
       "properties": {
-        "@id": 1209703914
+        "@id": 1209703914,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "22",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -1341,7 +1458,14 @@
         ]
       },
       "properties": {
-        "@id": 1209703915
+        "@id": 1209703915,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "26",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -1380,7 +1504,15 @@
         ]
       },
       "properties": {
-        "@id": 1209703916
+        "@id": 1209703916,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "6",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "asphalt"
       }
     },
     {
@@ -1483,7 +1615,10 @@
         ]
       },
       "properties": {
-        "@id": 1209704750
+        "@id": 1209704750,
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "fine_gravel"
       }
     },
     {
@@ -1634,7 +1769,15 @@
         ]
       },
       "properties": {
-        "@id": 1210241836
+        "@id": 1210241836,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "98",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "asphalt"
       }
     },
     {
@@ -1721,7 +1864,15 @@
         ]
       },
       "properties": {
-        "@id": 1210254509
+        "@id": 1210254509,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "84",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "residents",
+        "surface": "fine_gravel"
       }
     },
     {
@@ -1800,7 +1951,15 @@
         ]
       },
       "properties": {
-        "@id": 1210444643
+        "@id": 1210444643,
+        "access": "private",
+        "amenity": "parking",
+        "capacity": "123",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "parking:condition": "employee",
+        "surface": "asphalt"
       }
     },
     {
@@ -1943,7 +2102,11 @@
         ]
       },
       "properties": {
-        "@id": 1210877100
+        "@id": 1210877100,
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     },
     {
@@ -1998,7 +2161,14 @@
         ]
       },
       "properties": {
-        "@id": 1210887054
+        "@id": 1210887054,
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "40",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     },
     {
@@ -2033,7 +2203,13 @@
         ]
       },
       "properties": {
-        "@id": 1210887062
+        "@id": 1210887062,
+        "amenity": "parking",
+        "capacity": "26",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "asphalt"
       }
     },
     {
@@ -2144,7 +2320,13 @@
         ]
       },
       "properties": {
-        "@id": 1210960379
+        "@id": 1210960379,
+        "amenity": "parking",
+        "capacity": "100",
+        "capacity:charging": "0",
+        "capacity:disabled": "0",
+        "parking": "surface",
+        "surface": "unpaved"
       }
     }
   ]
