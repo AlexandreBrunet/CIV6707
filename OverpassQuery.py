@@ -60,13 +60,13 @@ queries = {
         (poly:"{polygone}");
         out geom;
     """,
-    "query10": f"""
-        node[amenity=parking]
-        (poly:"{polygone}");
-        area[amenity=parking]
-        (poly:"{polygone}");
-        out geom;
-    """,
+    # "query10": f"""
+    #     node[amenity=parking]
+    #     (poly:"{polygone}");
+    #     area[amenity=parking]
+    #     (poly:"{polygone}");
+    #     out geom;
+    # """,
     "query11": f"""
         node[amenity~"^college|school|university|kindergarten$"]
         (poly:"{polygone}");
@@ -160,7 +160,35 @@ queries = {
             (poly:"{polygone}");
         out geom;
     """,
-
+    "query26": f"""
+        way["landuse"="residential"]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query27": f"""
+        way["amenity"="parking"]
+            (poly:"{polygone}");
+        out geom;
+    """,
+    "query28": f"""
+        way["amenity"="parking"]["type"="multipolygon"]
+            (poly:"{polygone}");
+        relation["amenity"="parking"]["type"="multipolygon"]
+            (poly:"{polygone}");
+        out body;
+        >;
+        out skel qt;    
+    """,
+    "query29": f"""
+        node["amenity"="drinking_water"]
+            (poly:"{polygone}");
+        out;  
+    """,
+    "query30": f"""
+        node["amenity"="bicycle_parking"]
+            (poly:"{polygone}");
+        out;  
+    """,
 }
 
 # TODO : Nombre de buildings résidentiels et nombre de ménages?
