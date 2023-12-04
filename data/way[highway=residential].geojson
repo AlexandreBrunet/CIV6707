@@ -1,0 +1,2516 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515849,
+            45.533145
+          ],
+          [
+            -73.515969,
+            45.533197
+          ],
+          [
+            -73.516006,
+            45.53321
+          ],
+          [
+            -73.516045,
+            45.533223
+          ],
+          [
+            -73.516387,
+            45.533341
+          ],
+          [
+            -73.516546,
+            45.533396
+          ],
+          [
+            -73.516735,
+            45.533461
+          ],
+          [
+            -73.516994,
+            45.533552
+          ],
+          [
+            -73.517259,
+            45.533644
+          ],
+          [
+            -73.517361,
+            45.533679
+          ],
+          [
+            -73.517445,
+            45.533708
+          ],
+          [
+            -73.517649,
+            45.533778
+          ],
+          [
+            -73.518211,
+            45.533964
+          ],
+          [
+            -73.518237,
+            45.533974
+          ],
+          [
+            -73.518268,
+            45.533986
+          ],
+          [
+            -73.518323,
+            45.534006
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 19710004,
+        "highway": "residential",
+        "maxspeed": "40",
+        "name": "Rue de Châteauguay",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516331,
+            45.507036
+          ],
+          [
+            -73.517027,
+            45.507298
+          ],
+          [
+            -73.517105,
+            45.507327
+          ],
+          [
+            -73.51713,
+            45.507332
+          ],
+          [
+            -73.51716,
+            45.507334
+          ],
+          [
+            -73.517252,
+            45.507338
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 24407893,
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Avenue Pine",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517356,
+            45.508313
+          ],
+          [
+            -73.51733,
+            45.508316
+          ],
+          [
+            -73.517304,
+            45.508318
+          ],
+          [
+            -73.517278,
+            45.508318
+          ],
+          [
+            -73.517257,
+            45.508317
+          ],
+          [
+            -73.517229,
+            45.508313
+          ],
+          [
+            -73.517076,
+            45.508256
+          ],
+          [
+            -73.515784,
+            45.507773
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 24458429,
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Avenue Maple",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.517621,
+            45.509337
+          ],
+          [
+            -73.517595,
+            45.509339
+          ],
+          [
+            -73.517569,
+            45.509341
+          ],
+          [
+            -73.51755,
+            45.509341
+          ],
+          [
+            -73.517519,
+            45.50934
+          ],
+          [
+            -73.517501,
+            45.509338
+          ],
+          [
+            -73.51748,
+            45.509334
+          ],
+          [
+            -73.517461,
+            45.50933
+          ],
+          [
+            -73.5172,
+            45.509234
+          ],
+          [
+            -73.515237,
+            45.508503
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 24458430,
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Avenue Walnut",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.515663,
+            45.51409
+          ],
+          [
+            -73.51662,
+            45.514443
+          ],
+          [
+            -73.517949,
+            45.51493
+          ],
+          [
+            -73.517999,
+            45.514948
+          ],
+          [
+            -73.518025,
+            45.514954
+          ],
+          [
+            -73.518054,
+            45.514956
+          ],
+          [
+            -73.518111,
+            45.514952
+          ],
+          [
+            -73.518165,
+            45.514944
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 24458451,
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Avenue Durocher",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519032,
+            45.531577
+          ],
+          [
+            -73.519063,
+            45.531543
+          ],
+          [
+            -73.519088,
+            45.531512
+          ],
+          [
+            -73.519109,
+            45.531484
+          ],
+          [
+            -73.519137,
+            45.531447
+          ],
+          [
+            -73.519374,
+            45.531103
+          ],
+          [
+            -73.519397,
+            45.531065
+          ],
+          [
+            -73.519419,
+            45.531028
+          ],
+          [
+            -73.519444,
+            45.530987
+          ],
+          [
+            -73.519463,
+            45.530957
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 25875362,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513522,
+            45.526291
+          ],
+          [
+            -73.513408,
+            45.526287
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 26697601,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Duvernay",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513518,
+            45.524654
+          ],
+          [
+            -73.513369,
+            45.524653
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 26697635,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Cartier",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.51393,
+            45.535229
+          ],
+          [
+            -73.514036,
+            45.535257
+          ],
+          [
+            -73.514065,
+            45.535266
+          ],
+          [
+            -73.514105,
+            45.53528
+          ],
+          [
+            -73.514165,
+            45.5353
+          ],
+          [
+            -73.514411,
+            45.535383
+          ],
+          [
+            -73.514565,
+            45.535434
+          ],
+          [
+            -73.514951,
+            45.535564
+          ],
+          [
+            -73.515391,
+            45.535711
+          ],
+          [
+            -73.515523,
+            45.535755
+          ],
+          [
+            -73.515804,
+            45.53585
+          ],
+          [
+            -73.51625,
+            45.536005
+          ],
+          [
+            -73.516396,
+            45.536053
+          ],
+          [
+            -73.516438,
+            45.536068
+          ],
+          [
+            -73.516544,
+            45.536107
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 39513148,
+        "highway": "residential",
+        "name": "Rue Labonté",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513427,
+            45.527179
+          ],
+          [
+            -73.513545,
+            45.527189
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 40216044,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Dollard",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513508,
+            45.528113
+          ],
+          [
+            -73.5134,
+            45.528112
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 41889029,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue Marmier",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519828,
+            45.526747
+          ],
+          [
+            -73.519834,
+            45.526778
+          ],
+          [
+            -73.519835,
+            45.526812
+          ],
+          [
+            -73.519837,
+            45.526843
+          ],
+          [
+            -73.519817,
+            45.52712
+          ],
+          [
+            -73.519793,
+            45.527405
+          ],
+          [
+            -73.519772,
+            45.527677
+          ],
+          [
+            -73.519769,
+            45.527743
+          ],
+          [
+            -73.519765,
+            45.52781
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 42056058,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue De La Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.512739,
+            45.536466
+          ],
+          [
+            -73.512842,
+            45.536502
+          ],
+          [
+            -73.513044,
+            45.536572
+          ],
+          [
+            -73.513186,
+            45.536621
+          ],
+          [
+            -73.513313,
+            45.536665
+          ],
+          [
+            -73.513429,
+            45.536705
+          ],
+          [
+            -73.513479,
+            45.536722
+          ],
+          [
+            -73.513554,
+            45.536749
+          ],
+          [
+            -73.513688,
+            45.536795
+          ],
+          [
+            -73.514054,
+            45.536922
+          ],
+          [
+            -73.51418,
+            45.536966
+          ],
+          [
+            -73.51449,
+            45.537073
+          ],
+          [
+            -73.514707,
+            45.537149
+          ],
+          [
+            -73.514977,
+            45.537202
+          ],
+          [
+            -73.515205,
+            45.537283
+          ],
+          [
+            -73.515247,
+            45.537302
+          ],
+          [
+            -73.515264,
+            45.53731
+          ],
+          [
+            -73.515281,
+            45.537319
+          ],
+          [
+            -73.515346,
+            45.537356
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 44815077,
+        "highway": "residential",
+        "name": "Rue Saint-Sylvestre",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522922,
+            45.523515
+          ],
+          [
+            -73.522958,
+            45.523517
+          ],
+          [
+            -73.523165,
+            45.523528
+          ],
+          [
+            -73.523486,
+            45.523543
+          ],
+          [
+            -73.523608,
+            45.523548
+          ],
+          [
+            -73.523738,
+            45.523554
+          ],
+          [
+            -73.523773,
+            45.523555
+          ],
+          [
+            -73.523882,
+            45.523552
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 95440147,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "oneway:bus": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523473,
+            45.525541
+          ],
+          [
+            -73.523613,
+            45.525572
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 149510475,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519421,
+            45.527937
+          ],
+          [
+            -73.519464,
+            45.527889
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 183603165,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519765,
+            45.52781
+          ],
+          [
+            -73.519902,
+            45.527816
+          ],
+          [
+            -73.520395,
+            45.527834
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 183603166,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519765,
+            45.52781
+          ],
+          [
+            -73.519561,
+            45.527775
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 183603167,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522727,
+            45.525502
+          ],
+          [
+            -73.522799,
+            45.525505
+          ],
+          [
+            -73.522861,
+            45.525508
+          ],
+          [
+            -73.523429,
+            45.525538
+          ],
+          [
+            -73.523473,
+            45.525541
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 459123779,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520607,
+            45.52553
+          ],
+          [
+            -73.520774,
+            45.525541
+          ],
+          [
+            -73.52114,
+            45.525572
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 686674271,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519429,
+            45.525473
+          ],
+          [
+            -73.519527,
+            45.525478
+          ],
+          [
+            -73.519575,
+            45.52548
+          ],
+          [
+            -73.519956,
+            45.525497
+          ],
+          [
+            -73.520436,
+            45.52552
+          ],
+          [
+            -73.520465,
+            45.525521
+          ],
+          [
+            -73.520607,
+            45.52553
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 710200376,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522512,
+            45.525694
+          ],
+          [
+            -73.522561,
+            45.525696
+          ],
+          [
+            -73.522594,
+            45.525693
+          ],
+          [
+            -73.522622,
+            45.525689
+          ],
+          [
+            -73.522641,
+            45.525682
+          ],
+          [
+            -73.522671,
+            45.525663
+          ],
+          [
+            -73.522691,
+            45.525646
+          ],
+          [
+            -73.522704,
+            45.525626
+          ],
+          [
+            -73.522716,
+            45.525589
+          ],
+          [
+            -73.522727,
+            45.525502
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 754089105,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523016,
+            45.52783
+          ],
+          [
+            -73.523064,
+            45.527761
+          ],
+          [
+            -73.523122,
+            45.527668
+          ],
+          [
+            -73.523192,
+            45.527558
+          ],
+          [
+            -73.523256,
+            45.527455
+          ],
+          [
+            -73.523265,
+            45.527441
+          ],
+          [
+            -73.523294,
+            45.527394
+          ],
+          [
+            -73.523341,
+            45.527316
+          ],
+          [
+            -73.523381,
+            45.527246
+          ],
+          [
+            -73.523419,
+            45.527172
+          ],
+          [
+            -73.523457,
+            45.527098
+          ],
+          [
+            -73.523496,
+            45.527016
+          ],
+          [
+            -73.523537,
+            45.526932
+          ],
+          [
+            -73.523568,
+            45.526854
+          ],
+          [
+            -73.523613,
+            45.52673
+          ],
+          [
+            -73.523646,
+            45.526632
+          ],
+          [
+            -73.523674,
+            45.526532
+          ],
+          [
+            -73.523697,
+            45.526444
+          ],
+          [
+            -73.523718,
+            45.526348
+          ],
+          [
+            -73.523734,
+            45.526278
+          ],
+          [
+            -73.523746,
+            45.526196
+          ],
+          [
+            -73.523755,
+            45.526121
+          ],
+          [
+            -73.523762,
+            45.526049
+          ],
+          [
+            -73.523765,
+            45.526018
+          ],
+          [
+            -73.523772,
+            45.525912
+          ],
+          [
+            -73.523777,
+            45.525816
+          ],
+          [
+            -73.523782,
+            45.525751
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 779593511,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522727,
+            45.525502
+          ],
+          [
+            -73.522741,
+            45.525346
+          ],
+          [
+            -73.522747,
+            45.525281
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 779593513,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.514726,
+            45.534545
+          ],
+          [
+            -73.514793,
+            45.534567
+          ],
+          [
+            -73.51481,
+            45.534573
+          ],
+          [
+            -73.515042,
+            45.534652
+          ],
+          [
+            -73.515105,
+            45.534673
+          ],
+          [
+            -73.515175,
+            45.534697
+          ],
+          [
+            -73.515574,
+            45.534832
+          ],
+          [
+            -73.515623,
+            45.534848
+          ],
+          [
+            -73.515814,
+            45.534913
+          ],
+          [
+            -73.515924,
+            45.53495
+          ],
+          [
+            -73.516005,
+            45.534977
+          ],
+          [
+            -73.516051,
+            45.534993
+          ],
+          [
+            -73.516076,
+            45.535001
+          ],
+          [
+            -73.516445,
+            45.535126
+          ],
+          [
+            -73.516747,
+            45.535228
+          ],
+          [
+            -73.516771,
+            45.535237
+          ],
+          [
+            -73.516849,
+            45.535263
+          ],
+          [
+            -73.517023,
+            45.535325
+          ],
+          [
+            -73.517065,
+            45.535341
+          ],
+          [
+            -73.517162,
+            45.535378
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 840584137,
+        "highway": "residential",
+        "name": "Boulevard Quinn",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523613,
+            45.525572
+          ],
+          [
+            -73.523661,
+            45.52559
+          ],
+          [
+            -73.52369,
+            45.525604
+          ],
+          [
+            -73.523727,
+            45.525626
+          ],
+          [
+            -73.523742,
+            45.525641
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263064,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523782,
+            45.525751
+          ],
+          [
+            -73.523782,
+            45.525719
+          ],
+          [
+            -73.523779,
+            45.525695
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263068,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.523742,
+            45.525641
+          ],
+          [
+            -73.523779,
+            45.525695
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263070,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "no",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52114,
+            45.525572
+          ],
+          [
+            -73.521576,
+            45.52561
+          ],
+          [
+            -73.521695,
+            45.525631
+          ],
+          [
+            -73.521837,
+            45.525645
+          ],
+          [
+            -73.521928,
+            45.525652
+          ],
+          [
+            -73.522047,
+            45.52566
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208263087,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519573,
+            45.527831
+          ],
+          [
+            -73.519765,
+            45.52781
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267988,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519561,
+            45.527775
+          ],
+          [
+            -73.519527,
+            45.527765
+          ],
+          [
+            -73.519492,
+            45.527751
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267989,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519464,
+            45.527889
+          ],
+          [
+            -73.519484,
+            45.527868
+          ],
+          [
+            -73.519502,
+            45.527857
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267990,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519458,
+            45.527728
+          ],
+          [
+            -73.519429,
+            45.527695
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267991,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519492,
+            45.527751
+          ],
+          [
+            -73.519476,
+            45.527741
+          ],
+          [
+            -73.519458,
+            45.527728
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267996,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519502,
+            45.527857
+          ],
+          [
+            -73.519516,
+            45.527848
+          ],
+          [
+            -73.519529,
+            45.527843
+          ],
+          [
+            -73.519547,
+            45.527837
+          ],
+          [
+            -73.519573,
+            45.527831
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208267997,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519828,
+            45.526747
+          ],
+          [
+            -73.519714,
+            45.526759
+          ],
+          [
+            -73.519696,
+            45.526761
+          ],
+          [
+            -73.519634,
+            45.526766
+          ],
+          [
+            -73.519596,
+            45.526768
+          ],
+          [
+            -73.519557,
+            45.52677
+          ],
+          [
+            -73.51952,
+            45.526775
+          ],
+          [
+            -73.519438,
+            45.52679
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208496346,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes:backward": "through;right",
+        "turn:lanes:forward": "through;right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520607,
+            45.52553
+          ],
+          [
+            -73.520602,
+            45.525588
+          ],
+          [
+            -73.5206,
+            45.525611
+          ],
+          [
+            -73.520596,
+            45.525658
+          ],
+          [
+            -73.520578,
+            45.525899
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208496350,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.513353,
+            45.523714
+          ],
+          [
+            -73.513505,
+            45.523712
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1208887400,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue Préfontaine",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.5194,
+            45.530813
+          ],
+          [
+            -73.519463,
+            45.530957
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423255,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519557,
+            45.530834
+          ],
+          [
+            -73.519612,
+            45.530755
+          ],
+          [
+            -73.51962,
+            45.530742
+          ],
+          [
+            -73.519637,
+            45.530712
+          ],
+          [
+            -73.519639,
+            45.530709
+          ],
+          [
+            -73.519646,
+            45.530692
+          ],
+          [
+            -73.519647,
+            45.530675
+          ],
+          [
+            -73.519643,
+            45.530659
+          ],
+          [
+            -73.519634,
+            45.530643
+          ],
+          [
+            -73.519621,
+            45.530629
+          ],
+          [
+            -73.519604,
+            45.530617
+          ],
+          [
+            -73.519583,
+            45.530608
+          ],
+          [
+            -73.519559,
+            45.5306
+          ],
+          [
+            -73.519535,
+            45.530594
+          ],
+          [
+            -73.51951,
+            45.530592
+          ],
+          [
+            -73.519486,
+            45.530593
+          ],
+          [
+            -73.519461,
+            45.530597
+          ],
+          [
+            -73.519439,
+            45.530604
+          ],
+          [
+            -73.519418,
+            45.530614
+          ],
+          [
+            -73.519401,
+            45.530626
+          ],
+          [
+            -73.519386,
+            45.530643
+          ],
+          [
+            -73.519376,
+            45.530656
+          ],
+          [
+            -73.519371,
+            45.53067
+          ],
+          [
+            -73.519372,
+            45.530689
+          ],
+          [
+            -73.5194,
+            45.530813
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423256,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.519463,
+            45.530957
+          ],
+          [
+            -73.519557,
+            45.530834
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209423264,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Place de la Louisiane",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520395,
+            45.527834
+          ],
+          [
+            -73.520594,
+            45.527842
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209900393,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520594,
+            45.527842
+          ],
+          [
+            -73.521274,
+            45.527872
+          ],
+          [
+            -73.522293,
+            45.527922
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1209900394,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522047,
+            45.52566
+          ],
+          [
+            -73.522152,
+            45.525668
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241793,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:start": "|0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522409,
+            45.525687
+          ],
+          [
+            -73.522512,
+            45.525694
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241794,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "transition",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "width:lanes:end": "|0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522152,
+            45.525668
+          ],
+          [
+            -73.522409,
+            45.525687
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241795,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Place Charles-Le Moyne",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522747,
+            45.525281
+          ],
+          [
+            -73.522756,
+            45.525176
+          ],
+          [
+            -73.522773,
+            45.525113
+          ],
+          [
+            -73.522803,
+            45.524777
+          ],
+          [
+            -73.522816,
+            45.524655
+          ],
+          [
+            -73.522865,
+            45.524086
+          ],
+          [
+            -73.522906,
+            45.52365
+          ],
+          [
+            -73.522912,
+            45.523618
+          ],
+          [
+            -73.522915,
+            45.523602
+          ],
+          [
+            -73.522918,
+            45.523582
+          ],
+          [
+            -73.522922,
+            45.523515
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241796,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de Sérigny",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520545,
+            45.526271
+          ],
+          [
+            -73.520541,
+            45.526319
+          ],
+          [
+            -73.520536,
+            45.526377
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241811,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.52052,
+            45.526546
+          ],
+          [
+            -73.520512,
+            45.526639
+          ],
+          [
+            -73.520507,
+            45.526662
+          ],
+          [
+            -73.520503,
+            45.52668
+          ],
+          [
+            -73.520495,
+            45.526691
+          ],
+          [
+            -73.520482,
+            45.526707
+          ],
+          [
+            -73.520465,
+            45.526721
+          ],
+          [
+            -73.520444,
+            45.526732
+          ],
+          [
+            -73.520423,
+            45.526738
+          ],
+          [
+            -73.520389,
+            45.526745
+          ],
+          [
+            -73.520356,
+            45.526745
+          ],
+          [
+            -73.520323,
+            45.526744
+          ],
+          [
+            -73.520079,
+            45.52673
+          ],
+          [
+            -73.520036,
+            45.526729
+          ],
+          [
+            -73.519988,
+            45.526731
+          ],
+          [
+            -73.519945,
+            45.526734
+          ],
+          [
+            -73.519828,
+            45.526747
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241812,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520536,
+            45.526377
+          ],
+          [
+            -73.52052,
+            45.526546
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241813,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520571,
+            45.525981
+          ],
+          [
+            -73.520567,
+            45.526031
+          ],
+          [
+            -73.520563,
+            45.526082
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241814,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520578,
+            45.525899
+          ],
+          [
+            -73.520571,
+            45.525981
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241815,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.520563,
+            45.526082
+          ],
+          [
+            -73.520545,
+            45.526271
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210241816,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Rue d'Assigny",
+        "oneway": "no",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.522293,
+            45.527922
+          ],
+          [
+            -73.52245,
+            45.527931
+          ],
+          [
+            -73.522658,
+            45.52794
+          ],
+          [
+            -73.52272,
+            45.527941
+          ],
+          [
+            -73.522768,
+            45.52794
+          ],
+          [
+            -73.522817,
+            45.527937
+          ],
+          [
+            -73.522853,
+            45.527931
+          ],
+          [
+            -73.522885,
+            45.527921
+          ],
+          [
+            -73.522918,
+            45.527907
+          ],
+          [
+            -73.522949,
+            45.527889
+          ],
+          [
+            -73.522976,
+            45.527868
+          ],
+          [
+            -73.522995,
+            45.527853
+          ],
+          [
+            -73.523016,
+            45.52783
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210254503,
+        "foot": "use_sidepath",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "Rue de la Barre",
+        "sidewalk:both": "separate",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.5134,
+            45.528112
+          ],
+          [
+            -73.513329,
+            45.528109
+          ],
+          [
+            -73.513303,
+            45.528106
+          ],
+          [
+            -73.513273,
+            45.528101
+          ],
+          [
+            -73.513074,
+            45.528038
+          ],
+          [
+            -73.512545,
+            45.527869
+          ],
+          [
+            -73.510855,
+            45.527335
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210319425,
+        "highway": "residential",
+        "name": "Rue Marmier",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.516735,
+            45.532545
+          ],
+          [
+            -73.516796,
+            45.532565
+          ],
+          [
+            -73.517089,
+            45.532664
+          ],
+          [
+            -73.51798,
+            45.532965
+          ],
+          [
+            -73.518053,
+            45.532989
+          ],
+          [
+            -73.518203,
+            45.533039
+          ],
+          [
+            -73.51837,
+            45.533097
+          ],
+          [
+            -73.518811,
+            45.533247
+          ],
+          [
+            -73.51885,
+            45.53326
+          ],
+          [
+            -73.518916,
+            45.533284
+          ]
+        ]
+      },
+      "properties": {
+        "@id": 1210649713,
+        "highway": "residential",
+        "name": "Rue Jean-Béliveau",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}

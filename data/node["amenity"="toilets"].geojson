@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.522427,
+          45.524641
+        ]
+      },
+      "properties": {
+        "@id": 1106702190,
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.517929,
+          45.506336
+        ]
+      },
+      "properties": {
+        "@id": 1792004632,
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.516511,
+          45.528463
+        ]
+      },
+      "properties": {
+        "@id": 11214433579,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "825",
+        "addr:postcode": "J4K 2V1",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Charles Ouest",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "toilets:disposal": "flush"
+      }
+    }
+  ]
+}

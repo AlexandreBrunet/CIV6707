@@ -1,0 +1,307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521592,
+          45.524592
+        ]
+      },
+      "properties": {
+        "@id": 1106702196,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521298,
+          45.524151
+        ]
+      },
+      "properties": {
+        "@id": 1106702203,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Soleil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521336,
+          45.523722
+        ]
+      },
+      "properties": {
+        "@id": 1106702243,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.514806,
+          45.528118
+        ]
+      },
+      "properties": {
+        "@id": 6616910288,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "825",
+        "addr:postcode": "J4K 2V1",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Charles Ouest",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521302,
+          45.524096
+        ]
+      },
+      "properties": {
+        "@id": 7978027101,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "name": "Ô Bánh Mi",
+        "opening_hours": "Mo-Fr 11:00-18:00",
+        "phone": "+1 450 679 9777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521293,
+          45.52424
+        ]
+      },
+      "properties": {
+        "@id": 11197561152,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "brand": "Sushi Shop",
+        "brand:wikidata": "Q64840990",
+        "cuisine": "sushi",
+        "name": "Sushi Shop",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.520442,
+          45.525085
+        ]
+      },
+      "properties": {
+        "@id": 11197561154,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "150",
+        "addr:postcode": "J4K 0A8",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "brand": "Thaï Express",
+        "brand:wikidata": "Q7711610",
+        "brand:wikipedia": "en:Thaï Express",
+        "cuisine": "thai",
+        "name": "Thaï Express",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.519511,
+          45.517192
+        ]
+      },
+      "properties": {
+        "@id": 11199678859,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "1485",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Charles Ouest",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521286,
+          45.524345
+        ]
+      },
+      "properties": {
+        "@id": 11202065707,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "brand": "A&W",
+        "brand:wikidata": "Q2818848",
+        "brand:wikipedia": "en:A&W (Canada)",
+        "cuisine": "burger",
+        "fixme": "position inside terminal approximate",
+        "name": "A&W",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.516315,
+          45.528166
+        ]
+      },
+      "properties": {
+        "@id": 11215533432,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "825",
+        "addr:postcode": "J4K 2V1",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Charles Ouest",
+        "amenity": "fast_food",
+        "brand": "Valentine",
+        "brand:wikidata": "Q3553635",
+        "brand:wikipedia": "fr:Valentine (restaurant)",
+        "cuisine": "burger",
+        "name": "Valentine",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.516339,
+          45.528209
+        ]
+      },
+      "properties": {
+        "@id": 11215533433,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "825",
+        "addr:postcode": "J4K 2V1",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Charles Ouest",
+        "amenity": "fast_food",
+        "cuisine": "lebanese",
+        "name": "Monsieur Taoukl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.516378,
+          45.528363
+        ]
+      },
+      "properties": {
+        "@id": 11215559379,
+        "amenity": "fast_food",
+        "cuisine": "cambodian",
+        "name": "Angkor Grill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521321,
+          45.523925
+        ]
+      },
+      "properties": {
+        "@id": 11220730620,
+        "addr:city": "Longueuil",
+        "addr:housenumber": "120",
+        "addr:postcode": "J4K 2T4",
+        "addr:province": "QC",
+        "addr:street": "Place Charles-Le Moyne",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "Village Istanbul"
+      }
+    }
+  ]
+}
