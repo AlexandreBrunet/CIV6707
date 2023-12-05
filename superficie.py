@@ -45,7 +45,7 @@ def calculate_polygon_area(geojson_path):
 
 
 
-geojson_path = './data/area[landuse=residential].geojson'
-geojson_path_modified = './data/area[landuse=residential]_modified.geojson'
+geojson_path = './data/area[landuse=commercial].geojson'
+geojson_path_modified = './data/area[landuse=commercial]_modified.geojson'
 convert_geojson_line_to_polygon(geojson_path)
 calculate_polygon_area(geojson_path_modified)

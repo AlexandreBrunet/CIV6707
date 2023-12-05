@@ -230,6 +230,11 @@ queries = {
             (poly:"{polygone}");
         out geom;  
     """,
+    "query38": f"""
+        area[landuse=commercial]
+            (poly:"{polygone}");
+        out geom;  
+    """,
 }
 
 # TODO : Nombre de buildings résidentiels et nombre de ménages?
