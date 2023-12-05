@@ -17,7 +17,7 @@ def convert_element_to_geojson(element):
         geometry_type = 'MultiPolygon'
         coordinates = []
         for member in element.members:
-            if isinstance(member, overpy.Way):  # Check if the member is a Way
+            if isinstance(member, overpy.Way):
                 coordinates.append([[float(node.lon), float(node.lat)] for node in member.get_nodes(resolve_missing=True)])
     else:
         # Ajouter d'autres types d'éléments
