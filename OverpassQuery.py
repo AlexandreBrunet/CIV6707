@@ -112,11 +112,11 @@ queries = {
         (poly:"{polygone}");
         out geom;
     """,
-    "query18": f"""
-        area[landuse=residential]
-        (poly:"{polygone}");
-        out geom;
-    """,
+    # "query18": f"""
+    #     area[landuse=residential]
+    #     (poly:"{polygone}");
+    #     out geom;
+    # """,
     "query19": f"""
         area[leisure=park]
         (poly:"{polygone}");
@@ -222,6 +222,11 @@ queries = {
     """,
     "query37": f"""
         way[highway=residential]
+            (poly:"{polygone}");
+        out geom;  
+    """,
+    "query37": f"""
+        area[landuse=residential]
             (poly:"{polygone}");
         out geom;  
     """,
